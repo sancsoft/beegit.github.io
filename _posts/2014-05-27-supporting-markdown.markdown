@@ -74,7 +74,7 @@ But it still offers the tools you need, as the markup handles all of the followi
 
 Markdown support is part of a bigger plan to make it easier for people to work together on content with Beegit. We're putting all the parts together and will have them available soon. Our beta release is coming next month, and we welcome you to come see what we're doing by registering at [www.beegit.com](https://beegit.com).
 
---
+---
 
 Mike Cottrill is the co-founder and CEO of Beegit. Find Mike on Twitter @[mrcottrill](https://twitter.com/mrcottrill) or connect with him on [LinkedIn](http://www.linkedin.com/in/mikecottrill). 
 

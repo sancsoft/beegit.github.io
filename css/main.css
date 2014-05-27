@@ -309,7 +309,14 @@ a.mainNav:hover {
   height: auto;
   margin: 0;
   border-radius: 6px;
-  
+}
+
+hr {
+   border-top: 1px solid #e8e8e8;
+   border-left: 0;
+   border-right: 0;
+   border-bottom: 0;
+
 }
 
 
