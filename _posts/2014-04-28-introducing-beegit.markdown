@@ -3,6 +3,7 @@ layout: post
 title:  "Introducing Beegit: A better way to work together on content"
 date:   2014-04-28 18:28:46
 teaser: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus augue elit, bibendum eget blandit quis, vestibulum ut leo. Quisque neque nisl, varius sed mattis eget, elementum nec mauris. Curabitur ac suscipit magna, nec tristique lorem. Nunc tempus, nulla vel laoreet egestas, nisi mi cursus augue, quis tincidunt nunc magna quis massa. Suspendisse ullamcorper ligula urna, sed feugiat enim vulputate non.
+image: http://www.freewebheaders.com/wordpress/wp-content/gallery/forests-fields/autumn-forest-trees-blog-header.jpg
 ---
 
 
@@ -18,7 +19,7 @@ There are at least 10,000 ways to share your content, but at Beegit we got stuck
 
 ### We were not alone in our dissatisfaction. 
 
-When I met [JD Eaton](https://beegit.com/jeaton/profile) and [Kris Ciccarello](https://beegit.com/kciccarello/profile), my partners at Beegit, we all had our own scars from very different journeys in content. 
+When I met [JD Eaton](https://beegit.com/jd/profile) and [Kris Ciccarello](https://beegit.com/kris/profile), my partners at Beegit, we all had our own scars from very different journeys in content. 
 
 Mine came from handling content assets at a magazine that was moving toward becoming an outsourced content marketing arm for brands. I quickly learned that there are no fewer than 1 million ways for projects to go off track or end up with clients working on the wrong version. A few of the usual suspects: emailed changes that got lost in an inbox; Different versions of the same file on a shared public or cloud drive with the wrong one labeled “current”; conflicting suggestions in Word’s track changes, forcing a project manager to make a call on which one to take and creating an infinite loop of confusion. 
 
