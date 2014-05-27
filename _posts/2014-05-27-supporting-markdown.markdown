@@ -16,7 +16,7 @@ To save our team time, we dropped the print formatting on the designers. They to
 
 Forget for a moment about the version control issues having three different documents created and think about the time and productivity we lost on formatting. 
 
-At Beegit, we’ve been [sharing our story](http://blog.beegit.com/2014/04/28/introducing-beegit/). When we asked professional writers and content developers what they wanted in a word processor,their demands were simple but unmet. 
+At Beegit, we’ve been [sharing our story](http://blog.beegit.com/2014/04/28/introducing-beegit/). When we asked professional writers and content developers what they wanted in a word processor, their demands were simple but unmet. 
 
 Not surprisingly, many content professionals had the same formatting issues I described, and their short list included text formatting that worked with web and print. But easier text formatting exists, people just haven't been given the word processor to take advantage of it. At Beegit, we're working to simplify content development by building our editor with Markdown support. 
 
