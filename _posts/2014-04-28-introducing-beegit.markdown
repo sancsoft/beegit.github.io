@@ -3,7 +3,7 @@ layout: post
 title:  "Introducing Beegit: A better way to work together on content"
 date:   2014-04-28 18:28:46
 teaser: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus augue elit, bibendum eget blandit quis, vestibulum ut leo. Quisque neque nisl, varius sed mattis eget, elementum nec mauris. Curabitur ac suscipit magna, nec tristique lorem. Nunc tempus, nulla vel laoreet egestas, nisi mi cursus augue, quis tincidunt nunc magna quis massa. Suspendisse ullamcorper ligula urna, sed feugiat enim vulputate non.
-image: /assets/2014-04-28.png
+image: /assets/2014-04-28.jpg
 ---
 
 
