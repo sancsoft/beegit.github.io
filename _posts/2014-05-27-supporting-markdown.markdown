@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Building a better word processor, Step 1: Support Markdown so it works with web and print"
+title:  "Building a better word processor with Markdown support"
 date:   2014-05-27 18:28:46
 teaser: Back in my newsroom days, I would often be slogging away toward deadline while dreaming up a world where content production wasn’t so difficult. For the most part, we had a modern newsroom. We had freelance writers and staff members with mobile technology filing their stories from the field or office via a shared drive or email. But once we tried to put their raw content files into production, we faced a constant breakdown of the creaky content production processes of the day.
-image: 
+image: /assets/2014-05-27.jpg
 ---
 
 Back in my newsroom days, I would often be slogging away toward deadline while dreaming up a world where content production wasn’t so difficult. 
@@ -72,11 +72,11 @@ But it still offers the tools you need, as the markup handles all of the followi
 
 ### Markdown support helps make a better word processor 
 
-Markdown support is part of a bigger plan to make it easier for people to work together on content with Beegit. We're putting all the parts together and will have them available soon. Our beta release is coming next month, and we welcome you to come see what we're doing by registering at [www.beegit.com](www.beegit.com).
+Markdown support is part of a bigger plan to make it easier for people to work together on content with Beegit. We're putting all the parts together and will have them available soon. Our beta release is coming next month, and we welcome you to come see what we're doing by registering at [www.beegit.com](https://beegit.com).
 
 --
 
-Mike Cottrill is the co-founder and CEO of Beegit. Find Mike on Twitter [@mrcottrill](https://twitter.com/mrcottrill) or connect with him on [LinkedIn](www.linkedin.com/in/mikecottrill/). 
+Mike Cottrill is the co-founder and CEO of Beegit. Find Mike on Twitter @[mrcottrill](https://twitter.com/mrcottrill) or connect with him on [LinkedIn](http://www.linkedin.com/in/mikecottrill). 
 
 **Next time**: The value of real version control - not just a scrolling revision history. 
 
