@@ -33,6 +33,11 @@ a {
 
 a:hover { 
   color: #2d9ab1; text-decoration: none; 
+  -o-transition:.25s;
+  -ms-transition:.25s;
+  -moz-transition:.25s;
+  -webkit-transition:.25s;
+  transition:.25s;
 }
 
 /* Utility */
@@ -218,6 +223,11 @@ a.mainNav:hover {
   height: auto;
   margin: 10px 0 20px 0;
   border-radius: 6px;
+  -o-transition:.25s;
+  -ms-transition:.25s;
+  -moz-transition:.25s;
+  -webkit-transition:.25s;
+  transition:.25s;
 }
 
 .posts img:hover {
@@ -230,7 +240,12 @@ a.mainNav:hover {
 }
 
 .posts li { 
-  margin-bottom: 30px; 
+  padding-bottom: 24px; 
+  border-bottom: 1px solid #ddd;
+}
+
+.posts li:last-child { 
+  border-bottom: 0;
 }
 
 .posts .post-link {

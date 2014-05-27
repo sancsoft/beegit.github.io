@@ -2,7 +2,7 @@
 layout: post
 title:  "Introducing Beegit: A better way to work together on content"
 date:   2014-04-28 18:28:46
-teaser: Content is king. Bill Gates said as much in the 1990’s, well before the content kingdom was dominated by a flurry of options for people and brands to skip the middle man and instantly publish their own content. Today, almost everyone is a publisher through their website, blog or social media, igniting a need for great content. But while there has been a revolution in content display options, the way content is created has plodded along with evolutionary steps that are little more than improvements to Microsoft Word.
+teaser: Content is king. Bill Gates said as much in the 1990’s, well before the content kingdom was dominated by a flurry of options for people and brands to skip the middle man and instantly publish their own content. Today, almost everyone is a publisher through their website, blog or social media, igniting a need for great content. But while there has been a revolution in content display options, the way content is created has plodded along with evolutionary steps that are little more than improvements to Microsoft Word. 
 image: /assets/2014-04-28.jpg
 ---
 
