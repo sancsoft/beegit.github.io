@@ -241,16 +241,13 @@ a.mainNav:hover {
 
 .posts li { 
   padding-bottom: 24px; 
-  border-bottom: 1px solid #ddd;
+  line-height: 1;
 }
 
-.posts li:last-child { 
-  border-bottom: 0;
-}
 
 .posts .post-link {
   font-size: 30px;
-  line-height: 32px;
+  line-height: 1;
   font-weight: 500;
   letter-spacing: -.5px;
   color: #333;
@@ -264,7 +261,9 @@ a.mainNav:hover {
   display: block;
   font-size: 15px;
   color: #818181;
-  margin-bottom: 20px;
+  margin: 14px 0 20px 0;
+  border-top: 1px solid #e8e8e8;
+  padding: 10px;
 }
 
 .post-teaser {
@@ -288,9 +287,12 @@ a.mainNav:hover {
 }
 
 .post-header .meta {
+  display: block;
   font-size: 15px;
   color: #818181;
-  margin-top: 5px;
+  margin: 14px 0 20px 0;
+  border-top: 1px solid #e8e8e8;
+  padding: 6px 0 5px 0;
 }
 
 .post-content { 
