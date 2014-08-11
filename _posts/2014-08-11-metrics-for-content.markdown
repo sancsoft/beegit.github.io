@@ -53,9 +53,9 @@ ____
 
 Mike Cottrill is the co-founder and CEO of Beegit. Find Mike on Twitter @[mrcottrill](https://twitter.com/mrcottrill) or connect with him on [LinkedIn](https://www.linkedin.com/in/mikecottrill).
 
-Next time: Giving the power of version control to everyone 
+**Next time:** Giving the power of version control to everyone 
 
-Last time: [How Beegit's export to InDesign feature helps designers get their content under control](http://blog.beegit.com/2014/08/04/export-to-indesign/)
+**Last time:** [How Beegit's export to InDesign feature helps designers get their content under control](http://blog.beegit.com/2014/08/04/export-to-indesign/)
 
 ____
 

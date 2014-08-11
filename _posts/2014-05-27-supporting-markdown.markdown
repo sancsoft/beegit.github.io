@@ -83,6 +83,8 @@ Markdown support is part of a bigger plan to make it easier for people to work t
 
 Mike Cottrill is the co-founder and CEO of Beegit. Find Mike on Twitter @[mrcottrill](https://twitter.com/mrcottrill) or connect with him on [LinkedIn](http://www.linkedin.com/in/mikecottrill). 
 
-**Next time**: The value of real version control -- not just a scrolling revision history. 
+**Last time**: [Introducing Beegit: A better way to work together on content](http://blog.beegit.com/2014/04/28/introducing-beegit/)
+
+**Next time**: [Killing revision history to give writers actual version control](http://blog.beegit.com/2014/06/09/real-version-control/)
 
 

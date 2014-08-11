@@ -37,6 +37,6 @@ Our goal at [Beegit](https://beegit.com/) is to make a centralized hub for  all 
 ____
 Mike Cottrill is the co-founder and CEO of Beegit. Find Mike on Twitter @[mrcottrill](https://twitter.com/mrcottrill) or connect with him on [LinkedIn](https://www.linkedin.com/in/mikecottrill).
 
-Next time: Too many editors in the writer's room: How to manage feedback in content marketing creation
+**Next time:** [How Beegit's export to InDesign feature helps designers get their content under control](http://blog.beegit.com/2014/08/04/export-to-indesign/)
 
-Last time: [Seven tips to involve non-writers in your content marketing](http://blog.beegit.com/2014/07/03/seven-tips/)
+**Last time:** [Seven tips to involve non-writers in your content marketing](http://blog.beegit.com/2014/07/03/seven-tips/)

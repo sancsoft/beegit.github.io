@@ -70,8 +70,8 @@ ____
 
 Mike Cottrill is a former magazine editor and the co-founder and CEO of Beegit. Find Mike on Twitter @[mrcottrill](https://twitter.com/mrcottrill) or connect with him on [LinkedIn](https://www.linkedin.com/in/mikecottrill).
 
-Next time: The way you measure your content marketing is all wrong (sorry) 
+**Next time:** [The way you're measuring content is all wrong](http://blog.beegit.com/2014/07/24/you_are_measuring_wrong/) 
 
-Last time: [Killing revision history to give writers actual version control](http://blog.beegit.com/2014/06/09/real-version-control/)
+**Last time:** [Killing revision history to give writers actual version control](http://blog.beegit.com/2014/06/09/real-version-control/)
 
 
