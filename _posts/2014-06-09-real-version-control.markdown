@@ -22,7 +22,7 @@ This problem is one every editor, author and content marketer has dealt with. In
 
 Seven years after this football preview section went to print, the continued problem with version control is one of the main reasons we created [Beegit](https://beegit.com/). 
 
-## Current solutions come up short 
+### Current solutions come up short 
 
 Today, just about every document or writing solution touts version control. Everybody from Sharepoint to Dropbox considers themselves a player in the content space, but most are just document storage systems that don’t let you write and edit in them. Instead, they track when different versions of a file are uploaded. 
 
@@ -32,7 +32,8 @@ A few others try to solve the problem with a word processor in the cloud. Google
 
 Even worse, to handle all your revisions, some of these services prune your file history without telling you, making a decision on your behalf to lump changes into a version. 
 
-## Getting it right 
+### Getting it right 
+
 With Beegit, we wanted to make version control simple. We wanted everyone involved in a content project to be able to quickly review everything that happened across the entire project. We thought that team members should get visibility regarding who created what and when they did so. We wanted to remove the fear of someone on the team writing over good work by making it easy to restore a past version. 
 
 To us, real version control starts with a simple principle: The most current version is what someone sees when they open the online word processor. If someone is working on that, you can see what they’re doing in real time. Older changes are stored and can be quickly reviewed. But they are clearly marked as historical versions, meaning that corrections will never again be pulled from a file incorrectly marked as "Final" or "Edited." 

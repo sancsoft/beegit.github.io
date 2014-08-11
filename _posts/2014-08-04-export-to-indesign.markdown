@@ -138,7 +138,7 @@ We're pretty proud of our export to InDesign feature and would love to know how 
 
 ---
 
-JD Eaton is the co-founder and CMO of Beegit. Find him on Twitter @[designerjde](https://twitter.com/designerjde).
+JD Eaton is the co-founder and CMO of Beegit. Find him on Twitter @[designerjde](https://twitter.com/designerjde) or connect with him on <a href="https://www.linkedin.com/in/jdeaton">LinkedIn</a>.
 
 Next time: Why we're passionate about giving version control to writers 
 

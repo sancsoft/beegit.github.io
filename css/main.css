@@ -23,7 +23,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a { 
-  color: #56bed4; text-decoration: none; 
+  color: #77c3c6; text-decoration: none; 
   -o-transition:.25s;
   -ms-transition:.25s;
   -moz-transition:.25s;
@@ -32,7 +32,7 @@ a {
 }
 
 a:hover { 
-  color: #2d9ab1; text-decoration: none; 
+  color: #47a6a9; text-decoration: none; 
   -o-transition:.25s;
   -ms-transition:.25s;
   -moz-transition:.25s;
@@ -81,12 +81,12 @@ ul {
 /* Site header */
 
 .site-header {
-  border-top: 5px solid #333;
-  border-bottom: 1px solid #e8e8e8;
+  border-top: 5px solid #2a3542;
+  border-bottom: 1px solid #2a3542;
   min-height: 56px;
   background-color: white;
   height: 62px;
-  background-color: #333;
+  background-color: #2a3542;
 }
 
 .site-header img {
@@ -131,11 +131,11 @@ ul {
 
 a.mainNav {
   font-size:  14px;
-  color: #999;
+  color: #aeb2b7;
 }
 
 a.mainNav:hover {
-  color: #2d9ab1; text-decoration: none; 
+  color: #fff; text-decoration: none; 
 }
 
 /* Site footer */
@@ -255,7 +255,7 @@ a.mainNav:hover {
 }
 
 .posts a:hover {
-  color: #2d9ab1; text-decoration: none;
+  color: #47a6a9; text-decoration: none;
 }
 
 .posts .post-date {
@@ -323,9 +323,9 @@ a.mainNav:hover {
 }
 
 .button {
-  background-color:#56bed4;
+  background-color:#77c3c6;
   color: #fff;
-  border: 1px solid #2d9ab1;
+  border: 1px solid #47a6a9;
   border-radius: 3px;
   padding: 18px 26px;
   cursor: pointer;
@@ -337,15 +337,15 @@ a.mainNav:hover {
 
 .button:hover {
   color: #fff;
-  background-color: #2d9ab1;
-  border: 1px solid #217f93;
+  background-color: #47a6a9;
+  border: 1px solid #3e999c;
 
 }
 
 .button:active {
   color: #fff;
-  background-color: #2d9ab1;
-  border: 1px solid #217f93;
+  background-color: #3e999c;
+  border: 1px solid #3e999c;
   webkit-box-shadow: inset 0px 3px 10px 0px rgba(0,0,0,0.2);
   -moz-box-shadow: inset 0px 3px 10px 0px rgba(0,0,0,0.2);
   box-shadow: inset 0px 3px 10px 0px rgba(0,0,0,0.2);
