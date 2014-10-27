@@ -34,9 +34,6 @@ That data gives you powerful advice on how you can improve your content developm
 
 Our goal at [Beegit](https://beegit.com/) is to make a centralized hub for  all of your content while everything from production analytics to universal export is handled for you. We're in our closed beta now, and we'd love to have you [join us](https://beegit.com) for our open beta, coming later this year. 
 
-____
+---
+
 Mike Cottrill is the co-founder and CEO of Beegit. Find Mike on Twitter @[mrcottrill](https://twitter.com/mrcottrill) or connect with him on [LinkedIn](https://www.linkedin.com/in/mikecottrill).
-
-**Next time:** [How Beegit's export to InDesign feature helps designers get their content under control](http://blog.beegit.com/2014/08/04/export-to-indesign/)
-
-**Last time:** [Seven tips to involve non-writers in your content marketing](http://blog.beegit.com/2014/07/03/seven-tips/)

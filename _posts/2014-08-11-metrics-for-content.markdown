@@ -53,10 +53,6 @@ ____
 
 Mike Cottrill is the co-founder and CEO of Beegit. Find Mike on Twitter @[mrcottrill](https://twitter.com/mrcottrill) or connect with him on [LinkedIn](https://www.linkedin.com/in/mikecottrill).
 
-**Next time:** [Seven quick and interesting thoughts from Content Marketing World 2014](http://blog.beegit.com/2014/09/15/thoughts-from-content-marketing-world/)
-
-**Last time:** [How Beegit's export to InDesign feature helps designers get their content under control](http://blog.beegit.com/2014/08/04/export-to-indesign/)
-
 ____
 
 [^1]: [Check out the startling numbers](http://www.customcontentcouncil.com/news/nearly-44-billion-new-survey-shows-rise-content-marketing-budget) showing what companies are spending on content marketing, according to the Custom Content Council. 

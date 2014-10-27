@@ -66,5 +66,3 @@ Spacey has played many roles in his career, but he defined his favorite characte
 ____
 Mike Cottrill is the co-founder and CEO of Beegit. Find Mike on Twitter @[mrcottrill](https://twitter.com/mrcottrill) or connect with him on [LinkedIn](https://www.linkedin.com/in/mikecottrill).
 
-Last time: [Measured words: Metrics for modern content creation](http://blog.beegit.com/2014/08/11/metrics-for-content/) 
-

@@ -47,9 +47,5 @@ Creating good content is hard enough work on its own. Isn’t it time you used a
 ----
 Mike Cottrill is the co-founder and CEO of Beegit. Find Mike on Twitter @[mrcottrill](https://twitter.com/mrcottrill) or connect with him on [LinkedIn](www.linkedin.com/in/mikecottrill/). 
 
-**Next time**: [Seven tips to involve non-writers in your content marketing](http://blog.beegit.com/2014/07/03/seven-tips/)
-
-**Last time**: [Building a better word processor with Markdown support](http://blog.beegit.com/2014/05/27/supporting-markdown/) 
-
 
 

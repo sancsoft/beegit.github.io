@@ -53,6 +53,3 @@ Today, there’s a better way to work together on content. We’d love to have y
 
 Mike Cottrill is the co-founder and CEO of Beegit. Find Mike on Twitter  @[mrcottrill](http://twitter.com/mrcottrill) or connect with him on [LinkedIn](http://www.linkedin.com/in/mikecottrill).
 
-**Next time:** [Building a better word processor with Markdown support](/2014/05/27/supporting-markdown/)
-
-

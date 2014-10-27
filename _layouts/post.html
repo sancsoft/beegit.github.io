@@ -11,6 +11,15 @@ layout: default
   <article class="post-content">
   	<img src="{{ page.image }}">
   	{{ content }}
+    <hr>
+    <div id="post-nav" class="clearfix">
+        {% if page.previous.url %} 
+          <p><strong>Previous: </strong><a class="prev" href="{{page.previous.url}}">{{page.previous.title}}</a></p>
+        {% endif %} 
+        {% if page.next.url %} 
+          <p><strong>Next: </strong><a class="next" href="{{page.next.url}}">{{page.next.title}}</a></p>
+        {% endif %} 
+    </div>
   	 <div class="panel">
   	Beegit is the <span style="font-weight: 500;">best way</span> to get your content under control.
   	<div><a class="button" href="https://beegit.com">Sign Up for Beegit's Beta Today</a></div>

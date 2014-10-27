@@ -140,9 +140,6 @@ We're pretty proud of our export to InDesign feature and would love to know how 
 
 JD Eaton is the co-founder and CMO of Beegit. Find him on Twitter @[designerjde](https://twitter.com/designerjde) or connect with him on <a href="https://www.linkedin.com/in/jdeaton">LinkedIn</a>.
 
-**Next time:** [Measured words: metrics for modern content creation](http://blog.beegit.com/2014/08/11/metrics-for-content/)
-
-**Last time:** [The way you're measuring content is all wrong](http://blog.beegit.com/2014/07/24/you_are_measuring_wrong/)
 
 ---
 
