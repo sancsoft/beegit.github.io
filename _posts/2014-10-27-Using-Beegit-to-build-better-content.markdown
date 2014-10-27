@@ -51,7 +51,7 @@ After the content was put on the site, the final version was kept in Beegit for 
 ### Learning and improving 
 After the new site was up, Angela used Beegit to learn from the project. She had metrics that showed when her team was most productive and who carried the heaviest writing load. She could also see the full version history to identify what prompts or questions led the content to completion. All of this made her and her team smarter for their next content project. 
 
-That's how one team is using Beegit. How are you using it? Let us know at buzz@beegit.com. 
+That's how one team is using Beegit. How are you using it? Let us know at [buzz@beegit.com](mailto:buzz@beegit.com). 
 
 ---
 
