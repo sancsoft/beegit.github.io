@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div class="post">
+<div class="col-md-offset-1 col-md-10" style="margin-top: 30px;">
 
   <header class="post-header">
     <h1>{{ page.title }}</h1>
@@ -20,10 +20,15 @@ layout: default
           <p><strong>Next: </strong><a class="next" href="{{page.next.url}}">{{page.next.title}}</a></p>
         {% endif %} 
     </div>
-  	 <div class="panel">
-  	Beegit is the <span style="font-weight: 500;">best way</span> to get your content under control.
-  	<div><a class="button" href="https://beegit.com">Sign Up for Beegit's Beta Today</a></div>
+  	 <div class="panel panel-default">
+      <div class="panel-body">
+        <h4 class="text-center">Beegit is the <span style="font-weight: 500;">best way</span> to get your content under control.</h4>
+  	   <p class="text-center">
+        <a class="btn btn-warning btn-lg" href="https://beegit.com">Start your free trial today</a>
+      </p>
+     </div>
   </div>
   </article>
 
+</div>
 </div>

@@ -42,26 +42,6 @@ a:hover {
 
 /* Utility */
 
-.wrap:before,
-.wrap:after { content:""; display:table; }
-.wrap:after { clear: both; }
-.wrap {
-  max-width: 1170px;
-  padding: 0 30px;
-  margin: 0 auto;
-  zoom: 1;
-}
-
-.postWrap:before,
-.postWrap:after { content:""; display:table; }
-.postWrap:after { clear: both; }
-.postWrap {
-  max-width: 870px;
-  padding: 0 30px;
-  margin: 0 auto;
-  zoom: 1;
-}
-
 p {
   font-size: 14px;
   color: #333;
@@ -81,21 +61,20 @@ ul {
 /* Site header */
 
 .site-header {
-  border-top: 5px solid #2a3542;
-  border-bottom: 1px solid #2a3542;
-  min-height: 56px;
-  background-color: white;
-  height: 62px;
+  min-height: 65px;
   background-color: #2a3542;
 }
 
 .site-header img {
   width: 132px;
   height: 24px;
-  padding-top: 16px;
-  float: left;
+  margin-top: 5px;
   opacity: 0.5;
   filter: alpha(opacity=50); /* for IE8 and earlier */
+}
+
+.navbar-header button {
+  margin-right: 0;
 }
 
 .site-header img:hover {
@@ -103,105 +82,52 @@ ul {
   filter: alpha(opacity=100); /* for IE8 and earlier */
 }
 
-.site-title,
-.site-title:hover,
-.site-title:visited {
-  display: block;
-  color: #333;
-  font-size: 26px;
-  letter-spacing: -.5px;
-  float: left;
-  line-height: 56px;
-  position: relative;
-  z-index: 1;
+.navbar-right li a {
+  line-height: 32px;
+  color: #aeb2b7 !important;
 }
 
-.site-nav {
-  float: right;
-  line-height: 56px;
+.navbar-right li a:hover {
+  color: #fff !important;
 }
 
-.site-nav .menu-icon { display: none; }
-
-.site-nav .page-link {
-  margin-left: 20px;
-  color: #727272;
-  letter-spacing: -.5px;
-}
-
-a.mainNav {
-  font-size:  14px;
-  color: #aeb2b7;
-}
-
-a.mainNav:hover {
-  color: #fff; text-decoration: none; 
+.navbar-header button {
+  margin-top: 16px;
 }
 
 /* Site footer */
 
-.site-footer {
-  border-top: 1px solid #e8e8e8;
-  padding: 30px 0;
+.footer {
+  min-height: 100px;
+  padding-top: 10px;
 }
 
-.footer-heading {
-  font-size: 18px;
-  font-weight: 300;
-  letter-spacing: -.5px;
-  margin-bottom: 15px;
+.footer p {
+  font-size: 12px;
+  color: #999;
 }
 
-.site-footer .column { 
-  float: left; margin-bottom: 15px; 
-  font-size: 14px;
+.footer-left {
+  margin-bottom: 12px;
 }
 
-.footer-col-1 {
-  width: 500px; /*fallback*/
-  width: -webkit-calc(50% - 10px);
-  width: -moz-calc(50% - 10px);
-  width: -o-calc(50% - 10px);
-  width: calc(50% - 10px);
-  margin-right: 10px;
-  float: rght;
-}
-
-.footer-col-1 iframe {
-  margin-top: 12px;
-}
-
-.footer-col-2 {
-  width: 500px; /*fallback*/
-  width: -webkit-calc(50% - 10px);
-  width: -moz-calc(50% - 10px);
-  width: -o-calc(50% - 10px);
-  width: calc(50% - 10px);
-  margin-right: 10px;
+.footer-right {
   text-align: right;
-  float: right;
 }
 
-.footer-col-2 a {
-  margin-left: 6px;
+.footer-right a {
+  margin-left: 10px;
 }
 
-.site-footer ul { list-style: none; }
-
-.site-footer li,
-.site-footer p {
-  font-size: 15px;
-  letter-spacing: -.3px;
-  color: #828282;
+.footer-right a:first-child {
+  margin-left: 0;
 }
 
-
-/* Page Content styles */
-/* ----------------------------------------------------------*/
-
-.page-content {
-  padding: 30px 0;
-  background-color: #fff;
+.footer-right img {
+  width: 10px;
+  height: 10px;
+  vertical-align: middle;
+  margin-top: -1px;
 }
 
 
@@ -216,12 +142,13 @@ a.mainNav:hover {
   list-style-type: none; 
   text-align: center;
   margin-top: 20px;
+  padding-top: 30px;
 }
 
 .posts img {
   width: 100%;
   height: auto;
-  margin: 10px 0 20px 0;
+  margin: 20px 0;
   border-radius: 6px;
   -o-transition:.25s;
   -ms-transition:.25s;
@@ -311,45 +238,8 @@ a.mainNav:hover {
   border-radius: 6px;
 }
 
-.panel {
-  border: 1px solid #ddd;
-  padding: 30px 20px;
-  max-width: 870px;
-  border-radius: 4px;
-  font-size: 22px;
-  text-align: center;
-  background-color: #f5f5f5;
-  font-weight: 300;
-}
-
-.button {
-  background-color:#77c3c6;
-  color: #fff;
-  border: 1px solid #47a6a9;
-  border-radius: 3px;
-  padding: 18px 26px;
-  cursor: pointer;
-  display: inline-table;
-  margin-top: 20px;
-  font-size: 16px;
-  font-weight: normal;
-}
-
-.button:hover {
-  color: #fff;
-  background-color: #47a6a9;
-  border: 1px solid #3e999c;
-
-}
-
-.button:active {
-  color: #fff;
-  background-color: #3e999c;
-  border: 1px solid #3e999c;
-  webkit-box-shadow: inset 0px 3px 10px 0px rgba(0,0,0,0.2);
-  -moz-box-shadow: inset 0px 3px 10px 0px rgba(0,0,0,0.2);
-  box-shadow: inset 0px 3px 10px 0px rgba(0,0,0,0.2);
-
+.panel-body > h4 {
+  margin: 14px 0 20px 0 !important;
 }
 
 
@@ -500,88 +390,32 @@ hr {
 /* ----------------------------------------------------------*/
 
 
-@media screen and (max-width: 750px) {
+@media screen and (max-width: 768px) {
 
-  .footer-col-1 { 
-    width: 100%; 
-    text-align: center;
+  a.navbar-brand {
+    padding-left: 0;
   }
 
-   .footer-col-1 iframe {
-    margin-left: 24px;
-   }
-
-  .footer-col-2 {
-    width: 100%; /*fallback*/
-    text-align: center;
+  .footer-right {
+    text-align: left;
   }
-
-  .footer-col-2 a {
-    margin: 0 3px;
-  }
-
-
-
 }
 
 @media screen and (max-width: 600px) {
 
-  .wrap { padding: 0 12px; }
-
-  .site-nav {
-    position: fixed;
-    z-index: 10;
-    top: 14px; right: 8px;
-    background-color: #333;
-    -webkit-border-radius: 3px;
-    -moz-border-radius: 3px;
-    border-radius: 3px;
-    border: 1px solid #555;
+  .navbar-inverse .navbar-collapse {
+    border: 0;
   }
 
-  .site-nav .menu-icon {
-    display: block;
-    font-size: 24px;
-    color: #505050;
-    float: right;
-    width: 36px;
-    text-align: center;
-    line-height: 36px;
+  .navbar-collapse {
+    padding-left: 0;
   }
 
-  .site-nav .menu-icon svg { width: 18px; height: 16px; }
-
-  .site-nav .trigger {
-    clear: both;
-    margin-bottom: 5px;
-    display: none;
+  .post-link {
+    font-size: 24px !important;
   }
 
-  .site-nav:hover .trigger { 
-    display: block; 
-    padding: 0 8px;
+  .post-header h1 {
+    font-size: 24px !important;
   }
-
-  .site-nav .page-link {
-    display: block;
-    text-align: right;
-    line-height: 1.25;
-    padding: 5px 10px;
-    margin: 0;
-  }
-
-  .post-header h1 { font-size: 30px; }
-  .post-content h2 { font-size: 28px; }
-  .post-content h3 { font-size: 22px; }
-  .post-content h4 { font-size: 18px; }
-  .post-content blockquote { padding-left: 10px; }
-  .post-content ul,
-  .post-content ol { padding-left: 10px; }
-
-  .site-footer .column {
-    float: none;
-    clear: both;
-    width: auto;
-    margin: 0 0 15px; }
-
 }

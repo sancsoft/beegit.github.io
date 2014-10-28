@@ -4,14 +4,14 @@ layout: default
 
 <div class="home">
 
-
-  <ul class="posts">
+  <ul class="posts" style="margin-top: 20px;">
     {% for post in site.posts %}
-      <li>
+      <li class="col-md-10 col-md-offset-1">
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><img src="{{ post.image }}"></a>
-        <p class="post-teaser">{{ post.teaser }} <a href="{{ post.url | prepend: site.baseurl }}"> Read more...</a></p>
+        <p class="post-teaser">{{ post.teaser | truncatewords:55}} 
+          <a href="{{ post.url | prepend: site.baseurl }}"> Read more</a></p>
 
       </li>
     {% endfor %}
