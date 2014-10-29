@@ -13,13 +13,17 @@ body {
   font-size: 16px;
   line-height: 1.5;
   font-weight: 400;
-  background-color: #fdfdfd;
+  background-color: #fff;
 }
 
 h1, h2, h3, h4, h5, h6 { 
   font-size: 100%; 
   font-weight: 600; 
   color: #333;
+}
+
+hr {
+  border-top: 1px solid #e8e8e8;
 }
 
 a { 
