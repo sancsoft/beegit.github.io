@@ -1,9 +1,11 @@
 ---
+
 layout: post
-title:  "The way you're measuring content is all wrong"
+title:  The way you're measuring content is all wrong
 date:   2014-07-24 12:00:00
 teaser: Measuring content has become big business. There are marvelous and impressive tools for measuring what happens to your content the moment you share it with the world, showing you likes, engagement, shares, retweets and so on.  But how do you analyze and measure what went into creating that content? 
 image: /assets/2014-07-24.jpg
+
 ---
 
 Measuring content has become big business. There are marvelous and impressive tools for measuring what happens to your content the moment you share it with the world, showing you likes, engagement, shares, retweets and so on. 

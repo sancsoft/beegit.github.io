@@ -242,8 +242,16 @@ ul {
   border-radius: 6px;
 }
 
-.panel-body > h4 {
-  margin: 14px 0 20px 0 !important;
+.post-content .panel {
+  background-color: #f2f2f2;
+}
+
+.post-content .panel .panel-body > h4 {
+  margin: 28px 0 20px 0 !important;
+}
+
+.post-content .panel .panel-body .btn {
+  margin-bottom: 20px;
 }
 
 

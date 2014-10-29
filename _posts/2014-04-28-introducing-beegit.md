@@ -1,9 +1,11 @@
 ---
+
 layout: post
-title:  "Introducing Beegit: A better way to work together on content"
+title:  Introducing Beegit - a better way to work together on content
 date:   2014-04-28 18:28:46
 teaser: Content is king. Bill Gates said as much in the 1990’s, well before the content kingdom was dominated by a flurry of options for people and brands to skip the middle man and instantly publish their own content. Today, almost everyone is a publisher through their website, blog or social media, igniting a need for great content. But while there has been a revolution in content display options, the way content is created has plodded along with evolutionary steps that are little more than improvements to Microsoft Word. 
 image: /assets/2014-04-28.jpg
+
 ---
 
 ### Content is king.
@@ -18,7 +20,7 @@ There are at least 10,000 ways to share your content, but at Beegit we got stuck
 
 ### We were not alone in our dissatisfaction. 
 
-When I met [JD Eaton](https://beegit.com/jd/profile) and [Kris Ciccarello](https://beegit.com/kris/profile), my partners at Beegit, we all had our own scars from very different journeys in content. 
+When I met JD Eaton and Kris Ciccarello, my partners at Beegit, we all had our own scars from very different journeys in content. 
 
 Mine came from handling content assets at a magazine that was moving toward becoming an outsourced content marketing arm for brands. I quickly learned that there are no fewer than 1 million ways for projects to go off track or end up with clients working on the wrong version. A few of the usual suspects: emailed changes that got lost in an inbox; Different versions of the same file on a shared public or cloud drive with the wrong one labeled “current”; conflicting suggestions in Word’s track changes, forcing a project manager to make a call on which one to take and creating an infinite loop of confusion. 
 

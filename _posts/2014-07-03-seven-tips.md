@@ -1,9 +1,11 @@
 ---
+
 layout: post
-title:  "Seven tips to involve non-writers in your content marketing"
+title:  Seven tips to involve non-writers in your content marketing
 date:   2014-07-03 22:03:45
 teaser: After years of bugging bosses and colleagues about the role content plays in a good marketing strategy, the writers have won. Kind of. People have started to understand its true value and now they want content galore. But while most creators have a backlog of ideas, eventually those resources will be tapped. That's when it's time to reach out to colleagues and partners for product overviews, business details and customer wins. But turning a non-writer's thoughts into clean copy can be tough. Here are a few tips for getting content from people outside of the writing world.  
 image: /assets/2014-07-03.jpg
+
 ---
 
 It's an interesting time in the content marketing world. Those of us who write for a living have won. Kind of. 

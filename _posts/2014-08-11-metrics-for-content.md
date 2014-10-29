@@ -1,12 +1,14 @@
 ---
+
 layout: post
-title:  "Measured words: metrics for modern content creation"
+title:  Measured words - metrics for modern content creation
 date:   2014-08-11 10:00:00
 teaser: Our goal at Beegit is to get content under control for individuals and teams. This means simplifying processes It's time to think differently about how we measure content. 
 image: /assets/2014-08-11.jpg
+
 ---
 
-### It's time to think differently about how we measure content. 
+### It's time to thi`nk differently about how we measure content. 
 
 Content creation has become a respected fixture in the business world at last. Numbers show that nearly every industry is relying on content marketing to build brands and engage customers.[^1] 
 
