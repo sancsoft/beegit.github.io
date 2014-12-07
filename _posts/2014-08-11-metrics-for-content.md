@@ -5,6 +5,7 @@ title:  Measured words - metrics for modern content creation
 date:   2014-08-11 10:00:00
 teaser: Our goal at Beegit is to get content under control for individuals and teams. This means simplifying processes It's time to think differently about how we measure content. 
 image: /assets/2014-08-11.jpg
+comments: true
 
 ---
 

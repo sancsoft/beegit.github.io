@@ -251,7 +251,13 @@ ul {
 }
 
 .post-content .panel .panel-body .btn {
-  margin-bottom: 20px;
+  margin-bottom: 2px;
+}
+
+.ccInfo {
+  text-align: center;
+  font-size: 12px;
+  margin-bottom: 24px;
 }
 
 

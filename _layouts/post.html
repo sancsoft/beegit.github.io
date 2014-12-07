@@ -24,10 +24,26 @@ layout: default
       <div class="panel-body">
         <h4 class="text-center">Start understanding how your content team works and how it can work better.</h4>
   	   <p class="text-center">
-        <a class="btn btn-warning btn-lg" href="https://beegit.com">Start your free trial today</a>
+        <a class="btn btn-warning btn-lg" href="https://beegit.com">Get Started Today for Free</a>
+        <div class="ccInfo">No credit card required</div>
       </p>
      </div>
   </div>
+  {% if page.comments %}
+   <div id="disqus_thread"></div>
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'beegit'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+  {% endif %}
   </article>
 
 </div>
