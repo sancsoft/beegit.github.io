@@ -5,11 +5,12 @@ title:  Measured words - metrics for modern content creation
 date:   2014-08-11 10:00:00
 teaser: Our goal at Beegit is to get content under control for individuals and teams. This means simplifying processes It's time to think differently about how we measure content. 
 image: /assets/2014-08-11.jpg
+author: mike_cottrill
 comments: true
 
 ---
 
-### It's time to thi`nk differently about how we measure content. 
+### It's time to think differently about how we measure content. 
 
 Content creation has become a respected fixture in the business world at last. Numbers show that nearly every industry is relying on content marketing to build brands and engage customers.[^1] 
 
@@ -50,11 +51,6 @@ Here's a sneak peek at some project data sorted by what individual users contrib
 ### The Beginning 
 
 This is just the first step of our vision at Beegit. We're finding new ways to make sense of writing and editing data to help content professionals. We're in our closed beta currently, and we're getting feedback from our early users on ways to maximize these metrics. We welcome you to [sign up](https://beegit.com) for your free trial and start thinking differently about how you measure your words. 
-
-
-____
-
-Mike Cottrill is the co-founder and CEO of Beegit. Find Mike on Twitter @[mrcottrill](https://twitter.com/mrcottrill) or connect with him on [LinkedIn](https://www.linkedin.com/in/mikecottrill).
 
 ____
 

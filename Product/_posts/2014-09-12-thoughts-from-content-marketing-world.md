@@ -5,6 +5,7 @@ title:  Seven quick and interesting thoughts from Content Marketing World 2014
 date:   2014-09-15 12:00:00
 teaser: Content Marketing World 2014 made its way through Cleveland last week and brought a train of marketers, writers and sales people with it. There were some valuable content nuggets worth sharing. Here are seven interesting takeaways from break-out sessions and keynote speakers. 
 image: /assets/2014-09-15.jpg
+author: mike_cottrill
 comments: true
 
 ---
@@ -66,6 +67,4 @@ When the crowd wasn't clapping wildly for him as he dropped into the southern dr
 
 Spacey has played many roles in his career, but he defined his favorite characters as those who take risks and make interesting decisions. Much like Ann Handley's advice at the start of Content Marketing World, he pushed the audience to be interesting and different because the world has never had higher expectations of story tellers. 
 
-____
-Mike Cottrill is the co-founder and CEO of Beegit. Find Mike on Twitter @[mrcottrill](https://twitter.com/mrcottrill) or connect with him on [LinkedIn](https://www.linkedin.com/in/mikecottrill).
 

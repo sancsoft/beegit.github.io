@@ -5,6 +5,7 @@ title:  Seven tips to involve non-writers in your content marketing
 date:   2014-07-03 22:03:45
 teaser: After years of bugging bosses and colleagues about the role content plays in a good marketing strategy, the writers have won. Kind of. People have started to understand its true value and now they want content galore. But while most creators have a backlog of ideas, eventually those resources will be tapped. That's when it's time to reach out to colleagues and partners for product overviews, business details and customer wins. But turning a non-writer's thoughts into clean copy can be tough. Here are a few tips for getting content from people outside of the writing world.  
 image: /assets/2014-07-03.jpg
+author: mike_cottrill
 comments: true
 
 ---
@@ -69,9 +70,6 @@ Let new content creators focus on crafting their story in peace. If they're goin
 
 Those are a few tricks that have worked for me. How do you get the best content from others on your team? Tweet us at @[ProjectBeegit](https://twitter.com/ProjectBeegit) or find me at the links below to share your ideas. 
 
-____
-
-Mike Cottrill is a former magazine editor and the co-founder and CEO of Beegit. Find Mike on Twitter @[mrcottrill](https://twitter.com/mrcottrill) or connect with him on [LinkedIn](https://www.linkedin.com/in/mikecottrill).
 
 
 

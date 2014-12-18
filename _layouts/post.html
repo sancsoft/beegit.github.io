@@ -1,50 +1,63 @@
 ---
 layout: default
 ---
-<div class="col-md-offset-1 col-md-10" style="margin-top: 30px;">
 
-  <header class="post-header">
-    <h1>{{ page.title }}</h1>
-    <p class="meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-  </header>
-
-  <article class="post-content">
-  	<img src="{{ page.image }}">
-  	{{ content }}
-    <hr>
-    <div id="post-nav" class="clearfix">
-        {% if page.previous.url %} 
-          <p><strong>Previous: </strong><a class="prev" href="{{page.previous.url}}">{{page.previous.title}}</a></p>
-        {% endif %} 
-        {% if page.next.url %} 
-          <p><strong>Next: </strong><a class="next" href="{{page.next.url}}">{{page.next.title}}</a></p>
-        {% endif %} 
+<div class="col-sm-9 post-content">
+    <div class="post-wrapper">
+      <header class="post-header">
+         <img src="{{ page.image }}">
+        <h1>{{ page.title }}</h1>
+          {% assign author = site.data.authors[page.author] %}
+          <span class="post-metadata">
+            {% if author %}
+               by <a href="{{ author.web }}" target="_blank">{{ author.name }}</a>
+          {% endif %}
+          • {{ page.date | date: "%b %-d, %Y" }}
+          </span>
+      </header>
+    {% capture url %}{{ site.url }}{{ page.url }}{% endcapture %}
+    {% if page.shortUrl != null %}
+        {% assign url = page.shortUrl %}
+    {% endif %}
+    <div class="social-share">
+      <!-- <h5>Share</h5> -->
+        <a class="twitter" id="social-twitter" href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ url }}&via=ProjectBeegit&hashtags={{ tagStr }}" target="_blank" title="Share this post on Twitter"><i class="fa fa-twitter"></i></a>
+        <a class="facebook" id="social-facebook" href="https://www.facebook.com/sharer/sharer.php?t={{ page.title }}&u={{ url }}" target="_blank" title="Share this post on Facebook"><i class="fa fa-facebook"></i></a>
+        <a class="google" id="social-google" href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" target="_blank" title="Share this post on Google Plus"><i class="fa fa-google-plus"></i></a>
+        <a class="linkedin" id="social-linkedin" href="http://www.linkedin.com/shareArticle?mini=true&title={{ page.title }}&url={{ url }}&source=http%3a%2f%2fzhangwenli.com" target="_blank" title="Share this post on LinkedIn"><i class="fa fa-linkedin"></i></a>
+      <!--   <a href="http://bufferapp.com/add" class="buffer-add-button" data-count="none"></a><script type="text/javascript" src="https://d389zggrogs7qo.cloudfront.net/js/button.js"></script> -->
     </div>
-  	 <div class="panel panel-default">
-      <div class="panel-body">
-        <h4 class="text-center">Start understanding how your content team works and how it can work better.</h4>
-  	   <p class="text-center">
-        <a class="btn btn-warning btn-lg" href="https://beegit.com">Get Started Today for Free</a>
-        <div class="ccInfo">No credit card required</div>
-      </p>
-     </div>
-  </div>
-  {% if page.comments %}
-   <div id="disqus_thread"></div>
-    <script type="text/javascript">
-        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-        var disqus_shortname = 'beegit'; // required: replace example with your forum shortname
+      <article class="post-content">
+        <div class="post-wrapper-content">
+      	{{ content }}
+      	 <div class="panel panel-default">
+          <div class="panel-body">
+            <h4 class="text-center">Start understanding how your content team works and how it can work better.</h4>
+      	   <p class="text-center">
+            <a class="btn btn-warning" href="https://beegit.com">Get Started Today for Free</a>
+            <div class="ccInfo">No credit card required</div>
+          </p>
+         </div>
+      </div>
+      {% if page.comments %}
+        <div id="disqus_thread"></div>
+        <script type="text/javascript">
+            /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+            var disqus_shortname = 'beegit'; // required: replace example with your forum shortname
 
-        /* * * DON'T EDIT BELOW THIS LINE * * */
-        (function() {
-            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-        })();
-    </script>
-    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-  {% endif %}
-  </article>
-
+            /* * * DON'T EDIT BELOW THIS LINE * * */
+            (function() {
+                var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+      {% endif %}
+    </div>
+    </article>
+    </div>
 </div>
+<div class="col-sm-3">
+  {% include sidebar.html %}
 </div>

@@ -5,7 +5,9 @@ title: Using Beegit to build better content
 date:   2014-10-27 12:00:00
 teaser: Beegit is the project management tool built specifically for content teams. So how are people using it? During our closed beta we asked a few organizations to share their workflow. One of the first to respond was Jessica, a marketing director for a cloud software company. She and her 11-person team recently used Beegit to rewrite their company's content for a website launch. Here's how they did it. 
 image: /assets/2014-10-27.jpg
+author: mike_cottrill
 comments: true
+shortUrl: 
 
 ---
 
@@ -76,6 +78,3 @@ After the content was put on the site, the final version was kept in Beegit for 
 
 That's how one team is using Beegit. How are you using it? Let us know at [buzz@beegit.com](mailto:buzz@beegit.com). 
 
----
-
-Mike Cottrill is the co-founder and CEO of Beegit. Find Mike on Twitter @[mrcottrill](https://twitter.com/mrcottrill) or connect with him on [LinkedIn](https://www.linkedin.com/in/mikecottrill).

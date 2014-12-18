@@ -5,6 +5,7 @@ title:  Killing revision history to give writers actual version control
 date:   2014-06-09 14:28:46
 teaser: Frank Solich won a national championship as head coach of the Nebraska Cornhuskers.It's a simple sentence, but it sent me into a panic. It was wrong, and I’d corrected it several hours before. But there it was, in print, about to be shipped out to roughly 20,000 people in a college football preview section. Frank Solich is a heck of a college football coach, and he had been part of national championship teams. But he’d never won a national championship as a head coach. I was furious. There were 10 of us working on the content for this section and I remembered removing this error made by a freelancer. Seeing it back in his bio, my natural reaction was to search through the files and find out who was to blame. But my search led me to point the blame at our system.
 image: /assets/2014-06-09.jpg
+author: mike_cottrill
 comments: true
 
 ---
@@ -47,8 +48,6 @@ If I’d had Beegit in my newspaper days, I would have been able to put a note a
 
 Creating good content is hard enough work on its own. Isn’t it time you used a next generation word processor that helps your flow and protects your work? Beegit’s beta release is coming later this month to make version control easier. [Sign up today](https://beegit.com/) and start getting your content under control. 
 
-----
-Mike Cottrill is the co-founder and CEO of Beegit. Find Mike on Twitter @[mrcottrill](https://twitter.com/mrcottrill) or connect with him on [LinkedIn](www.linkedin.com/in/mikecottrill/). 
 
 
 

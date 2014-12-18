@@ -5,6 +5,7 @@ title:  The way you're measuring content is all wrong
 date:   2014-07-24 12:00:00
 teaser: Measuring content has become big business. There are marvelous and impressive tools for measuring what happens to your content the moment you share it with the world, showing you likes, engagement, shares, retweets and so on.  But how do you analyze and measure what went into creating that content? 
 image: /assets/2014-07-24.jpg
+author: mike_cottrill
 comments: true
 
 ---
@@ -37,6 +38,3 @@ That data gives you powerful advice on how you can improve your content developm
 
 Our goal at [Beegit](https://beegit.com/) is to make a centralized hub for  all of your content while everything from production analytics to universal export is handled for you. We're in our closed beta now, and we'd love to have you [join us](https://beegit.com) for our open beta, coming later this year. 
 
----
-
-Mike Cottrill is the co-founder and CEO of Beegit. Find Mike on Twitter @[mrcottrill](https://twitter.com/mrcottrill) or connect with him on [LinkedIn](https://www.linkedin.com/in/mikecottrill).

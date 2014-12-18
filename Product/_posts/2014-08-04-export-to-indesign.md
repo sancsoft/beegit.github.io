@@ -5,6 +5,7 @@ title:  How Beegit's export to InDesign feature helps designers get their conten
 date:   2014-08-04 10:00:00
 teaser: Our goal at Beegit is to get content under control for individuals and teams. This means simplifying processes for everyone at every stage in the production process. 
 image: /assets/2014-08-04.jpg
+author: jd_eaton
 comments: true
 
 ---
@@ -138,10 +139,6 @@ With the `Links` panel open and the ICML file updated, you will see the modified
 ### Conclusion
 
 We're pretty proud of our export to InDesign feature and would love to know how you are using it or how we can make it better. Feel free to shoot us a tweet @[ProjectBeegit](https://twitter.com/ProjectBeegit) with any feedback or suggestions that you may have. 
-
----
-
-JD Eaton is the co-founder and CMO of Beegit. Find him on Twitter @[designerjde](https://twitter.com/designerjde) or connect with him on <a href="https://www.linkedin.com/in/jdeaton">LinkedIn</a>.
 
 
 ---

@@ -6,6 +6,10 @@ teaser: "Content is king. Bill Gates said as much in the 1990’s, well before t
 image: "/assets/2014-04-28.jpg"
 published: true
 comments: true
+author: mike_cottrill
+tags:
+- something
+- something else
 ---
 
 ### Content is king.
@@ -50,7 +54,3 @@ Our focus was to make everything intuitive so we could revolutionize the way con
 As we rollout our closed beta, we’re proud of what we’ve built so far. We’re adding a steady stream of sign ups every day from all over the world (you can reserve your spot in our upcoming open beta by signing up here: [https://beegit.com](https://beegit.com). We’ve been pleasantly surprised at the number of people who have found us and shared their excitement about getting their content under control. We know we haven’t solved all the problems teams have with their content, but we’re iterating fast and getting better every day. 
 
 Today, there’s a better way to work together on content. We’d love to have you try it out with your team and tell us what you think. 
-
----
-
-Mike Cottrill is the co-founder and CEO of Beegit. Find Mike on Twitter  @[mrcottrill](http://twitter.com/mrcottrill) or connect with him on [LinkedIn](http://www.linkedin.com/in/mikecottrill).
