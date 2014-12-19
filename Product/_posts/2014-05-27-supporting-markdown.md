@@ -7,6 +7,7 @@ teaser: Back in my newsroom days, I would often be slogging away toward deadline
 image: /assets/2014-05-27.jpg
 author: mike_cottrill
 comments: true
+shortUrl: 
 
 ---
 

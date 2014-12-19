@@ -7,6 +7,7 @@ teaser: Frank Solich won a national championship as head coach of the Nebraska C
 image: /assets/2014-06-09.jpg
 author: mike_cottrill
 comments: true
+shortUrl: 
 
 ---
 

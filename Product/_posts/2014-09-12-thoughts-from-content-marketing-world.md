@@ -7,6 +7,7 @@ teaser: Content Marketing World 2014 made its way through Cleveland last week an
 image: /assets/2014-09-15.jpg
 author: mike_cottrill
 comments: true
+shortUrl: 
 
 ---
 
@@ -37,7 +38,7 @@ Perhaps the biggest lesson from hearing Scott Stratten give a keynote address is
 
 He focuses on the little issues that trip marketers up, including the use of metrics to show something is working, even when it clearly isn't. Metrics are important, but he pointed out how often they can be misleading or how the tool can be just plain wrong. For example, he has a one page site that serves only one purpose: letting users push a button to hear Darth Vader yell no [(go ahead, try it)](http://www.nooooooooooooooo.com/). Again, the site is one page. The audio on the site is less than three seconds. But when Stratten shared his Google Analytics with the audience, the average time on site was nearly 24 seconds and the average pages per visit were 1.13. 
 
-The numbers are funny, but they mix well with his point: Some metrics aren't perfect and to spend time analyzing them is a waste of time. His key metric for the site: visits and how much money he makes off his adds. Everything beyond those success metrics only exists to confuse him.
+The numbers are funny, but they mix well with his point: Some metrics aren't perfect and to spend time analyzing them is a waste of time. His key metric for the site: visits and how much money he makes off his ads. Everything beyond those success metrics only exists to confuse him.
 
 ### 4. Don't just feed them taco salad 
 Learned from Jay Acunzo, Director of platform and community at NextView Ventures, @[jay_zo](https://twitter.com/Jay_zo)

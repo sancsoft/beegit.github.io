@@ -72,7 +72,7 @@ ul {
   display: inline-block;
   margin: 0 !important;
   padding: 2px 4px 0 0;
-  color: #bbb;
+  color: #aaa;
   float: left;
   font-size: 12px;
   text-transform: uppercase;
@@ -144,18 +144,27 @@ ul {
   filter: alpha(opacity=50); /* for IE8 and earlier */
 }
 
-.navbar-header button {
-  margin-right: 0;
-}
-
 .site-header img:hover {
   opacity: 1.0;
   filter: alpha(opacity=100); /* for IE8 and earlier */
 }
 
+.navbar-right .btn {
+  padding: 6px 12px;
+  margin-left: 20px;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+  color: #aeb2b7;
+}
+
+.navbar-nav.navbar-right:last-child {
+  margin-right: 0;
+  margin-top: 6px;
+}
+
 .navbar-right li a {
-  line-height: 32px;
-  color: #aeb2b7 !important;
+  color: #fff;
 }
 
 .navbar-right li a:hover {
@@ -246,25 +255,26 @@ li.sidebar-link.active {
 /* ----------------------------------------------------------*/
 
 .home-header {
-  margin-top: -20px;
-  min-height: 160;
+  margin-top: -30px;
   margin-bottom: 30px;
-  background: url('../assets/header.jpg') #8f5aa0 center;
-  background-size: cover;
+  /*background-color: #8f5aa0;*/
+  background-color: #6cb5b8;   
 }
 
 .home-header h1 {
+  /*color: #f0ad4e;*/
+  /*color: #8e98b4;*/
   color: #fff;
   font-size: 18px;
   text-align: center;
-  line-height: 120px;
+  line-height: 110px;
   font-weight: 400;
 }
 
-.home-overlay {
-   background: rgba(47,60,97, 0.8);
+/*.home-overlay {
+   background: rgba(47,60,97, 0.7);
    min-height: 160px;
-}
+}*/
 
 .home h1 { 
   margin-bottom: 25px; 
@@ -273,7 +283,7 @@ li.sidebar-link.active {
 .posts { 
   list-style-type: none; 
   text-align: left;
-  padding-top: 30px;
+  padding-top: 20px;
 }
 
 .posts img {
@@ -286,7 +296,7 @@ li.sidebar-link.active {
   margin-bottom: 40px;
   min-height: 460px !important;
   border-bottom: 4px solid #6cb5b8;
-  padding: 0 10px;
+  padding: 0 5px;
 }
 
 .posts .post-link {
@@ -312,7 +322,7 @@ li.sidebar-link.active {
   display: block;
   font-size: 14px;
   letter-spacing: 1px;
-  color: #bbb;
+  color: #aaa;
   margin: 20px 0;
   font-weight: 400;
   font-family: 'Oswald', sans-serif;
@@ -334,7 +344,6 @@ li.sidebar-link.active {
   font-size: 14px;
   line-height: 22px;
 }
-
 
 /* Post styles */
 /* ----------------------------------------------------------*/
@@ -451,7 +460,7 @@ li.sidebar-link.active {
 }
 
 .post-content .panel .panel-body .btn {
-  margin-bottom: 2px;
+  margin-bottom: 20px;
 }
 
 .btn small {
@@ -619,7 +628,29 @@ hr {
   }
 
   .home-header h1 {
-    line-height: 60px;
+    line-height: 54px;
+  }
+
+  .navbar-nav.navbar-right .btn{
+    width: 100%;
+  }
+
+  .navbar-collapse {
+    padding-left: 15px;
+  }
+
+
+  .navbar-nav {
+    margin: 10px 0;
+  }
+
+  .navbar-inverse .navbar-nav>li>a {
+    margin: 0 0 0 -15px;
+  }
+
+  .navbar-right .btn {
+    margin-left: 0;
+    margin-bottom: 15px;
   }
 }
 
@@ -639,6 +670,11 @@ hr {
 
   .post-header h1 {
     font-size: 24px !important;
+    line-height: 1.2 !important;
+  }
+
+  .navbar-collapse {
+    padding-left: 15px;
   }
 
 }

@@ -7,6 +7,7 @@ teaser: Measuring content has become big business. There are marvelous and impre
 image: /assets/2014-07-24.jpg
 author: mike_cottrill
 comments: true
+shortUrl: 
 
 ---
 

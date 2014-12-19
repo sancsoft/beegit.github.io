@@ -7,6 +7,7 @@ teaser: Our goal at Beegit is to get content under control for individuals and t
 image: /assets/2014-08-04.jpg
 author: jd_eaton
 comments: true
+shortUrl: 
 
 ---
 

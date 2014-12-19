@@ -7,6 +7,7 @@ teaser: After years of bugging bosses and colleagues about the role content play
 image: /assets/2014-07-03.jpg
 author: mike_cottrill
 comments: true
+shortUrl: 
 
 ---
 
