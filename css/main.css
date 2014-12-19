@@ -10,11 +10,10 @@ html, body { height: 100%; }
 
 body {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: 16px;
   line-height: 1.5;
   font-weight: 400;
-  background-color: #e4e5e6;
-}
+/*  background-color: #e4e5e6;
+*/}
 
 h1, h2, h3, h4, h5, h6 { 
   font-size: 100%; 
@@ -42,65 +41,72 @@ a:hover {
   color: #333; text-decoration: none; 
 }
 
+.navbar-inverse {
+  border: 0;
+}
+
 /* Utility */
 
 p {
-  font-size: 16px;
   color: #333;
   line-height: 26px;
   font-weight: 400;
 }
 
 ul {
-  font-size: 16px;
   color: #333;
-  line-height: 28px;
+  line-height: pos;
 }
+
+/* Social Bar Styles */
+/* ----------------------------------------------------------*/
 
 .social-share {
-  margin: 0 auto;
-  text-align: center;
-  padding: 16px 0;
-  border-bottom: 1px solid #e4e5e6;
-  background-color: #f5f5f5;
+  text-align: right;
+  padding: 0 0 20px 0;
+  border-bottom: 4px solid #6cb5b8;
+  margin-top: 40px;
 }
 
-/*.social-share h5 {
+.social-share p {
   display: inline-block;
   margin: 0 !important;
-  padding: 4px 4px 0 0;
-  color: #999;
-  }*/
+  padding: 2px 4px 0 0;
+  color: #bbb;
+  float: left;
+  font-size: 12px;
+  text-transform: uppercase;
+  }
 
 .social-share a {
   display: inline-block;
-  width: 36px;
-  line-height: 36px;
-  height: 36px;
-  border-radius: 18px;
+  width: 30px;
+  line-height: 30px;
+  height: 30px;
+  border-radius: 15px;
   background: #111;
   font-size: 16px;
-  margin: 0 4px;
+  margin: 0 2px;
   color: #fff;
   text-align: center;
-  -o-transition:.25s;
-  -ms-transition:.25s;
-  -moz-transition:.25s;
-  -webkit-transition:.25s;
-  transition:.25s;
+  -o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  transition:.5s;
 }
 
 .social-share a:hover {
   background-color: #aaa;
-  -o-transition:.25s;
-  -ms-transition:.25s;
-  -moz-transition:.25s;
-  -webkit-transition:.25s;
-  transition:.25s;
-   -webkit-transform: scale(1.2);
-    -moz-transform: scale(1.2);
-    -o-transform: scale(1.2);
-    -ms-transform: scale(1.2);
+  -o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  transition:.5s;
+   -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
 }
 
 .social-share .twitter {
@@ -165,7 +171,6 @@ ul {
 .footer {
   min-height: 100px;
   padding-top: 10px;
-  background-color: #222;
 }
 
 .footer p {
@@ -196,7 +201,7 @@ ul {
   margin-top: -1px;
 }
 
-/* Sidebar styles */
+/* Sidebar Styles */
 /* ----------------------------------------------------------*/
 
 ul.sidebar {
@@ -240,52 +245,49 @@ li.sidebar-link.active {
 /* Home styles */
 /* ----------------------------------------------------------*/
 
+.home-header {
+  margin-top: -20px;
+  min-height: 160;
+  margin-bottom: 30px;
+  background: url('../assets/header.jpg') #8f5aa0 center;
+  background-size: cover;
+}
+
+.home-header h1 {
+  color: #fff;
+  font-size: 18px;
+  text-align: center;
+  line-height: 120px;
+  font-weight: 400;
+}
+
+.home-overlay {
+   background: rgba(47,60,97, 0.8);
+   min-height: 160px;
+}
+
 .home h1 { 
   margin-bottom: 25px; 
 }
 
-.post-wrapper {
-  background-color: #fff;
-  min-height: 440px;
-  box-shadow: 0 0 5px rgba(0,0,0,.1);
-}
-
-.post-wrapper-content {
-  padding: 0 25px;
-}
-
 .posts { 
   list-style-type: none; 
-  text-align: center;
-  margin-top: 20px;
+  text-align: left;
   padding-top: 30px;
 }
 
 .posts img {
   width: 100%;
   height: auto;
-  -o-transition:.25s;
-  -ms-transition:.25s;
-  -moz-transition:.25s;
-  -webkit-transition:.25s;
-  transition:.25s;
-}
-
-.posts img:hover {
-  opacity:0.7;
-  -o-transition:.25s;
-  -ms-transition:.25s;
-  -moz-transition:.25s;
-  -webkit-transition:.25s;
-  transition:.25s;
 }
 
 .posts li { 
-  padding-bottom: 24px; 
   line-height: 1;
-  margin-bottom: 16px;
+  margin-bottom: 40px;
+  min-height: 460px !important;
+  border-bottom: 4px solid #6cb5b8;
+  padding: 0 10px;
 }
-
 
 .posts .post-link {
   font-size: 22px;
@@ -299,7 +301,7 @@ li.sidebar-link.active {
 }
 
 .post-link img {
-  padding-bottom: 28px;
+  padding: 28px 0 14px 0;
 }
 
 .posts a:hover {
@@ -322,16 +324,15 @@ li.sidebar-link.active {
   font-size: 12px;
   letter-spacing: 1px;
   color: #bbb;
-  margin: 20px 0;
   font-weight: 400;
   font-family: 'Oswald', sans-serif;
   text-transform: uppercase;
 }
 
 .post-teaser {
-  text-align: center;
-  font-size: 16px;
-  line-height: 24px;
+  text-align: left;
+  font-size: 14px;
+  line-height: 22px;
 }
 
 
@@ -340,13 +341,45 @@ li.sidebar-link.active {
 
 .post-header { 
   width: 100%;
-  text-align: center;
-  border-bottom: 1px solid #e4e5e6;
-  padding-bottom: 20px;
+  text-align: left;
+  padding: 0 10px 20px;
  }
+
+ .post-title { 
+  width: 100%;
+  text-align: left;
+  padding: 0 0 20px;
+ }
+
+
+ .date-header {
+  display: inline-block;
+  background-color: #2a3542;
+  color: #ffffff;
+  padding: 5px 10px;
+  margin: 0 0 15px;
+  font-size: 12px;
+  line-height: 1.6em;
+  font-weight: bold;
+  text-transform: uppercase;
+  position: relative;
+  margin-bottom: 30px;
+}
+
+.date-header-arrow {
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 8px 8px 0 0;
+  border-color: #2a3542 transparent transparent transparent;
+  position: absolute;
+  bottom: -7px;
+  left: 0;
+}
 
  .post-header img { 
   width: 100%;
+  padding-top: 10px;
  }
 
 .post-header h1 {
@@ -357,7 +390,7 @@ li.sidebar-link.active {
   word-spacing: 2px;
   line-height: 1.3 !important;
   letter-spacing: .5px;
-  padding: 0 30px;
+  margin-top: 0 !important;
 }
 
 .post-header .meta {
@@ -369,8 +402,34 @@ li.sidebar-link.active {
   padding: 6px 0 5px 0;
 }
 
+.post-author {
+  border-top: 1px dotted #dddddd;
+  border-bottom: 4px solid #6cb5b8;
+  padding: 40px 0;
+  margin: 30px 0 60px 0;
+  color: #888;
+}
+
+.post-author-image img{
+  height: 64px;
+  width: 64px;
+  border-radius: 32px;
+  position: absolute;
+}
+
+.post-author-details {
+  margin-left: 80px;
+  font-size: 14px;
+}
+
+.post-author-details h5 {
+  margin: 0 !important;
+  padding-bottom: 8px;
+  letter-spacing: .2px;
+}
+
 .post-content { 
-  padding: 15px;
+  padding: 0 10px;
 }
 
 .post-content img {
@@ -395,10 +454,10 @@ li.sidebar-link.active {
   margin-bottom: 2px;
 }
 
-.ccInfo {
-  text-align: center;
+.btn small {
   font-size: 12px;
-  margin-bottom: 24px;
+  color: #333;
+  display: block;
 }
 
 
@@ -558,6 +617,10 @@ hr {
   .footer-right {
     text-align: left;
   }
+
+  .home-header h1 {
+    line-height: 60px;
+  }
 }
 
 @media screen and (max-width: 600px) {
@@ -577,4 +640,5 @@ hr {
   .post-header h1 {
     font-size: 24px !important;
   }
+
 }

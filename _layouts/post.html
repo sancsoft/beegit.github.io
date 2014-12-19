@@ -1,45 +1,49 @@
 ---
-layout: default
+layout: home
 ---
 
-<div class="col-sm-9 post-content">
+<div class="col-sm-8 col-sm-offset-1 post-content">
     <div class="post-wrapper">
       <header class="post-header">
-         <img src="{{ page.image }}">
-        <h1>{{ page.title }}</h1>
+         <div class="date-header">
+            <span>{{ page.date | date: "%b %-d, %Y" }}</span>
+            <span class="date-header-arrow"></span>
+         </div>
+          <h1>{{ page.title }}</h1>
           {% assign author = site.data.authors[page.author] %}
           <span class="post-metadata">
             {% if author %}
-               by <a href="{{ author.web }}" target="_blank">{{ author.name }}</a>
+               by {{ author.name }}
           {% endif %}
-          • {{ page.date | date: "%b %-d, %Y" }}
           </span>
+        <img src="{{ page.image }}">
+        {% capture url %}{{ site.url }}{{ page.url }}{% endcapture %}
+          {% if page.shortUrl != null %}
+              {% assign url = page.shortUrl %}
+          {% endif %}
+          <div class="social-share">
+            <p>Share this post</p>
+              <a class="twitter" id="social-twitter" href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ url }}&via=ProjectBeegit&hashtags={{ tagStr }}" target="_blank" title="Share this post on Twitter"><i class="fa fa-twitter"></i></a>
+              <a class="facebook" id="social-facebook" href="https://www.facebook.com/sharer/sharer.php?t={{ page.title }}&u={{ url }}" target="_blank" title="Share this post on Facebook"><i class="fa fa-facebook"></i></a>
+              <a class="google" id="social-google" href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" target="_blank" title="Share this post on Google Plus"><i class="fa fa-google-plus"></i></a>
+              <a class="linkedin" id="social-linkedin" href="http://www.linkedin.com/shareArticle?mini=true&title={{ page.title }}&url={{ url }}&source=http%3a%2f%2fzhangwenli.com" target="_blank" title="Share this post on LinkedIn"><i class="fa fa-linkedin"></i></a>
+          </div>
       </header>
-    {% capture url %}{{ site.url }}{{ page.url }}{% endcapture %}
-    {% if page.shortUrl != null %}
-        {% assign url = page.shortUrl %}
-    {% endif %}
-    <div class="social-share">
-      <!-- <h5>Share</h5> -->
-        <a class="twitter" id="social-twitter" href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ url }}&via=ProjectBeegit&hashtags={{ tagStr }}" target="_blank" title="Share this post on Twitter"><i class="fa fa-twitter"></i></a>
-        <a class="facebook" id="social-facebook" href="https://www.facebook.com/sharer/sharer.php?t={{ page.title }}&u={{ url }}" target="_blank" title="Share this post on Facebook"><i class="fa fa-facebook"></i></a>
-        <a class="google" id="social-google" href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" target="_blank" title="Share this post on Google Plus"><i class="fa fa-google-plus"></i></a>
-        <a class="linkedin" id="social-linkedin" href="http://www.linkedin.com/shareArticle?mini=true&title={{ page.title }}&url={{ url }}&source=http%3a%2f%2fzhangwenli.com" target="_blank" title="Share this post on LinkedIn"><i class="fa fa-linkedin"></i></a>
-      <!--   <a href="http://bufferapp.com/add" class="buffer-add-button" data-count="none"></a><script type="text/javascript" src="https://d389zggrogs7qo.cloudfront.net/js/button.js"></script> -->
-    </div>
       <article class="post-content">
         <div class="post-wrapper-content">
       	{{ content }}
-      	 <div class="panel panel-default">
-          <div class="panel-body">
-            <h4 class="text-center">Start understanding how your content team works and how it can work better.</h4>
-      	   <p class="text-center">
-            <a class="btn btn-warning" href="https://beegit.com">Get Started Today for Free</a>
-            <div class="ccInfo">No credit card required</div>
-          </p>
-         </div>
-      </div>
-      {% if page.comments %}
+          {% if author %}
+          <div class="post-author">
+            <div class="post-author-image">
+              <img src="{{ author.gravatar }}">
+            </div>
+            <div class="post-author-details">
+              <h5>by {{ author.name }}</h5>
+              {{ author.details }}
+            </div>
+          </div>
+          {% endif %}
+          {% if page.comments %}
         <div id="disqus_thread"></div>
         <script type="text/javascript">
             /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
@@ -54,10 +58,21 @@ layout: default
         </script>
         <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
       {% endif %}
+      	 <div class="panel panel-default">
+          <div class="panel-body">
+            <h4 class="text-center">Supercharge your collaborative workflow to get more content done in less time.</h4>
+      	   <p class="text-center">
+            <a class="btn btn-warning" href="https://beegit.com">
+              Create Your Free Beegit Account Today
+              <small>No credit card required</small>
+            </a>
+          </p>
+         </div>
+      </div>
     </div>
     </article>
     </div>
 </div>
-<div class="col-sm-3">
+<div class="col-sm-2">
   {% include sidebar.html %}
 </div>

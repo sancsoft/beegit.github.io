@@ -1,28 +1,34 @@
 ---
-layout: default
+layout: home
 ---
-  <div class="col-md-9 home">
+
+  <div class="col-md-8 col-md-offset-1 home">
     <ul class="posts">
       <div class="row">
       {% for post in site.posts %}
       <div class="col-md-6">
         <li>
-          <div class="post-wrapper">
+          <div class="date-header">
+            <span>{{ post.date | date: "%b %-d, %Y" }}</span>
+            <span class="date-header-arrow"></span>
+         </div>
+         <div class="post-title">
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </div>
+          {% assign author = site.data.authors[post.author] %}
+          <span class="post-byline">
+            {% if author %}
+               by {{ author.name }}
+            {% endif %}
+          </span>
+          <div>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><img src="{{ post.image }}"></a>
-            <div class="post-wrapper-content">
-              <div class="post-header">
-                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-              </div>
-              {% assign author = site.data.authors[post.author] %}
-              <span class="post-byline">
-                {% if author %}
-                   by <a href="{{ author.web }}" target="_blank">{{ author.name }}</a>
-              {% endif %}
-              • {{ post.date | date: "%b %-d, %Y" }}
-              </span>
-              <p class="post-teaser">{{ post.teaser | truncatewords:22}} 
-              <a href="{{ post.url | prepend: site.baseurl }}"> more</a></p>
-            </div>
+            <p class="post-teaser">
+              {{ post.teaser | truncatewords:20}}
+            </p>
+            <p>
+              <a href="{{ post.url | prepend: site.baseurl }}"> Continue reading <i class="fa fa-long-arrow-right"></i></a>
+            </p>
           </div>
         </li>
       </div>
@@ -30,6 +36,6 @@ layout: default
     </div>
     </ul>
   </div>
-  <div class="col-md-3">
+  <div class="col-md-2">
     {% include sidebar.html %}
   </div>
