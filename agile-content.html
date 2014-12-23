@@ -3,13 +3,13 @@ layout: default
 ---
 
 <div class="col-md-8 col-md-offset-1 home">
-    <ul class="posts">
+    <div class="posts">
         <div class="row">
             {% for post in site.categories.agile_content %}
             {% include listpost.html p=post %}
             {% endfor %}
         </div>
-    </ul>
+    </div>
 </div>
 <div class="col-md-2">
     {% include sidebar.html %}

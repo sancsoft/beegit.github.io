@@ -3,13 +3,13 @@ layout: default
 ---
 
   <div class="col-md-8 col-md-offset-1 home">
-    <ul class="posts">
-      <div class="row">
-      {% for post in site.posts %}
+    <div class="posts">
+        <div class="row">
+          {% for post in site.posts %}
           {% include listpost.html p=post %}
-      {% endfor %}
+          {% endfor %}
+        </div>
     </div>
-    </ul>
   </div>
   <div class="col-md-2">
     {% include sidebar.html %}
