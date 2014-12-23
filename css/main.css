@@ -232,20 +232,20 @@ ul.sidebar li {
   padding: 4px 0;
 }
 
-li.sidebar-link {
-  border-left: 2px solid #e4e5e6;
+ul.sidebar li {
+  border-left: 2px solid #fff;
 }
 
-li.sidebar-link > a {
+ul.sidebar li > a {
   padding: 0 0 0 10px;
   display: list-item;
 }
 
-li.sidebar-link:hover {
+ul.sidebar li:hover {
   border-left: 2px solid #fff;
 }
 
-li.sidebar-link.active {
+ul.sidebar li.active {
   border-left: 2px solid #6cb5b8;
   font-weight: 500;
 }
