@@ -4,7 +4,7 @@ layout: post
 title: Using Beegit to build better content 
 date:   2014-10-27 12:00:00
 teaser: Beegit is the project management tool built specifically for content teams. So how are people using it? During our closed beta we asked a few organizations to share their workflow. One of the first to respond was Jessica, a marketing director for a cloud software company. She and her 11-person team recently used Beegit to rewrite their company's content for a website launch. Here's how they did it. 
-image: /assets/2014-10-27.jpg
+image: https://s3.amazonaws.com/beegit-images/blog/headers/build-better-content.jpg
 author: mike_cottrill
 comments: true
 shortUrl: 
@@ -21,7 +21,7 @@ She and her 11-person team recently used Beegit to rewrite their company's conte
 
 ### Getting everybody on the same page. 
 
-<p style="margin: 0 auto; text-align: center;"><img src="https://s3.amazonaws.com/beegit-images/email/workflow/SSDashboard.png" style="width: 100%; height: auto; max-width: 540px;"></p>
+![Dashboard](https://s3.amazonaws.com/beegit-images/email/workflow/SSDashboard.png)
 
 Every time her team has something to write, Jessica creates a new project Beegit. 
 
@@ -31,7 +31,7 @@ Because this was a high priority, she highlighted the project color as red, whic
 
 ### Bringing in the team 
 
-<p style="margin: 0 auto; text-align: center;"><img src="https://s3.amazonaws.com/beegit-images/email/workflow/SSGlobalCollaborators.png" style="width: 100%; height: auto; max-width: 540px;"></p>
+![Global Collaborators](https://s3.amazonaws.com/beegit-images/email/workflow/SSGlobalCollaborators.png)
 
 Because her team writes a lot of content with Beegit, Jessica already had a collaborators list that set everyone to their usual role - observer, editor or administrator. These team members are automatically put on every new project she creates. 
 
@@ -39,7 +39,7 @@ This was a big project, though, so she wanted input from several members of the 
 
 ### Writing and making a version 
 
-<p style="margin: 0 auto; text-align: center;"><img src="https://s3.amazonaws.com/beegit-images/email/workflow/SSVersionMention.png" style="width: 100%; height: auto; max-width: 540px;"></p>
+![Making a Version](https://s3.amazonaws.com/beegit-images/email/workflow/SSVersionMention.png)
 
 As her team put the copy together, everything they typed was autosaved and formatted in Markdown - a syntax ready for web and print. 
 
@@ -47,7 +47,7 @@ When her team hit a milestone - like when something was ready for approval - the
 
 ### Collaborating and making improvements 
 
-<p style="margin: 0 auto; text-align: center;"><img src="https://s3.amazonaws.com/beegit-images/email/workflow/SSNotifications.png" style="width: 100%; height: auto; max-width: 540px;"></p>
+![Inline Comments](https://s3.amazonaws.com/beegit-images/email/workflow/SSNotifications.png)
 
 As the content came together, the right collaborators got involved - on demand. When a writer wanted to move their piece of content on to the next person for review or approval, they created a version and added an @mention. That sent a notification to the right person letting them know it was time to act. 
 
@@ -55,7 +55,7 @@ As work was being reviewed, people made inline comments and included @mentions t
 
 ### Keeping a pulse on the project
 
-<p style="margin: 0 auto; text-align: center;"><img src="https://s3.amazonaws.com/beegit-images/email/workflow/SSVersions.png" style="width: 100%; height: auto; max-width: 540px;"></p>
+![Version History](https://s3.amazonaws.com/beegit-images/email/workflow/SSVersions.png)
 
 Throughout this process, Jessica was able to check in on the project as a whole or any individual file. When she wanted to see every detail come together, she subscribed to notification emails for every mention and comment on the project. 
 
@@ -63,13 +63,13 @@ She could also see metrics on content creation that told her how much was being 
 
 ### Moving the content to production 
 
-<p style="margin: 0 auto; text-align: center;"><img src="https://s3.amazonaws.com/beegit-images/email/workflow/SSExportFile.png" style="width: 100%; height: auto; max-width: 540px;"></p>
+![Export Formats](https://s3.amazonaws.com/beegit-images/email/workflow/SSExportFile.png)
 
 Because the content created in Beegit was adaptive, it quickly exported into HTML and was placed into the new site once it was approved. 
 
 ### Learning and improving 
 
-<p style="margin: 0 auto; text-align: center;"><img src="https://s3.amazonaws.com/beegit-images/email/workflow/SSMetrics.png" style="width: 100%; height: auto; max-width: 970px;"></p>
+![Metrics](https://s3.amazonaws.com/beegit-images/email/workflow/SSMetrics.png)
 
 After the new site was up, Jessica used Beegit to learn from the project. She had metrics that showed when her team was most productive and who carried the heaviest writing load. She could also see the full version history to identify what prompts or questions led the content to completion. All of this made her and her team smarter for their next content project. 
 

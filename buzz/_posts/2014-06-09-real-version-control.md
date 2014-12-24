@@ -4,7 +4,7 @@ layout: post
 title:  Killing revision history to give writers actual version control
 date:   2014-06-09 14:28:46
 teaser: Frank Solich won a national championship as head coach of the Nebraska Cornhuskers.It's a simple sentence, but it sent me into a panic. It was wrong, and I’d corrected it several hours before. But there it was, in print, about to be shipped out to roughly 20,000 people in a college football preview section. Frank Solich is a heck of a college football coach, and he had been part of national championship teams. But he’d never won a national championship as a head coach. I was furious. There were 10 of us working on the content for this section and I remembered removing this error made by a freelancer. Seeing it back in his bio, my natural reaction was to search through the files and find out who was to blame. But my search led me to point the blame at our system.
-image: /assets/2014-06-09.jpg
+image: https://s3.amazonaws.com/beegit-images/blog/headers/killing-revision-history.jpg
 author: mike_cottrill
 comments: true
 shortUrl: 
