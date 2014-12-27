@@ -2,7 +2,6 @@
 
 layout: post
 title:  The Three Rs of Adaptive Content 
-permalink: the-three-rs-of-adaptive-content
 date:   2014-12-18 18:28:46
 teaser: I need you to read this blog post before you or anyone on your team writes another piece of content
 image: https://s3.amazonaws.com/beegit-images/blog/headers/3-rs-of-adaptive-content.jpg

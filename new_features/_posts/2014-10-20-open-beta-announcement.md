@@ -2,7 +2,6 @@
 
 layout: post
 title:  Let's open up Beegit's beta up with some big improvements! 
-permalink: open-beta-announcement
 date:   2014-10-20 18:28:00
 teaser: Big things have been happening at Beegit, and we're excited to announce our open beta release today!
 image: https://s3.amazonaws.com/beegit-images/blog/headers/open-beta.png

@@ -2,7 +2,6 @@
 
 layout: post
 title:  Welcome to Beegit's closed beta
-permalink: beegit-closed-beta-welcome
 date:   2014-07-14 18:28:00
 teaser: We built Beegit with content creators in mind, and we hope you love it. If you've signed up for our beta, you can activate your account today. 
 image: https://s3.amazonaws.com/beegit-images/blog/headers/welcome-closed-beta.jpg

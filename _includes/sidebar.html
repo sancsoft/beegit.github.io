@@ -1,9 +1,13 @@
-<h4 class="cat-header">Sort by Category</h4>
-<hr>
-<ul class="sidebar">
-    <li{% if page.categories == 'all' or page.url == '/' %} class="active"{% endif %}><a href="/">All Posts</a></li>
-    <li{% if page.categories == 'agile_content' or page.url contains 'agile-content' %} class="active"{% endif %}><a href="/agile-content">Agile Content</a></li>
-    <li{% if page.categories == 'using_beegit' or page.url contains 'using-beegit' %} class="active"{% endif %}><a href="/using-beegit">Using Beegit</a></li>
-    <li{% if page.categories == 'new_features' or page.url contains 'new-features' %} class="active"{% endif %}><a href="/new-features">New Features</a></li>
-    <li{% if page.categories == 'buzz' or page.url contains 'buzz' %} class="active"{% endif %}><a href="/buzz">Buzz</a></li>
-</ul>
+<div class="sidebar-wrapper">
+	<h4 class="cat-header">Posts by Category</h4>
+	<hr>
+	<ul class="sidebar">
+	    <li{% if page.url == '/' %} class="active"{% endif %}><a href="/">All Posts</a></li>
+	    <li{% if page.url contains 'agile_content' %} class="active"{% endif %}><a href="/agile_content">Agile Content</a></li>
+	    <li{% if page.url contains 'using_beegit' %} class="active"{% endif %}><a href="/using_beegit">Using Beegit</a></li>
+	    <li{% if page.url contains 'new_features' %} class="active"{% endif %}><a href="/new_features">New Features</a></li>
+	    <li{% if page.url contains 'buzz' %} class="active"{% endif %}><a href="/buzz">Buzz</a></li>
+	</ul>
+	<hr>
+	<a href="http://blog.beegit.com/feed" class="subscribe"><i class="fa fa-rss"></i>RSS Feed</a>
+</div>

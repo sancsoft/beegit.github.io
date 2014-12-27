@@ -2,7 +2,6 @@
 
 layout: post
 title: Introducing free plans for individual users 
-permalink: free-plans-for-individuals
 date:   2014-12-11 18:28:00
 teaser: We've been overwhelmed by requests from individual users who want the option for a free personal account. So we said, why not? 
 image: https://s3.amazonaws.com/beegit-images/blog/headers/free-individual-users.png

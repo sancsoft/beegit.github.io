@@ -2,10 +2,9 @@
 
 layout: post
 title:  Welcome to a new way to measure your content 
-permalink: content-creation-metrics-release
 date:   2014-08-12 18:28:00
 teaser: Today we've released a feature unlike anything that exists in the content world - Metrics for content development. 
-image: https://s3.amazonaws.com/beegit-images/blog/headers/new-way-to-measure-content.png
+image: https://s3.amazonaws.com/beegit-images/blog/headers/measured-words.jpg
 author: mike_cottrill
 comments: true
 

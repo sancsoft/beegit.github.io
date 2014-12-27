@@ -258,6 +258,19 @@ ul.sidebar li.active > a {
   color: #333;
 }
 
+.subscribe {
+  padding-left: 12px;
+  color: #999;
+}
+
+.subscribe:hover {
+  text-decoration: underline;
+}
+
+.subscribe .fa {
+  margin-right: 5px;
+}
+
 
 /* Home styles */
 /* ----------------------------------------------------------*/

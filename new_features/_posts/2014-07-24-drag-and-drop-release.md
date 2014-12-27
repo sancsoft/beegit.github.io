@@ -2,7 +2,6 @@
 
 layout: post
 title:  Beegit's newest release is a drag (and drop)
-permalink: drag-and-drop-release
 date:   2014-07-24 18:28:00
 teaser: Today's release is full of features users have been asking for during our closed beta, including drag and drop organization for files and folders.
 image: https://s3.amazonaws.com/beegit-images/blog/headers/drag-drop.png

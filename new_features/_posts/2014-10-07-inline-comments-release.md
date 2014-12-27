@@ -2,7 +2,6 @@
 
 layout: post
 title:  Share your thoughts more easily with inline comments 
-permalink: inline-comments-release
 date:   2014-10-07 18:28:00
 teaser: Today we're happy to release one of our most requested features - inline commenting.
 image: https://s3.amazonaws.com/beegit-images/blog/headers/inline-comments.png
