@@ -1,10 +1,10 @@
 ---
 
 layout: post
-title: "Introducing Beegit - a better way to work together on content"
+title: Introducing Beegit - a better way to work together on content
 date: 2014-04-28 12:00:00
-teaser: "Content is king. Bill Gates said as much in the 1990’s, well before the content kingdom was dominated by a flurry of options for people and brands to skip the middle man and instantly publish their own content. Today, almost everyone is a publisher through their website, blog or social media, igniting a need for great content. But while there has been a revolution in content display options, the way content is created has plodded along with evolutionary steps that are little more than improvements to Microsoft Word."
-image: "/assets/2014-04-28.jpg"
+teaser: Content is king. Bill Gates said as much in the 1990’s, well before the content kingdom was dominated by a flurry of options for people and brands to skip the middle man and instantly publish their own content. Today, almost everyone is a publisher through their website, blog or social media, igniting a need for great content. But while there has been a revolution in content display options, the way content is created has plodded along with evolutionary steps that are little more than improvements to Microsoft Word.
+image: https://s3.amazonaws.com/beegit-images/blog/headers/introducing-beegit.jpg
 author: mike_cottrill
 comments: true
 shortUrl: 
