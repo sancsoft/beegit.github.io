@@ -286,10 +286,15 @@ ul.sidebar li.active > a {
   /*color: #f0ad4e;*/
   /*color: #8e98b4;*/
   color: #fff;
-  font-size: 18px;
+  font-size: 17px;
   text-align: center;
-  line-height: 110px;
+  line-height: 60px;
   font-weight: 400;
+  padding: 24px 0;
+}
+
+.dash {
+  font-family: "Lucida Console", Monaco, monospace;
 }
 
 /*.home-overlay {
@@ -672,6 +677,10 @@ hr {
   .navbar-right .btn {
     margin-left: 0;
     margin-bottom: 15px;
+  }
+
+  .home-header h1  {
+    font-size: 14px;
   }
 }
 
