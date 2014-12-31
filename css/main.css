@@ -286,7 +286,7 @@ ul.sidebar li.active > a {
   /*color: #f0ad4e;*/
   /*color: #8e98b4;*/
   color: #fff;
-  font-size: 17px;
+  font-size: 18px;
   text-align: center;
   line-height: 60px;
   font-weight: 400;
@@ -653,10 +653,6 @@ hr {
     text-align: left;
   }
 
-  .home-header h1 {
-    line-height: 54px;
-  }
-
   .navbar-nav.navbar-right .btn{
     width: 100%;
   }
@@ -681,6 +677,7 @@ hr {
 
   .home-header h1  {
     font-size: 14px;
+    line-height: 32px !important;
   }
 }
 
