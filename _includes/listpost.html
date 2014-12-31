@@ -4,9 +4,9 @@
             <span>{{ include.p.date | date: "%b %-d, %Y" }}</span>
             <span class="date-header-arrow"></span>
         </div>
-        <div class="post-title">
+        <h2 class="post-title">
             <a class="post-link" href="{{ include.p.url | prepend: site.baseurl }}">{{ include.p.title }}</a>
-        </div>
+        </h2>
         {% assign author = site.data.authors[include.p.author] %}
           <span class="post-byline">
             {% if author %}
