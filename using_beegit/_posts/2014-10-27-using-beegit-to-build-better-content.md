@@ -8,6 +8,7 @@ image: https://s3.amazonaws.com/beegit-images/blog/headers/build-better-content.
 author: mike_cottrill
 comments: true
 shortUrl: 
+redirect_from: "/2014/10/27/Using-Beegit-to-build-better-content/"
 
 ---
 
