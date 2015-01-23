@@ -21,5 +21,5 @@ thom_parkin:
     name: Thom Parkin
     email: thom.parkin@websembly.com
     web: https://www.packtpub.com/application-development/mastering-git-video
-    gravatar: https://s.gravatar.com/avatar/623179dddb051b66503b3d483347b936?s=64
+    gravatar: https://s3.amazonaws.com/beegit-images/blog/avatars/thom-parkin.png
     details: Thom Parkin has been writing software since the time when all phones had wires. He is a technical teacher, author and has been a self-proclaimed ParaHacker for more than 30 years. As an early adopter of git, Thom has been evangelizing this favored SCM to a larger audience; namely everyone else who is NOT a software developer.
