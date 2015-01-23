@@ -61,6 +61,18 @@ ul {
 /* Social Bar Styles */
 /* ----------------------------------------------------------*/
 
+.btn-blue {
+  background-color: #2978bc;
+  border: 1px solid #246ba7;
+  color: #fff;
+}
+
+.btn-blue:hover {
+  background-color: #205d93;
+  border: 1px solid #194c76;
+  color: #fff;
+}
+
 .social-share {
   text-align: right;
   padding: 0 0 20px 0;
@@ -278,13 +290,10 @@ ul.sidebar li.active > a {
 .home-header {
   margin-top: -30px;
   margin-bottom: 30px;
-  /*background-color: #8f5aa0;*/
-  background-color: #6cb5b8;   
+  background: url('../assets/header-bg.jpg') center top #3d4b5b;   
 }
 
 .home-header h1 {
-  /*color: #f0ad4e;*/
-  /*color: #8e98b4;*/
   color: #fff;
   font-size: 18px;
   text-align: center;
@@ -296,11 +305,6 @@ ul.sidebar li.active > a {
 .dash {
   font-family: "Lucida Console", Monaco, monospace;
 }
-
-/*.home-overlay {
-   background: rgba(47,60,97, 0.7);
-   min-height: 160px;
-}*/
 
 .home h1 { 
   margin-bottom: 25px; 
@@ -385,6 +389,12 @@ ul.sidebar li.active > a {
   text-align: left;
   padding: 0 0 20px;
   margin: 0;
+ }
+
+ .footnotes {
+  border-top: 1px dotted #dddddd;
+  margin-top: 20px;
+  padding-top: 24px;
  }
 
 
