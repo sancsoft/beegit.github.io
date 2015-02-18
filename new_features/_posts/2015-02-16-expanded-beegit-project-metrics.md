@@ -8,7 +8,6 @@ image: https://s3.amazonaws.com/beegit-images/blog/headers/expanded-project-metr
 author: mike_cottrill
 comments: true
 shortUrl: 
-redirect_from:
 
 ---
 
