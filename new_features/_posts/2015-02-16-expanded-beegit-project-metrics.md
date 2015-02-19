@@ -17,7 +17,7 @@ Now, our expanded project metrics will make it even easier to see how your conte
 
 The updated metrics let you dig deeper into how much time the group has spent on the project, and offer a breakdown of where individuals have been spending their time. They also show the words added and deleted during a specific stretch of time. 
 
-The big update to these metrics is a new sort that lets you select how you want to view your time data: by 7 days, 30 days, 3 months, or since the beginning of time (more specifically, since the beginning of the project). 
+The big update to these metrics is a new date range filter that lets you select how you want to view your time data: by 7 days, 30 days, 3 months, or since the beginning of time (more specifically, since the beginning of the project). 
 
 ![30-day-metrics-1.jpg](https://ucarecdn.com/dd948156-5efe-4522-aed6-cc2f08f443fe/)
 
