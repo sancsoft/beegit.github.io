@@ -141,6 +141,43 @@ iframe {
   background-color: #0976b4;
 }
 
+/* AppSumpo Styling*/
+/* ----------------------------------------------------------*/
+
+.sumome-smartbar-content .sumome-smartbar-form button {
+  font-size: 12px !important;
+  height: 30px !important;
+  margin-top: 3px !important;
+}
+
+.sumome-smartbar-input input {
+  border-radius: 3px !important;
+  height: 30px !important;
+  margin-top: 3px !important;
+}
+
+.sumome-popup .sumome-popup-content .sumome-popup-form h2.sumome-popup-heading, .sumome-popup-preview .sumome-popup-content .sumome-popup-form h2.sumome-popup-heading {
+  font-weight: normal !important;
+}
+
+.sumome-smartbar-link img {
+  opacity: 0.3;
+  filter: alpha(opacity=30); /* For IE8 and earlier */
+}
+
+.sumome-popup .sumome-popup-content, .sumome-popup-preview .sumome-popup-content {
+  padding: 30px !important;
+}
+
+.sumome-popup-text {
+  text-align: center !important;
+  font-size: 14px !important;
+}
+
+input.sumome-popup-input {
+  border-radius: 4px !important;
+}
+
 
 /* Layout Styles */
 /* ----------------------------------------------------------*/
