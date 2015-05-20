@@ -18,7 +18,7 @@ First, we've implemented keyboard shortcuts for common actions that make it easi
 
 Take a look at the shortcuts available: 
 
-![shortcuts.png](https://ucarecdn.com/fb520abe-0f83-4ce7-8805-1b81e77a463f/)
+![shortcuts.png](https://ucarecdn.com/aa937a32-6c74-4554-8c95-5588851503f1/)
 
 Our second productivity improvement is an expanded markdown cheatsheet that shows more use cases like superscript, subscript and horizontal rule. We've also relocated the cheatsheet to a more visible spot in the top site navigation (And of course, by keyboard shortcut `ctrl/cmd + K`). For people new to Markdown, this full cheatsheet serves as a handy reference.
 
