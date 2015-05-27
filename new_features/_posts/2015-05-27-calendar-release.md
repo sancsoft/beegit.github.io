@@ -24,6 +24,10 @@ To help simplify your content workflow, you can manage file due dates from that 
 
 Additionally, you can click on any file name in the upcoming due dates view and you will be taken to that file. 
 
+Visit any file in any of your projects to get started setting due dates.
+
+![DueDate.png](https://ucarecdn.com/02165520-a0df-4f18-a43e-c95aa2457c5f/)
+
 While this is the calendar release, we made a couple more platform improvements worth noting while we were working:
 
 - We moved the autosave indicator to the toolbar so it would be more visible. It can also be seen in full screen mode now.
