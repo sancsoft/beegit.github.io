@@ -191,22 +191,20 @@ input.sumome-popup-input {
 .site-header img {
   width: 32px;
   height: 32px;
-  margin-top: 5px;
 }
 
 .navbar {
   min-height: 0;
   margin-bottom: 0;
-  background-color: red;
+  background-color: #2c3e50;
 }
 
-/*.navbar-inverse {
-  background-color: transparent;
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>li:hover {
+  background-color: #1a242f;
 }
-*/
 
 .navbar-inverse .navbar-nav>li>a {
-  color: #aeb2b7;
+  color: #fff;
 }
 
 
@@ -257,78 +255,18 @@ input.sumome-popup-input {
   margin-top: -1px;
 }
 
-/* Sidebar Styles */
-/* ----------------------------------------------------------*/
-
-.cat-header {
-  margin-top: 20px;
-}
-
-ul.sidebar {
-  list-style-type: none;
-  margin-top: 20px;
-}
-
-ul.sidebar > .category {
-  font-weight: 500;
-  font-size: 14px;
-  padding-bottom: 6px;
-  padding-top: 20px;
-}
-
-ul.sidebar li {
-  list-style-type: none;
-  line-height: 16px;
-  font-size: 14px;
-  padding: 6px 0;
-}
-
-ul.sidebar li {
-  border-left: 2px solid #fff;
-}
-
-ul.sidebar li > a {
-  padding: 0 0 0 10px;
-  display: list-item;
-}
-
-ul.sidebar li:hover {
-  border-left: 2px solid #fff;
-}
-
-ul.sidebar li.active {
-  border-left: 2px solid #6cb5b8;
-}
-
-ul.sidebar li.active > a {
-  font-weight: 500;
-  color: #333;
-}
-
-.subscribe {
-  padding-left: 12px;
-  color: #999;
-}
-
-.subscribe:hover {
-  text-decoration: underline;
-}
-
-.subscribe .fa {
-  margin-right: 5px;
-}
-
 
 /* Home styles */
 /* ----------------------------------------------------------*/
 
-.home-header {
+
+.image-header {
   background: url('../assets/header-bg.jpg') center center #3d4b5b; 
   height: 450px; 
   background-size: cover; 
 }
 
-.home-header h1 {
+.image-header h1 {
   color: #fff;
   font-size: 18px;
   text-align: center;
@@ -337,15 +275,10 @@ ul.sidebar li.active > a {
   padding-top: 160px;
 }
 
-.home-header-overlay {
-  position: absolute;
-  top: 0;
-  left: 0;
+.image-header-overlay {
   height: 100%;
   width: 100%;
-  background: #252b33;
-  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=35);
-  opacity: 0.35;
+  background-color: rgba(37, 43, 51, 0.45);
 }
 
 .dash {
