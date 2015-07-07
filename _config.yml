@@ -9,5 +9,5 @@ url: "http://blog.beegit.com"
 markdown: kramdown
 permalink: pretty
 
-gems:
-  - jekyll-redirect-from
+# gems:
+#  - jekyll-redirect-from
