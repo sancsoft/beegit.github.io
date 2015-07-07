@@ -2,13 +2,13 @@
 layout: default
 ---
 
-<div class="col-md-8 col-sm-offset-1 post-content">
+<div class="col-md-10 col-sm-offset-1 post-content">
     <div class="post-wrapper">
       <header class="post-header">
-         <div class="date-header">
+        <!--  <div class="date-header">
             <span>{{ page.date | date: "%b %-d, %Y" }}</span>
             <span class="date-header-arrow"></span>
-         </div>
+         </div> -->
           <h2>{{ page.title }}</h2>
           {% assign author = site.data.authors[page.author] %}
           <span class="post-metadata">
@@ -71,7 +71,4 @@ layout: default
     </div>
     </article>
     </div>
-</div>
-<div class="col-md-2">
-  {% include sidebar.html %}
 </div>

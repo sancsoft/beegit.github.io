@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="col-md-8 col-md-offset-1 home">
+<div class="col-md-12 home">
     <div class="posts">
         <div class="row">
             {% for post in site.categories.using_beegit %}
@@ -10,7 +10,4 @@ layout: default
             {% endfor %}
         </div>
     </div>
-</div>
-<div class="col-md-2">
-    {% include sidebar.html %}
 </div>
