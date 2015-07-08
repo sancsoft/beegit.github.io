@@ -18,17 +18,17 @@ layout: default
 {% endfor %}
 <div class="container">
   <div class="col-md-12">
+      <h2 class="posts-intro">All Posts</h2>
+  </div>
+</div>
+<div class="container">
+  <div class="col-md-12">
     <div class="posts">
         <div class="row">
           {% for post in site.posts offset:1 %}
             {% include listpost.html p=post %}
           {% endfor %}
         </div>
-        <!-- div class="row">
-          {% for post in site.posts limit:1 %}
-            <a href="{{ post.url }}"><img src="{{ post.image }}"></a>
-          {% endfor %}
-        </div> -->
     </div>
   </div>
 </div>

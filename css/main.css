@@ -51,7 +51,7 @@ strong {
 .post-content p, .post-content ul, .post-content ol {
   color: #333;
   font-weight: 300;
-  font-size: 1.3em;
+  font-size: 1.2em;
   line-height: 1.8;
   padding-bottom: 10px;
   padding-top: 4px;
@@ -297,7 +297,7 @@ input.sumome-popup-input {
   color: #fff;
   font-size: 34px;
   text-align: center;
-  line-height: 55px;
+  line-height: 48px;
   font-weight: 400;
   padding-top: 70px;
   word-spacing: 2px;
@@ -306,10 +306,10 @@ input.sumome-popup-input {
 
 .image-header h3 {
   color: #bababa;
-  font-size: 16px;
+  font-size: 17poaspx;
   text-align: center;
   line-height: 55px;
-  font-weight: 400;
+  font-weight: 300;
   padding-top: 80px;
   word-spacing: 2px;
   letter-spacing: .8px;
@@ -345,19 +345,37 @@ input.sumome-popup-input {
 .image-header .post-metadata {
   text-align: center;
   margin-top: 8px;
-  margin-bottom: 2px;
+  padding-bottom: 2px;
   color: #fff;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 300;
 }
 
-.image-header .post-due-date {
-  margin-top: 0;
+.image-header .post-publish-date {
+  padding: 6px 10px 0 10px;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 300;
+  text-transform: uppercase;
   color: #bbbbbb;
+  border-top: 4px solid #6cb5b8;
 }
 
 .image-header-overlay {
   height: 450px; 
   width: 100%;
   background-color: rgba(37, 43, 51, 0.65);
+}
+
+.posts-intro {
+  text-align: center;
+  color: #aaa;
+  font-size: 22px;
+  padding-top: 15px;
+  text-transform: uppercase;
+  word-spacing: 2px;
+  letter-spacing: .5px;
+  margin-bottom: 0;
+  font-weight: 300;
 }
 
 .dash {
@@ -367,7 +385,7 @@ input.sumome-popup-input {
 .posts { 
   list-style-type: none; 
   text-align: left;
-  padding-top: 20px;
+  padding-top: 10px;
 }
 
 .posts img {
@@ -415,11 +433,11 @@ input.sumome-popup-input {
 .post-byline {
   display: block;
   text-align: center;
-  font-size: 12px;
+  font-size: 14px;
   padding-bottom: 10px;
-  letter-spacing: 1px;
-  color: #bbb;
-  font-weight: 400;
+  letter-spacing: 0.7px;
+  color: #aaa;
+  font-weight: 300;
   font-family: 'Oswald', sans-serif;
   text-transform: uppercase;
 }
@@ -459,7 +477,7 @@ input.sumome-popup-input {
  h2.post-title { 
   width: 100%;
   text-align: center;
-  padding: 10px 0 20px;
+  padding: 10px 0 15px;
   margin: 0;
  }
 
@@ -537,12 +555,12 @@ input.sumome-popup-input {
 .post-author-image img{
   height: 72px;
   width: 72px;
-  border-radius: 32px;
+  border-radius: 50%;
   position: absolute;
 }
 
 .post-author-details {
-  margin-left: 80px;
+  margin-left: 90px;
   font-weight: 300;
   font-size: 1.1em;
   line-height: 1.5;
@@ -552,6 +570,7 @@ input.sumome-popup-input {
 .post-author-details h5 {
   margin: 0 !important;
   padding-bottom: 5px;
+  padding-top: 5px;
   letter-spacing: .2px;
 }
 
