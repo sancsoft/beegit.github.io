@@ -123,6 +123,12 @@ iframe {
   transition:.5s;
 }
 
+.social-share a img {
+  width: 16px;
+  height: 16px;
+  padding: 0;
+}
+
 .social-share a:hover {
   background-color: #aaa;
   -o-transition:.5s;
