@@ -8,7 +8,9 @@ image: https://s3.amazonaws.com/beegit-images/blog/headers/export-to-indesign.jp
 author: jd_eaton
 comments: true
 shortUrl: 
-redirect_from: "/2014/08/04/export-to-indesign/"
+redirect_from: 
+ - /2014/08/04/export-to-indesign/
+ - /using_beegit/2014/08/04/export-to-indesign/
 
 ---
 

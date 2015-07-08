@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% for post in site.categories['using_beegit'] limit:1 %}
+{% for post in site.categories['platform'] limit:1 %}
 <div class="container-fluid image-header" style="background-image: url('{{ post.image }}');">
   <div class="row">
     <div class="image-header-overlay">
@@ -19,14 +19,14 @@ layout: default
 {% endfor %}
 <div class="container">
   <div class="col-md-12">
-      <h2 class="posts-intro">More Using Beegit Posts</h2>
+      <h2 class="posts-intro">More Platform Posts</h2>
   </div>
 </div>
 <div class="container">
 	<div class="col-md-12">
 	    <div class="posts">
 	        <div class="row">
-	            {% for post in site.categories.using_beegit offset:1 %}
+	            {% for post in site.categories.platform offset:1 %}
 	            {% include listpost.html p=post %}
 	            {% endfor %}
 	        </div>

@@ -7,7 +7,7 @@ teaser: Content is king. Bill Gates said as much in the 1990’s, well before th
 image: https://s3.amazonaws.com/beegit-images/blog/headers/introducing-beegit.jpg
 author: mike_cottrill
 comments: true
-shortUrl: 
+redirect_from: /buzz/2014/04/28/introducing-beegit/ 
 
 ---
 

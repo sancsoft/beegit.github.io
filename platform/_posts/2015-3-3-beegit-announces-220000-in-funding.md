@@ -7,6 +7,7 @@ teaser: We're happy and humbled to announce a funding round that will help us gr
 image: https://s3.amazonaws.com/beegit-images/blog/headers/beegit-announces-funding.jpg
 author: mike_cottrill
 comments: true
+redirect_from: /buzz/2015/03/03/beegit-announces-220000-in-funding/
 
 ---
 Today is an exciting day at Beegit HQ. 
