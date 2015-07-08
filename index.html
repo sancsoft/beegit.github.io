@@ -1,8 +1,19 @@
 ---
 layout: default
 ---
-  
-  <div class="col-md-12home">
+<div class="container-fluid image-header" style="background-image: url('/assets/header-bg.jpg');">
+  <div class="row">
+    <div class="image-header-overlay">
+      <div class="container">
+        <div class="col-md-8 col-md-offset-2">
+          <h1>Contentable <span class="dash">&ndash;</span> Agile content, content strategy &amp; writing technology</h1>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container">
+  <div class="col-md-12">
     <div class="posts">
         <div class="row">
           {% for post in site.posts %}
@@ -11,3 +22,4 @@ layout: default
         </div>
     </div>
   </div>
+</div>

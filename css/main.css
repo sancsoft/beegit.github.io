@@ -81,7 +81,7 @@ iframe {
   text-align: right;
   padding: 0 0 20px 0;
   border-bottom: 4px solid #6cb5b8;
-  margin-top: 40px;
+  margin-top: 30px;
 }
 
 .social-share p {
@@ -281,29 +281,53 @@ input.sumome-popup-input {
   background: center center #3d4b5b; 
   height: 450px; 
   background-size: cover; 
+  text-align: center;
 }
 
 .image-header h1 {
   color: #fff;
-  font-size: 18px;
+  font-size: 36px;
   text-align: center;
-  line-height: 60px;
+  line-height: 55px;
   font-weight: 400;
-  padding-top: 160px;
+  padding-top: 70px;
+  word-spacing: 2px;
+  letter-spacing: .8px
+}
+
+.image-header .post-author-image-header {
+  margin: 0 auto;
+  text-align: center;
+  display: block;
+  margin-top: 30px;
+}
+
+.image-header .post-author-image-header img {
+  border-radius: 50%;
+  height: 64px;
+  width: 64px;
+}
+
+.image-header .post-metadata {
+  text-align: center;
+  margin-top: 8px;
+  margin-bottom: 2px;
+  color: #fff;
+}
+
+.image-header .post-due-date {
+  margin-top: 0;
+  color: #bbbbbb;
 }
 
 .image-header-overlay {
-  height: 100%;
+  height: 450px; 
   width: 100%;
-  background-color: rgba(37, 43, 51, 0.55);
+  background-color: rgba(37, 43, 51, 0.6);
 }
 
 .dash {
   font-family: "Lucida Console", Monaco, monospace;
-}
-
-.home h1 { 
-  margin-bottom: 25px; 
 }
 
 .posts { 
@@ -494,6 +518,7 @@ input.sumome-popup-input {
 .post-content img {
   max-width: 100%;
   height: auto;
+  text-align: center;
 }
 
 .post-content > * { 
