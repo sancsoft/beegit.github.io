@@ -24,7 +24,7 @@ layout: default
   </div>
 </div>
 <div class="container">
-  <div class="col-md-10 col-sm-offset-1 post-content">
+  <div class="col-md-8 col-md-offset-2 post-content">
       <div class="post-wrapper">
         <header class="post-header">
           {% capture url %}{{ site.url }}{{ page.url }}{% endcapture %}
@@ -54,6 +54,27 @@ layout: default
               </div>
             </div>
             {% endif %}
+             <div class="panel panel-default">
+                 <div class="panel-body">
+                    <div class="row">
+                      <div class="col-md-12">
+                        <h4 class="text-center">Join some of the world's smartest companies</h4>
+                      </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12 text-center">
+                          <a class="btn btn-blue" href="https://beegit.com/signup" target="_blank">
+                            Sign Up Free Today
+                          </a>
+                        </div>
+                    </div> 
+                    <div>
+                        <div class="col-md-12 text-center">
+                          <img src="/assets/customer-logos.png" class="img-responsive">
+                        </div>
+                    </div> 
+                 </div>
+            </div>
             {% if page.comments %}
           <div id="disqus_thread"></div>
           <script type="text/javascript">
@@ -69,17 +90,7 @@ layout: default
           </script>
           <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
         {% endif %}
-        	 <div class="panel panel-default">
-            <div class="panel-body">
-              <h4 class="text-center">Start writing better, together</h4>
-        	   <p class="text-center">
-              <a class="btn btn-warning" href="https://beegit.com/signup">
-                Create Your Free Account Today
-              </a>
-            </p>
-           </div>
         </div>
-      </div>
       </article>
     </div>
   </div>

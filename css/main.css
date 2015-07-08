@@ -195,6 +195,13 @@ input.sumome-popup-input {
   border-radius: 4px !important;
 }
 
+/* Disqus Styling*/
+/* ----------------------------------------------------------*/
+
+#disqus_thread {
+  margin-bottom: 100px;
+}
+
 
 /* Layout Styles */
 /* ----------------------------------------------------------*/
@@ -589,6 +596,11 @@ input.sumome-popup-input {
   padding: 0 10px;
 }
 
+.post-content .panel a { 
+  text-transform: uppercase;
+  margin-bottom: 0 !important;
+}
+
 .post-content img {
   max-width: 100%;
   height: auto;
@@ -600,12 +612,18 @@ input.sumome-popup-input {
 }
 
 .post-content .panel {
-  background-color: #f2f2f2;
+  background-color: #f1f1f1;
+  border: 0;
   margin: 30px 0;
 }
 
-.post-content .panel .panel-body > h4 {
-  margin: 28px 0 20px 0 !important;
+.post-content .panel img {
+  margin: 0 auto;
+  padding: 15px;
+}
+
+.post-content .panel .panel-body h4 {
+  font-weight: 300;
 }
 
 .post-content .panel .panel-body .btn {
@@ -867,5 +885,9 @@ hr {
       -moz-transform: rotate(0deg);
       -o-transform: rotate(0deg);
       -ms-transform: rotate(0deg);
+  }
+
+  .post-content .panel img {
+    display: none;
   }
 }
