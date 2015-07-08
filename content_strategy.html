@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% for post in site.categories['agile_content'] limit:1 %}
+{% for post in site.categories['content_strategy'] limit:1 %}
 <div class="container-fluid image-header" style="background-image: url('{{ post.image }}');">
   <div class="row">
     <div class="image-header-overlay">
@@ -21,7 +21,7 @@ layout: default
 	<div class="col-md-12 home">
 	    <div class="posts">
 	        <div class="row">
-	            {% for post in site.categories.agile_content offset:1 %}
+	            {% for post in site.categories.content_strategy offset:1 %}
 	            {% include listpost.html p=post %}
 	            {% endfor %}
 	        </div>
