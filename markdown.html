@@ -2,22 +2,25 @@
 layout: default
 ---
 
-<div class="container-fluid image-header" style="background-image: url('/assets/header-bg.jpg');">
+{% for post in site.categories['markdown'] limit:1 %}
+<div class="container-fluid image-header" style="background-image: url('{{ post.image }}');">
   <div class="row">
     <div class="image-header-overlay">
       <div class="container">
         <div class="col-md-8 col-md-offset-2">
-          <h1 class="header-single-line">Markdown</h1>
+          <h1 class="featured">{{post.title}}</h1>
+          <a href="{{ post.url }}" class="btn btn-warning">READ POST</a>
         </div>
       </div>
     </div>
   </div>
 </div>
+{% endfor %}
 <div class="container">
 	<div class="col-md-12">
 	    <div class="posts">
 	        <div class="row">
-	            {% for post in site.categories.markdown %}
+	            {% for post in site.categories.markdown offset:1 %}
 	            {% include listpost.html p=post %}
 	            {% endfor %}
 	        </div>

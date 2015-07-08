@@ -295,15 +295,21 @@ input.sumome-popup-input {
   letter-spacing: .8px
 }
 
-.image-header h1.header-single-line {
+.image-header h1.featured {
   color: #fff;
   font-size: 34px;
   text-align: center;
-  line-height: 55px;
+  line-height: 46px;
   font-weight: 400;
-  padding-top: 180px;
+  padding-top: 120px;
   word-spacing: 2px;
   letter-spacing: .8px
+}
+
+.image-header .btn {
+  margin-top: 20px;
+  border-radius: 3px;
+  padding: 10px 20px;
 }
 
 .image-header .post-author-image-header {
@@ -355,7 +361,7 @@ input.sumome-popup-input {
 .posts li { 
   line-height: 1;
   margin-bottom: 40px;
-  min-height: 460px !important;
+  min-height: 450px !important;
   border-bottom: 4px solid #6cb5b8;
   padding: 0 5px;
 }
