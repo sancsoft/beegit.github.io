@@ -48,7 +48,7 @@ To export a file from Beegit, navigate to your dashboard and locate the content 
 
 After exporting our sample project, the next step is to configure the layout. Our document has already been configured and images have been placed and scaled. In addition, three text frames have been created that will contain the content. We've broken them apart by the content they will house. Two of them are one column (one for the headline, subhead and byline, one for the pull quote) and one is three column (for the body copy). Text frame columns can be configured by choosing `Object > Text Frame Options.` 
 
-In order for the content to sequentially flow through the all three text frames, they have to be connected together[^1]. This is accomplished by clicking on the in port located the bottom right corner of each text frame. This gives you the loaded text icon <img src="https://s3.amazonaws.com/beegit-images/blog/indesign_demo/manof.png" style="width: 16px; height: 16px"> that you then drag the icon and click into the text frame you want your content to sequentially flow to. Repeat the process for all three text boxes. You can see the sequence the frames are linked together at any time by choosing `View > Extras > Show Text Threads`. 
+In order for the content to sequentially flow through the all three text frames, they have to be connected together. This is accomplished by clicking on the in port located the bottom right corner of each text frame. This gives you the loaded text icon <img src="https://s3.amazonaws.com/beegit-images/blog/indesign_demo/manof.png" style="width: 16px; height: 16px"> that you then drag the icon and click into the text frame you want your content to sequentially flow to. Repeat the process for all three text boxes. You can see the sequence the frames are linked together at any time by choosing `View > Extras > Show Text Threads`. 
 
 <a href="https://s3.amazonaws.com/beegit-images/blog/indesign_demo/inDesignDemo4.jpg"><img src="https://s3.amazonaws.com/beegit-images/blog/indesign_demo/inDesignDemo4.jpg"></a>
 
@@ -84,7 +84,7 @@ Inside the `Paragraph Styles` panel, double click on Header 1. This will open a 
 * **Hyphenation** Unchecked
 * **Character Color** Paper
 
-> **Note:** Make sure you have checked the `Preview` button in the left corner of the dialog box to see your styling in real time. Once styling is completed, click the `OK` button.
+**Note:** Make sure you have checked the Preview button in the left corner of the dialog box to see your styling in real time. Once styling is completed, click the OK button.
 
 <a href="https://s3.amazonaws.com/beegit-images/blog/indesign_demo/inDesignDemo8.jpg"><img src="https://s3.amazonaws.com/beegit-images/blog/indesign_demo/inDesignDemo8.jpg"></a>
 
@@ -144,7 +144,3 @@ With the `Links` panel open and the ICML file updated, you will see the modified
 
 We're pretty proud of our export to InDesign feature and would love to know how you are using it or how we can make it better. Feel free to shoot us a tweet @[ProjectBeegit](https://twitter.com/ProjectBeegit) with any feedback or suggestions that you may have. 
 
-
----
-
-[^1]: More information about threading text can be found on [Adobe's website](http://helpx.adobe.com/indesign/using/threading-text.html)

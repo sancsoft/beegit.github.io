@@ -31,11 +31,11 @@ We deal with this when we share our weekly release notes with users at [Beegit](
 
 Here's how an early update was described on our Dev team's Trello board: 
 
-> Browse full commit UI 
+	Browse full commit UI
 
 Here's how we ended up explaining that to our users: 
 
-> You can now see a quick overview of all the files that were updated across your entire project. You can also dive into an individual file to see the changes in context. 
+	You can now see a quick overview of all the files that were updated across your entire project. You can also dive into an individual file to see the changes in context.
 
 ### 3. Ask leading questions 
 
