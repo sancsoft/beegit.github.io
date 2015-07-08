@@ -10,10 +10,7 @@ html, body { height: 100%; }
 
 body {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  line-height: 1.5;
-  font-weight: 400;
-/*  background-color: #e4e5e6;
-*/}
+}
 
 h1, h2, h3, h4, h5, h6 { 
   font-size: 100%; 
@@ -47,15 +44,18 @@ a:hover {
 
 /* Utility */
 
-p {
+.post-content p, .post-content ul, .post-content ol {
   color: #333;
-  line-height: 26px;
   font-weight: 400;
+  font-size: 1.3em;
+  line-height: 1.8;
+  font-weight: 300;
+  padding-bottom: 12px;
+  padding-top: 12px;
 }
 
-ul {
-  color: #333;
-  line-height: pos;
+.post-content li {
+  padding-bottom: 20px;
 }
 
 iframe {
@@ -286,11 +286,22 @@ input.sumome-popup-input {
 
 .image-header h1 {
   color: #fff;
-  font-size: 36px;
+  font-size: 34px;
   text-align: center;
   line-height: 55px;
   font-weight: 400;
   padding-top: 70px;
+  word-spacing: 2px;
+  letter-spacing: .8px
+}
+
+.image-header h1.header-single-line {
+  color: #fff;
+  font-size: 34px;
+  text-align: center;
+  line-height: 55px;
+  font-weight: 400;
+  padding-top: 180px;
   word-spacing: 2px;
   letter-spacing: .8px
 }
@@ -393,7 +404,7 @@ input.sumome-popup-input {
 .post-teaser {
   text-align: center;
   font-size: 14px;
-  line-height: 22px;
+  line-height: 20px;
 }
 
 /* Post styles */
