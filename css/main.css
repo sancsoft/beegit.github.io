@@ -96,21 +96,23 @@ iframe {
 .social-share p {
   display: inline-block;
   margin: 0 !important;
-  padding: 2px 4px 0 0;
+  padding: 5px 4px 0 0;
   color: #aaa;
   float: left;
-  font-size: 12px;
+  font-size: 18px;
   text-transform: uppercase;
-  }
+  font-family: 'Oswald', sans-serif;
+  font-weight: 300;
+}
 
 .social-share a {
   display: inline-block;
-  width: 30px;
-  line-height: 30px;
-  height: 30px;
-  border-radius: 15px;
+  width: 42px;
+  line-height: 42px;
+  height: 42px;
+  border-radius: 50%;
   background: #111;
-  font-size: 16px;
+  font-size: 18px;
   margin: 0 2px;
   color: #fff;
   text-align: center;
@@ -197,9 +199,12 @@ input.sumome-popup-input {
   background-color: transparent;
 }
 
+
 .site-header img {
-  width: 32px;
+  width: 147px;
   height: 32px;
+  margin-top: 2px;
+  cursor: pointer !important;
 }
 
 .navbar-fixed-top {
@@ -843,4 +848,18 @@ hr {
     margin: 0 auto;
   }
 
+  .social-share {
+    text-align: center;
+  }
+
+  .social-share p {
+    display: none;
+  }
+
+  .social-share a:hover {
+     -webkit-transform: rotate(0deg);
+      -moz-transform: rotate(0deg);
+      -o-transform: rotate(0deg);
+      -ms-transform: rotate(0deg);
+  }
 }
