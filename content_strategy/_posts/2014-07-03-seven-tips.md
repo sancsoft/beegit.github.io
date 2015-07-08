@@ -7,8 +7,7 @@ teaser: After years of bugging bosses and colleagues about the role content play
 image: https://s3.amazonaws.com/beegit-images/blog/headers/7-tips-to-involve-non-writers.jpg
 author: mike_cottrill
 comments: true
-redirect_from: "/buzz/2014/07/03/seven-tips/"
-shortUrl: 
+redirect_from: /buzz/2014/07/03/seven-tips/
 
 ---
 

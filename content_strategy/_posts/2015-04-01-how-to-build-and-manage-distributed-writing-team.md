@@ -7,8 +7,10 @@ teaser: The rise of the remote worker presents opportunities to grow your writin
 image: https://s3.amazonaws.com/beegit-images/blog/headers/build-distributed-writing-team.jpg
 author: mike_cottrill
 comments: true
+redirect_from: agile_content/2015/04/01/how-to-build-and-manage-distributed-writing-team/
 
 ---
+
 The Internet has provided us with so many things --- endless cat GIFs, interrupting Kanye West memes and the ability to work effectively from anywhere. 
 
 The rise of the [remote worker](http://www.nytimes.com/2014/03/08/your-money/when-working-in-your-pajamas-is-more-productive.html?_r=0) presents opportunities for your businesses to grow quickly and offer job flexibility that will let you source talent from all over the world. Plugging in from the couch or the local hipster coffee place can work particularly well for writing teams, as there is so much quiet, independent work that can be done. 

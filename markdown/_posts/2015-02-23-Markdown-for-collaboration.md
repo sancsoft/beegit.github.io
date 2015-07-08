@@ -7,6 +7,8 @@ teaser: Markdown is the syntax for the agile content marketer
 image: https://s3.amazonaws.com/beegit-images/blog/headers/markdown-for-agile-collaboration.jpg
 author: mike_cottrill
 comments: true
+redirect_from:
+ - /agile_content/2015/02/23/Markdown-for-collaboration/
 
 ---
 

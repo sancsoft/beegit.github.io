@@ -7,8 +7,10 @@ teaser: When it comes to content strategy, you need to think about making it fle
 image: https://s3.amazonaws.com/beegit-images/blog/headers/agile-content-sparksheet.jpg
 author: mike_cottrill
 comments: true
+redirect_from: /agile_content/2015/03/17/why-you-should-embrace-agile-content/
 
 ---
+
 **The following is part of a guest post Beegit’s Mike Cottrill wrote for [Sparksheet](http://sparksheet.com/why-publishers-should-embrace-agile-content/).** 
 
 Since multi-channel content is what all the cool kids are talking about, people ask us constantly at [Beegit](https://beegit.com) which social, web and mobile platforms their organization should use.
