@@ -42,16 +42,19 @@ a:hover {
   border: 0;
 }
 
+strong {
+  font-weight: 500;
+}
+
 /* Utility */
 
 .post-content p, .post-content ul, .post-content ol {
   color: #333;
-  font-weight: 400;
+  font-weight: 300;
   font-size: 1.3em;
   line-height: 1.8;
-  font-weight: 300;
-  padding-bottom: 12px;
-  padding-top: 12px;
+  padding-bottom: 10px;
+  padding-top: 4px;
 }
 
 .post-content li {
@@ -64,6 +67,12 @@ iframe {
 
 /* Social Bar Styles */
 /* ----------------------------------------------------------*/
+
+.btn {
+  margin-top: 20px;
+  border-radius: 3px;
+  padding: 12px 24px;
+}
 
 .btn-blue {
   background-color: #2978bc;
@@ -295,21 +304,29 @@ input.sumome-popup-input {
   letter-spacing: .8px
 }
 
+.image-header h3 {
+  color: #bababa;
+  font-size: 16px;
+  text-align: center;
+  line-height: 55px;
+  font-weight: 400;
+  padding-top: 80px;
+  word-spacing: 2px;
+  letter-spacing: .8px;
+  border-bottom: 4px solid #6cb5b8;
+  width: 200px;
+  margin: 0 auto;
+}
+
 .image-header h1.featured {
   color: #fff;
   font-size: 34px;
   text-align: center;
   line-height: 46px;
   font-weight: 400;
-  padding-top: 120px;
+  padding-top: 10px;
   word-spacing: 2px;
   letter-spacing: .8px
-}
-
-.image-header .btn {
-  margin-top: 20px;
-  border-radius: 3px;
-  padding: 10px 20px;
 }
 
 .image-header .post-author-image-header {
@@ -340,7 +357,7 @@ input.sumome-popup-input {
 .image-header-overlay {
   height: 450px; 
   width: 100%;
-  background-color: rgba(37, 43, 51, 0.6);
+  background-color: rgba(37, 43, 51, 0.65);
 }
 
 .dash {
@@ -436,6 +453,7 @@ input.sumome-popup-input {
     width: auto;
     text-align: center;
     vertical-align: middle;
+    margin-let: -20%;
 }
 
  h2.post-title { 
@@ -449,6 +467,12 @@ input.sumome-popup-input {
   border-top: 1px dotted #dddddd;
   margin-top: 20px;
   padding-top: 24px;
+ }
+
+ .footnotes ol {
+  font-size: 1.1em;
+  line-height: 1.8;
+  font-weight: 300;
  }
 
 
@@ -511,20 +535,23 @@ input.sumome-popup-input {
 }
 
 .post-author-image img{
-  height: 64px;
-  width: 64px;
+  height: 72px;
+  width: 72px;
   border-radius: 32px;
   position: absolute;
 }
 
 .post-author-details {
   margin-left: 80px;
-  font-size: 14px;
+  font-weight: 300;
+  font-size: 1.1em;
+  line-height: 1.5;
+  color: #333;
 }
 
 .post-author-details h5 {
   margin: 0 !important;
-  padding-bottom: 8px;
+  padding-bottom: 5px;
   letter-spacing: .2px;
 }
 

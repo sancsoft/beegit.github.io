@@ -12,13 +12,13 @@ comments: true
 
 Today is a great day to develop fresh content! 
 
-#### Beegit is here to help with our new free plan for individual users.
+### Beegit is here to help with our new free plan for individual users.
 
 We built Beegit to be the best way for teams to write together, but we've been overwhelmed with requests from writers who wanted an individual plan so they could write all their content in Beegit. 
 
 So we said, why not? Today, we updated our pricing plans to include a [free individual account](https://beegit.com/pricing). 
 
-#### We've also added a new, smaller team plan.
+### We've also added a new, smaller team plan.
 
 The [Startup plan](https://beegit.com/pricing) lets you and up to 2 active team members use Beegit with your team for less than ever, at just $12 total per month.
 
