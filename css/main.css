@@ -193,13 +193,30 @@ input.sumome-popup-input {
   height: 32px;
 }
 
+.navbar-fixed-top {
+    min-height: 65px;
+}
+
+.navbar-nav > li > a {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    line-height: 65px;
+}
+
+@media (max-width: 767px) {
+    .navbar-nav > li > a {
+    line-height: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;}
+}
+
 .navbar {
   min-height: 0;
   margin-bottom: 0;
   background-color: #2c3e50;
 }
 
-.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>li:hover {
+.navbar-inverse .navbar-nav>.active>a {
   background-color: #1a242f;
 }
 
@@ -261,7 +278,7 @@ input.sumome-popup-input {
 
 
 .image-header {
-  background: url('../assets/header-bg.jpg') center center #3d4b5b; 
+  background: center center #3d4b5b; 
   height: 450px; 
   background-size: cover; 
 }
@@ -278,7 +295,7 @@ input.sumome-popup-input {
 .image-header-overlay {
   height: 100%;
   width: 100%;
-  background-color: rgba(37, 43, 51, 0.45);
+  background-color: rgba(37, 43, 51, 0.55);
 }
 
 .dash {
