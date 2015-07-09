@@ -214,7 +214,6 @@ input.sumome-popup-input {
 
 .site-header li .visit-beegit {
   background-color: #f0ad4e;
-  margin-right: -15px;
 }
 
 .site-header li .visit-beegit:hover {
@@ -222,9 +221,9 @@ input.sumome-popup-input {
 }
 
 .site-header img {
-  width: 147px;
-  height: 32px;
-  margin-top: 2px;
+  width: 132px;
+  height: 24px;
+  margin-top: 5px;
   cursor: pointer !important;
 }
 
@@ -275,37 +274,68 @@ input.sumome-popup-input {
 /* Site footer */
 
 .footer {
-  min-height: 100px;
-  padding-top: 10px;
+  min-height: 300px;
+  padding-top: 20px;
+  background-color: #2c3e50;
+}
+
+.footer .footer-column {
+  padding-top: 50px;
+  padding-bottom: 10px;
 }
 
 .footer p {
-  font-size: 12px;
-  color: #999;
+  font-size: 14px;
+  color: #91979e;
 }
 
-.footer-left {
-  margin-bottom: 12px;
+.footer-links {
+  list-style-type: none;
+  line-height: 18px;
 }
 
-.footer-right {
-  text-align: right;
+.footer-links li {
+  padding-bottom: 16px;
 }
 
-.footer-right a {
-  margin-left: 10px;
+.footer h3 {
+  color: #fff;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 600;
+  font-size: 14px;
+  margin-top: 0;
+  padding-bottom: 20px;
+  margin-bottom: 10px;
 }
 
-.footer-right a:first-child {
-  margin-left: 0;
+.footer .footer-column a {
+  color: #91979e;
 }
 
-.footer-right img {
-  width: 10px;
-  height: 10px;
-  vertical-align: middle;
-  margin-top: -1px;
+.footer .footer-column a:hover {
+  border-bottom: 1px solid #91979e;
 }
+
+.footer hr{
+  border-top: 1px solid #1a242f;
+}
+
+.footer img {
+  height: 64px;
+  width: 64px;
+  position: absolute;
+}
+
+.footer .col-sm-6 p {
+  line-height: 28px;
+  padding-right: 30px;
+}
+
+.footer .copyright {
+  padding: 10px 0 20px 0;
+}
+
+
 
 
 /* Home styles */
@@ -631,6 +661,11 @@ input.sumome-popup-input {
   padding: 5px;
 }
 
+.post-content .panel .logo {
+  width: 72px;
+  height: 72px;
+}
+
 .post-content .panel .panel-body h4 {
   font-weight: 300;
   color: #fff;
@@ -796,7 +831,6 @@ hr {
 /* media queries */
 /* ----------------------------------------------------------*/
 
-
 @media screen and (max-width: 768px) {
 
   a.navbar-brand {
@@ -902,5 +936,9 @@ hr {
 
   .post-content .panel img {
     display: none;
+  }
+
+  .footer .col-sm-6 p {
+    padding-right: 0;
   }
 }
