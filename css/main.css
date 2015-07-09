@@ -601,10 +601,10 @@ input.sumome-popup-input {
 }
 
 .post-author {
-  border-top: 1px dotted #dddddd;
+  border-top: 2px solid #eaedee;
   border-bottom: 4px solid #6cb5b8;
-  padding: 40px 0;
-  margin: 30px 0 60px 0;
+  padding: 40px 0 50px;
+  margin: 40px 0 60px 0;
   color: #888;
 }
 
@@ -647,6 +647,21 @@ input.sumome-popup-input {
 
 .post-content > * { 
   margin: 20px 0 20px; 
+}
+
+.post-content .tweet-quote {
+  color: #333;
+  border-bottom: 2px solid #5dbabe;
+}
+
+.post-content .tweet-quote:hover {
+  color: #5dbabe;
+}
+
+.post-content .tweet-quote:after {
+  font-family: "fontawesome";
+  content: "\f099";
+  margin-left: 4px;
 }
 
 .post-content .panel {

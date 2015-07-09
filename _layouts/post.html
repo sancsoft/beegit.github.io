@@ -43,18 +43,7 @@ layout: default
         <article class="post-content">
           <div class="post-wrapper-content">
         	{{ content }}
-            {% if author %}
-            <div class="post-author">
-              <div class="post-author-image">
-                <img src="{{ author.gravatar }}">
-              </div>
-              <div class="post-author-details">
-                <h5>by {{ author.name }}</h5>
-                {{ author.details }}
-              </div>
-            </div>
-            {% endif %}
-             <div class="panel panel-default">
+          <div class="panel panel-default">
                  <div class="panel-body">
                     <div class="row">
                       <div class="col-md-12">
@@ -76,6 +65,17 @@ layout: default
                     </div> 
                  </div>
             </div>
+            {% if author %}
+            <div class="post-author">
+              <div class="post-author-image">
+                <img src="{{ author.gravatar }}">
+              </div>
+              <div class="post-author-details">
+                <h5>by {{ author.name }}</h5>
+                {{ author.details }}
+              </div>
+            </div>
+            {% endif %}
             {% if page.comments %}
           <div id="disqus_thread"></div>
           <script type="text/javascript">
