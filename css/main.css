@@ -68,7 +68,7 @@ iframe {
 /* Social Bar Styles */
 /* ----------------------------------------------------------*/
 
-.btn {
+.btn-blog {
   margin-top: 20px;
   border-radius: 3px;
   padding: 12px 24px;
@@ -174,7 +174,7 @@ iframe {
 }
 
 .sumome-popup .sumome-popup-content .sumome-popup-form h2.sumome-popup-heading, .sumome-popup-preview .sumome-popup-content .sumome-popup-form h2.sumome-popup-heading {
-  font-weight: normal !important;
+  font-weight: 300 !important;
 }
 
 .sumome-smartbar-link img {
@@ -212,6 +212,14 @@ input.sumome-popup-input {
   background-color: transparent;
 }
 
+.site-header li .visit-beegit {
+  background-color: #f0ad4e;
+  margin-right: -15px;
+}
+
+.site-header li .visit-beegit:hover {
+  background-color: #ec971f !important;
+}
 
 .site-header img {
   width: 147px;
@@ -356,8 +364,8 @@ input.sumome-popup-input {
 
 .image-header .post-author-image-header img {
   border-radius: 50%;
-  height: 64px;
-  width: 64px;
+  height: 48px;
+  width: 48px;
 }
 
 .image-header .post-metadata {
@@ -387,7 +395,7 @@ input.sumome-popup-input {
 .posts-intro {
   text-align: center;
   color: #aaa;
-  font-size: 22px;
+  font-size: 20px;
   padding-top: 15px;
   text-transform: uppercase;
   word-spacing: 2px;
@@ -598,7 +606,7 @@ input.sumome-popup-input {
 
 .post-content .panel a { 
   text-transform: uppercase;
-  margin-bottom: 0 !important;
+  margin-top: 20px;
 }
 
 .post-content img {
@@ -612,18 +620,23 @@ input.sumome-popup-input {
 }
 
 .post-content .panel {
-  background-color: #f1f1f1;
+  background-color: #2c3e50;
   border: 0;
   margin: 30px 0;
+  padding: 30px 0;
 }
 
 .post-content .panel img {
   margin: 0 auto;
-  padding: 15px;
+  padding: 5px;
 }
 
 .post-content .panel .panel-body h4 {
   font-weight: 300;
+  color: #fff;
+  font-size: 14px;
+  margin-bottom: 0;
+  margin-top: 15px;
 }
 
 .post-content .panel .panel-body .btn {

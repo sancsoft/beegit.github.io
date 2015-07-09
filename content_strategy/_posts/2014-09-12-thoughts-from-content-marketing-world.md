@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title:  Seven quick and interesting thoughts from Content Marketing World 2014
+title:  Seven thoughts from Content Marketing World 2014
 date:   2014-09-15 12:00:00
 teaser: Content Marketing World 2014 made its way through Cleveland last week and brought a train of marketers, writers and sales people with it. There were some valuable content nuggets worth sharing. Here are seven interesting takeaways from break-out sessions and keynote speakers. 
 image: https://s3.amazonaws.com/beegit-images/blog/headers/cmworld-2014.jpg

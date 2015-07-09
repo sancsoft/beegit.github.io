@@ -1,12 +1,13 @@
 ---
 
 layout: post
-title:  Scroll sync makes it easier to write and preview Markdown content
+title:  Scroll sync makes it easier to write and preview Markdown
 date:   2015-04-29 12:00:00
 teaser: Keep track of what you're working on with an update to our split screen editor that syncs Markdown content and rendered HTML as you scroll down the page. 
 image: https://s3.amazonaws.com/beegit-images/blog/headers/scroll-sync.jpg
 author: mike_cottrill
 comments: true
+redirect_from: /new_features/2015/04/29/scroll-sync-release/
 
 ---
 
