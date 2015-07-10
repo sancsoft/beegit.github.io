@@ -50,6 +50,6 @@ So with Beegit, we started where every marketing, web, journalism and communicat
 
 Our focus was to make everything intuitive so we could revolutionize the way content teams work together by eliminating confusion and helping creators focus on their craft without getting bogged down by technology. 
 
-As we rollout our closed beta, we’re proud of what we’ve built so far. We’re adding a steady stream of sign ups every day from all over the world (you can reserve your spot in our upcoming open beta by signing up here: [https://beegit.com](https://beegit.com). We’ve been pleasantly surprised at the number of people who have found us and shared their excitement about getting their content under control. We know we haven’t solved all the problems teams have with their content, but we’re iterating fast and getting better every day. 
+As we rollout our closed beta, we’re proud of what we’ve built so far. We’re adding a steady stream of sign ups every day from all over the world (you can reserve your spot in our upcoming open beta by signing up at [Beegit](https://beegit.com). We’ve been pleasantly surprised at the number of people who have found us and shared their excitement about getting their content under control. We know we haven’t solved all the problems teams have with their content, but we’re iterating fast and getting better every day. 
 
 Today, there’s a better way to work together on content. We’d love to have you try it out with your team and tell us what you think. 

@@ -13,9 +13,9 @@ Talk about Markdown has been trending upward the last couple of years and maybe 
 
 Created by John Gruber in 2004, Markdown is a text-to-HTML conversion tool for web writers. Use of Markdown has grown because it's the Kix cereal of online content: It's developer tested and writer approved. 
 
-It allows you to write using an easy-to-read, easy-to-write plain text format, which is why it's writer approved. But here's what tech teams like: It converts your text into properly formatted HTML, even if you don’t know a lick of code. The web is written in HTML, so it's a development tool for content creators -- one that prevents bad HTML caused by simple typos. You won’t have any missing closing tags, improperly nested tags or blocks left without containers.
+It allows you to write using an easy-to-read, easy-to-write plain text format, which is why it's writer approved. But here's what tech teams like: <a class="tweet-quote" href="https://twitter.com/intent/tweet?text=&quot;Markdown%20converts%20your%20text%20into%20properly%20formatted%20HTML%2C%20even%20if%20you%20don%E2%80%99t%20know%20a%20lick%20of%20code&quot;&url={{ site.url }}{{ page.url }}&via=ProjectBeegit">Markdown converts your text into properly formatted HTML, even if you don’t know a lick of code</a>. The web is written in HTML, so it's a development tool for content creators -- one that prevents bad HTML caused by simple typos. You won’t have any missing closing tags, improperly nested tags or blocks left without containers.
 
-With that benefit comes the fact that it's light and [flexible](/markdown/2014/05/27/supporting-markdown/). Novice users can learn basic Markdown within a few minutes. The resulting text is much easier on the reader than HTML. Here is a short headline in Markdown, followed by the same headline in HTML: 
+With that benefit comes the fact that [Markdown is light and flexible](/markdown/2014/05/27/supporting-markdown/). Novice users can learn basic Markdown within a few minutes. The resulting text is much easier on the reader than HTML. Here is a short headline in Markdown, followed by the same headline in HTML: 
 
 In Markdown, you make a headline 1 by starting the line with a #.
 
@@ -39,7 +39,7 @@ To keep things even more simple, Markdown draws the line between content develop
 * H1, H2, H3 and so on 
 * Footnotes 
 
-As an additional benefit, Markdown is generally written in an [application like Beegit](https://beegit.com), which means everything you write will be autosaved and easy for anyone on your team access from anywhere. 
+As an additional benefit, Markdown is generally [written in an application like Beegit](https://beegit.com), which means everything you write will be autosaved and easy for anyone on your team access from anywhere. 
 
 ### Where it's used 
 Markdown is great for everything from content marketing to [API documentation](http://www.programmableweb.com/news/why-you-should-use-markdown-your-api-documentation/2015/02/19). It's particularly useful where content and tech teams need to write together. 

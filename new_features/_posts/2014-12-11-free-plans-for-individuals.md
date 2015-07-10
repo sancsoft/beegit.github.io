@@ -18,8 +18,4 @@ We built Beegit to be the best way for teams to write together, but we've been o
 
 So we said, why not? Today, we updated our pricing plans to include a [free individual account](https://beegit.com/pricing). 
 
-### We've also added a new, smaller team plan.
-
-The [Startup plan](https://beegit.com/pricing) lets you and up to 2 active team members use Beegit with your team for less than ever, at just $12 total per month.
-
 That's all we have for today. Have questions or want to see an updated demo of the software? Shoot us an [email](mailto:support@beegit.com) and we'll be happy to help. 

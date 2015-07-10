@@ -30,6 +30,6 @@ I once had an adviser tell me that celebrating a funding event is like having ev
 
 Indeed, there is much to do. This funding accelerates platform features that will make our customers happier. We're lucky: our customers have always been willing to share their experience using Beegit with us, helping us identify our priorities.
 
-We're already in the lab working on big features. We even released our new, heavily-requested [compile feature](http://blog.beegit.com/new_features/2015/02/27/publish-and-compile/) just a few days ahead of this announcement. 
+We're already in the lab working on big features. We even released our new, heavily-requested [document compile feature](http://blog.beegit.com/new_features/2015/02/27/publish-and-compile/) just a few days ahead of this announcement. 
 
 It's a cool day, but it's just the beginning of our plans to grow Beegit. Want to talk about our platform or what comes next? We're always happy to chat. Shoot the team an email at [support@beegit.com](mailto:support@beegitcom). 

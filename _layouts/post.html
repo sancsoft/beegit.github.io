@@ -32,7 +32,7 @@ layout: default
                 {% assign url = page.shortUrl %}
             {% endif %}
             <div class="social-share">
-              <p>Share this post</p>
+              <div class="share">Share this post</div>
                 <a class="twitter" id="social-twitter" href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ url }}&via=ProjectBeegit&hashtags={{ tagStr }}" target="_blank" title="Share this post on Twitter"><i class="fa fa-twitter"></i></a>
                 <a class="facebook" id="social-facebook" href="https://www.facebook.com/sharer/sharer.php?t={{ page.title }}&u={{ url }}" target="_blank" title="Share this post on Facebook"><i class="fa fa-facebook"></i></a>
                 <a class="google" id="social-google" href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" target="_blank" title="Share this post on Google Plus"><i class="fa fa-google-plus"></i></a>

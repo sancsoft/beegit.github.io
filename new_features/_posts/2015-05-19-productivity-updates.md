@@ -10,7 +10,7 @@ comments: true
 
 ---
 
-Nobody drives innovation at Beegit like our customers. Some of our biggest releases have been built in tandem with our [heaviest users](http://blog.beegit.com/new_features/2015/02/27/publish-and-compile/).
+Nobody drives innovation at Beegit like our customers. Some of our biggest releases have been built in tandem with our heaviest users.
 
 Today's release is about making everyone more efficient. With customers who make Beegit part of their daily workflow in mind, we just released productivity updates that include keyboard shortcuts, a better Markdown cheatsheet and interface improvements.
 

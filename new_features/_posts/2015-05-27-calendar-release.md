@@ -12,7 +12,7 @@ comments: true
 
 Since the beginning, we've been on a mission to simplify the content development process at Beegit. 
 
-We've already had some [fun releases](http://blog.beegit.com/new_features/2015/04/17/real-time-release/) this spring to help with that, but none have been more timely than today's: Our new shared editorial calendar gives you and your collaborators the ability to see all the upcoming due dates in a project in one view. 
+We've already had [some fun releases](http://blog.beegit.com/new_features/2015/04/17/real-time-release/) this spring to help with that, but none have been more timely than today's: Our new shared editorial calendar gives you and your collaborators the ability to see all the upcoming due dates in a project in one view. 
 
 Available on our paid plans, our new calendar lets you add and update due dates on any file in a project. Every due date will then show up in a shared project calendar view for your team. This view will also show upcoming due dates in an agenda list. 
 
