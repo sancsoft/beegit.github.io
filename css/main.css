@@ -667,6 +667,7 @@ input.sumome-popup-input {
 }
 
 .post-content .tweet-quote {
+  cursor: pointer;
   color: #333;
   border-bottom: 1px dotted #5dbabe;
 }

@@ -79,6 +79,16 @@ layout: default
             {% if page.comments %}
           <div id="disqus_thread"></div>
           <script type="text/javascript">
+              $(function(e) {
+                  $(".tweet-quote").click(function() {
+                      var tweetText = encodeURI('"' + $(this).text() + '"');
+                      var href = "https://twitter.com/intent/tweet?text=" + tweetText +
+                          "&url={{ site.url }}{{ page.url }}&via=ProjectBeegit";
+
+                      window.open(href, 'child', 'scrollbars,width=650,height=500');
+                  });
+              });
+
               /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
               var disqus_shortname = 'beegit'; // required: replace example with your forum shortname
 

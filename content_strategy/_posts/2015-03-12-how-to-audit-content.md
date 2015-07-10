@@ -13,7 +13,7 @@ redirect_from: /agile_content/2015/03/12/how-to-audit-content/
 
 Content marketing is meant to create value for your business, but if  you're not seeing the return you want, how do you know where to apply more effort? 
 
-One of the key components of an agile content plan is to evaluate what you already have through a content audit. I know it's a boring tax term, but <a class="tweet-quote" href="https://twitter.com/intent/tweet?text=&quot;a%20good%20audit%20will%20highlight%20the%20content%20that%27s%20missing&quot;&url={{ site.url }}{{ page.url }}&via=ProjectBeegit">a good audit will highlight the content that's missing</a> as you look create leads or engage your customers.
+One of the key components of an agile content plan is to evaluate what you already have through a content audit. I know it's a boring tax term, but <a class="tweet-quote">a good audit will highlight the content that's missing</a> as you look create leads or engage your customers.
 
 Content audits can get quite detailed, but if you've never done one before, start by gathering information how much content you have and which audience you're talking to. Here's three basic things to measure.
 
