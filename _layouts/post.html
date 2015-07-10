@@ -33,11 +33,11 @@ layout: default
             {% endif %}
             <div class="social-share">
               <div class="share">Share this post</div>
-                <a class="twitter" id="social-twitter" href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ url }}&via=ProjectBeegit&hashtags={{ tagStr }}" target="_blank" title="Share this post on Twitter"><i class="fa fa-twitter"></i></a>
-                <a class="facebook" id="social-facebook" href="https://www.facebook.com/sharer/sharer.php?t={{ page.title }}&u={{ url }}" target="_blank" title="Share this post on Facebook"><i class="fa fa-facebook"></i></a>
-                <a class="google" id="social-google" href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" target="_blank" title="Share this post on Google Plus"><i class="fa fa-google-plus"></i></a>
-                <a class="linkedin" id="social-linkedin" href="http://www.linkedin.com/shareArticle?mini=true&title={{ page.title }}&url={{ url }}&source=http%3a%2f%2fzhangwenli.com" target="_blank" title="Share this post on LinkedIn"><i class="fa fa-linkedin"></i></a>
-                <a class="buffer" id="social-buffer" href="https://buffer.com/add?url={{ url }}&source=http%3a%2f%2fzhangwenli.com&text={{ page.title }}&via=ProjectBeegit" target="_blank" title="Share this post on Buffer"><img src="/assets/buffer.png"></a>
+                <a class="twitter" id="social-twitter"  href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ url }}&via=ProjectBeegit&hashtags={{ tagStr }}" onclick="window.open(this.href, 'child', 'scrollbars,width=650,height=500'); return false" title="Share this post on Twitter"><i class="fa fa-twitter"></i></a>
+                <a class="facebook" id="social-facebook" href="https://www.facebook.com/sharer/sharer.php?t={{ page.title }}&u={{ url }}" onclick="window.open(this.href, 'child', 'scrollbars,width=650,height=500'); return false" title="Share this post on Facebook"><i class="fa fa-facebook"></i></a>
+                <a class="google" id="social-google" href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" onclick="window.open(this.href, 'child', 'scrollbars,width=650,height=600'); return false" title="Share this post on Google Plus"><i class="fa fa-google-plus"></i></a>
+                <a class="linkedin" id="social-linkedin" href="http://www.linkedin.com/shareArticle?mini=true&title={{ page.title }}&url={{ url }}&source=http%3a%2f%2fzhangwenli.com" onclick="window.open(this.href, 'child', 'scrollbars,width=650,height=600'); return false" title="Share this post on LinkedIn"><i class="fa fa-linkedin"></i></a>
+                <a class="buffer" id="social-buffer" href="https://buffer.com/add?url={{ url }}&source=http%3a%2f%2fzhangwenli.com&text={{ page.title }}&via=ProjectBeegit" onclick="window.open(this.href, 'child', 'scrollbars,width=800,height=550'); return false" title="Share this post with Buffer"><img src="/assets/buffer.png"></a>
             </div>
         </header>
         <article class="post-content">
