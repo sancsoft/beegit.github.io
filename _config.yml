@@ -1,7 +1,7 @@
 # Site settings
-title: Contentable - Beegit's blog on agile content, content strategy & writing technology
+title: Thoughts on content strategy, markdown and writing technology
 email: mike@beegit.com
-description: "Contentable shares regular insight about technology and techniques in content development to help make it easier for people to create content together."
+description: "Regular insight about content strategy, markdown and writing technology to help content teams increase productivity."
 baseurl: ""
 url: "http://blog.beegit.com"
 
@@ -10,4 +10,4 @@ markdown: kramdown
 permalink: pretty
 
 # gems:
-#  - jekyll-redirect-from
+  - jekyll-redirect-from
