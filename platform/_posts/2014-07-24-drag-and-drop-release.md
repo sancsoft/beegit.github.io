@@ -7,6 +7,7 @@ teaser: Today's release is full of features users have been asking for during ou
 image: https://s3.amazonaws.com/beegit-images/blog/headers/drag-drop.jpg
 author: mike_cottrill
 comments: true
+redirect_from: /new_features/2014/07/24/drag-and-drop-release/
 
 ---
 

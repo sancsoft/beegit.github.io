@@ -7,6 +7,7 @@ teaser: This is what we're calling our real-time Markdown editor release, and it
 image: https://s3.amazonaws.com/beegit-images/blog/headers/reat-time-release.jpg
 author: mike_cottrill
 comments: true
+redirect_from: /new_features/2015/04/17/real-time-release/
 
 ---
 Spring weather has finally hit the Beegit headquarter office, and our development team is coming out to see the sun after months locked away in the lab. They've brought with them a release as robust as any we've ever done. 

@@ -7,8 +7,10 @@ teaser: At Beegit, teams have shared the pains of collaborative writing with us,
 image: https://s3.amazonaws.com/beegit-images/blog/headers/comment-replies.png
 author: mike_cottrill
 comments: true
+redirect_from: /new_features/2014/12/22/comment-resolve-reply-release/
 
 ---
+
 Collaborative content development can be tricky. Keeping everyone on the same page takes a lot of communication. 
 
 At Beegit, teams have shared that pain with us, and we're looking to make writing together easy. Today, we're simplifying team communication with comment replies and resolves. 

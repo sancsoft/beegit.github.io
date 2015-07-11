@@ -7,6 +7,7 @@ teaser: We built Beegit with content creators in mind, and we hope you love it. 
 image: https://s3.amazonaws.com/beegit-images/blog/headers/welcome-closed-beta.jpg
 author: mike_cottrill
 comments: true
+redirect_from: /new_features/2014/07/14/beegit-closed-beta-welcome/
 
 ---
 We built Beegit with content creators in mind, and we hope you love it. This is a limited release of the software, and we're looking for feedback along the way on how to make Beegit the best tool for every content project. 

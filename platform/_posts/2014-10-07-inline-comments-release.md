@@ -7,6 +7,7 @@ teaser: Today we're happy to release one of our most requested features - inline
 image: https://s3.amazonaws.com/beegit-images/blog/headers/inline-comments.jpg
 author: mike_cottrill
 comments: true
+redirect_from: /new_features/2014/10/07/inline-comments-release/
 
 ---
 We hope you're enjoying Beegit's closed beta release. We're certainly loving every minute of it as we push toward our public launch! 

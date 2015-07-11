@@ -7,6 +7,7 @@ teaser: We've been overwhelmed by requests from individual users who want the op
 image: https://s3.amazonaws.com/beegit-images/blog/headers/free-individual-users.png
 author: mike_cottrill
 comments: true
+redirect_from: /new_features/2014/12/11/free-plans-for-individuals/
 
 ---
 
