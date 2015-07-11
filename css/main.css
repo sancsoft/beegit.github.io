@@ -957,7 +957,7 @@ hr {
     text-align: center;
   }
 
-  .social-share p {
+  .social-share .share {
     display: none;
   }
 
@@ -974,5 +974,13 @@ hr {
 
   .footer .col-sm-6 p {
     padding-right: 0;
+  }
+
+  .image-header h3 {
+    font-size: 15px;
+  }
+
+  .image-header h3 > span {
+    border-bottom: 0px;
   }
 }
