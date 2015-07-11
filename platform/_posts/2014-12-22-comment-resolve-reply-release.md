@@ -8,6 +8,7 @@ image: https://s3.amazonaws.com/beegit-images/blog/headers/comment-replies.png
 author: mike_cottrill
 comments: true
 redirect_from: /new_features/2014/12/22/comment-resolve-reply-release/
+shortUrl: http://buff.ly/1HT0CQB
 
 ---
 

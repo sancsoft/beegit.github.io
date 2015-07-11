@@ -8,6 +8,7 @@ image: https://s3.amazonaws.com/beegit-images/blog/headers/productivity-release.
 author: mike_cottrill
 comments: true
 redirect_from: /new_features/2015/05/19/productivity-updates/
+shortUrl: http://buff.ly/1KW3flq
 
 ---
 

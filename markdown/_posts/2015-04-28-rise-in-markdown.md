@@ -7,6 +7,7 @@ teaser: Much has been made of Markdown lately. Why? It's the best text-to-HTML c
 image: https://s3.amazonaws.com/beegit-images/blog/headers/rise-of-markdown.jpg
 author: mike_cottrill
 comments: true
+shortUrl: http://buff.ly/1Mfz5H6
 
 ---
 Much has been made of Markdown lately, as the lightweight language has become the writing and communication syntax of hot apps and tools across the web.

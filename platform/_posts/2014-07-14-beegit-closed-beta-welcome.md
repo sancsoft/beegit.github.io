@@ -8,6 +8,7 @@ image: https://s3.amazonaws.com/beegit-images/blog/headers/welcome-closed-beta.j
 author: mike_cottrill
 comments: true
 redirect_from: /new_features/2014/07/14/beegit-closed-beta-welcome/
+shortUrl: http://buff.ly/1GdkG9c
 
 ---
 We built Beegit with content creators in mind, and we hope you love it. This is a limited release of the software, and we're looking for feedback along the way on how to make Beegit the best tool for every content project. 

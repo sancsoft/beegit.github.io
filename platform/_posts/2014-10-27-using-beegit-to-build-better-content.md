@@ -7,7 +7,7 @@ teaser: Beegit is the project management tool built specifically for content tea
 image: https://s3.amazonaws.com/beegit-images/blog/headers/build-better-content.jpg
 author: mike_cottrill
 comments: true
-shortUrl: 
+shortUrl: http://buff.ly/1dRwF5v
 redirect_from: 
  - /2014/10/27/Using-Beegit-to-build-better-content/
  - /using_beegit/2014/10/27/using-beegit-to-build-better-content/

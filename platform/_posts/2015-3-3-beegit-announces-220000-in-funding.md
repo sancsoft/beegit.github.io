@@ -8,6 +8,7 @@ image: https://s3.amazonaws.com/beegit-images/blog/headers/beegit-announces-fund
 author: mike_cottrill
 comments: true
 redirect_from: /buzz/2015/03/03/beegit-announces-220000-in-funding/
+shortUrl: http://buff.ly/1Hsb9fg
 
 ---
 Today is an exciting day at Beegit HQ. 

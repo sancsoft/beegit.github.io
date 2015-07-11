@@ -8,6 +8,7 @@ image: https://s3.amazonaws.com/beegit-images/blog/headers/expanded-project-metr
 author: mike_cottrill
 comments: true
 redirect_from: /new_features/2015/02/16/expanded-beegit-project-metrics/
+shortUrl: http://buff.ly/1Hsb37s
 
 ---
 

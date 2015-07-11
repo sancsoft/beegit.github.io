@@ -8,6 +8,7 @@ image: https://s3.amazonaws.com/beegit-images/blog/headers/compile.jpg
 author: kris_ciccarello
 comments: true
 redirect_from: /new_features/2015/02/27/publish-and-compile/
+shortUrl: http://buff.ly/1Hsb6Qz
 
 ---
 

@@ -8,6 +8,7 @@ image: https://s3.amazonaws.com/beegit-images/blog/headers/calendar-release.png
 author: mike_cottrill
 comments: true
 redirect_from: /new_features/2015/05/27/calendar-release/
+shortUrl: http://buff.ly/1HsbmPB
 
 ---
 

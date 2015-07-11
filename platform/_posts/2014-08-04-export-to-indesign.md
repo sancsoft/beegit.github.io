@@ -7,7 +7,7 @@ teaser: Our goal at Beegit is to get content under control for individuals and t
 image: https://s3.amazonaws.com/beegit-images/blog/headers/export-to-indesign.jpg
 author: jd_eaton
 comments: true
-shortUrl: 
+shortUrl: http://buff.ly/1JQyXjO
 redirect_from: 
  - /2014/08/04/export-to-indesign/
  - /using_beegit/2014/08/04/export-to-indesign/

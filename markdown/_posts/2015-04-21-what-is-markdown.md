@@ -7,6 +7,7 @@ teaser: Talk about Markdown has been trending upward the last couple of years an
 image: https://s3.amazonaws.com/beegit-images/blog/headers/what-is-markdown.jpg
 author: mike_cottrill
 comments: true
+shortUrl: http://buff.ly/1HQ286i
 
 ---
 Talk about Markdown has been trending upward the last couple of years and maybe you're wondering what, exactly, it is and why people are talking about it. 

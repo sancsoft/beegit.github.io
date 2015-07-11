@@ -9,6 +9,7 @@ author: mike_cottrill
 comments: true
 redirect_from:
  - /agile_content/2015/02/23/Markdown-for-collaboration/
+shortUrl: http://buff.ly/1Hq55nq
 
 ---
 

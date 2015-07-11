@@ -8,6 +8,7 @@ image: https://s3.amazonaws.com/beegit-images/blog/headers/introducing-beegit.jp
 author: mike_cottrill
 comments: true
 redirect_from: /buzz/2014/04/28/introducing-beegit/ 
+shortUrl: http://buff.ly/1HU8z6h
 
 ---
 
