@@ -33,12 +33,12 @@ A new calendar is available on the dashboard that visualizes file due dates acro
 
 ![dashboard-calendar.jpg](https://ucarecdn.com/86a20756-88ee-4328-9f48-7a4aff2160dd/)
 
-## Default avatar images
+### Default avatar images
 A lot of you use our [Gravatar](https://en.gravatar.com/) support for your avatar, which is great! For those who don't use Gravatar, avatars will now show initials as the avatar instead of a universal default image, making it easier for everyone to identify collaborators around the system. Combined with the new dashboard, it's easier than ever to see who is working on which projects.
 
 ![avatars.jpg](https://ucarecdn.com/30a87188-b374-4c28-bc84-899ae13008de/)
 
-## Project search
+### Project search
 There's a new search in town that is available from everywhere in the system once you're logged in. Project search provides direct access to all projects you can access from one search (even across teams!). It's also accessible via the keyboard shortcut `/`. Start using project search to flip between projects in a flash.
 
 ![dashboard-search.jpg](https://ucarecdn.com/8d03a465-e3cc-414a-b5f0-9e678a8814f9/)
