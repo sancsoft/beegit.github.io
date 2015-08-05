@@ -13,7 +13,7 @@ shortUrl: http://buff.ly/1DnKAg9
 
 We've been listening to your feedback and spent a lot of time making Beegit easier and more productive for teams. Today, we're releasing a slew of enhancements to the platform and we'd like to give you a quick rundown of what's new.
 
-## Brand new dashboard
+### Brand new dashboard
 The dashboard has been rebuilt from the ground up with a focus on speed, simplicity and powerful features. Now, the dashboard is a central place for teams writing web content together to see who is on the team, what they're working on and when it's due. 
 
 ![dashboard-list.jpg](https://ucarecdn.com/23d507c1-bfa5-49aa-8fb3-725970e4d266/)
