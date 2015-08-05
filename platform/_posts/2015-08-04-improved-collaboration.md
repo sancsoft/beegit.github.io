@@ -43,7 +43,7 @@ There's a new search in town that is available from everywhere in the system onc
 
 ![dashboard-search.jpg](https://ucarecdn.com/8d03a465-e3cc-414a-b5f0-9e678a8814f9/)
 
-## Performance boost
+### Performance boost
 Last but not least, while adding all these new features, we focused on making the platform faster than ever. Navigating between the dashboard and your projects, and between projects using the new project search, now happens at lightning speed.
 
 With all of these improvements to Beegit, we hope you start enjoying these benefits today. If you haven't been around for awhile, now is a great time to [log back in to Beegit](https://beegit.com/login) and see why it's the best way for teams to collaborate on web content using Markdown. If you've never signed up for Beegit, now is the perfect time to [start your free trial](https://beegit.com/signup?plan=individual).
