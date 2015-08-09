@@ -7,7 +7,7 @@ teaser: The rise of the remote worker presents opportunities to grow your writin
 image: https://s3.amazonaws.com/beegit-images/blog/headers/build-distributed-writing-team.jpg
 author: mike_cottrill
 comments: true
-redirect_from: agile_content/2015/04/01/how-to-build-and-manage-distributed-writing-team/
+redirect_from: http://blog.beegit.com/agile_content/2015/04/01/how-to-build-and-manage-distributed-writing-team/
 shortUrl: http://buff.ly/1G7MVpN
 
 ---

@@ -7,7 +7,7 @@ teaser: Better understand the value of your content through a quick audit of wha
 image: https://s3.amazonaws.com/beegit-images/blog/headers/content-audit.jpg
 author: mike_cottrill
 comments: true
-redirect_from: /agile_content/2015/03/12/how-to-audit-content/
+redirect_from: http://blog.beegit.com/agile_content/2015/03/12/how-to-audit-content/
 shortUrl: http://buff.ly/1D3RH7v
 
 ---

@@ -7,7 +7,7 @@ teaser: I need you to read this blog post before you or anyone on your team writ
 image: https://s3.amazonaws.com/beegit-images/blog/headers/3-rs-of-adaptive-content.jpg
 author: mike_cottrill
 comments: true
-redirect_from: /agile_content/2014/12/18/three-rs-of-adaptive-content/
+redirect_from: http://blog.beegit.com/agile_content/2014/12/18/three-rs-of-adaptive-content/
 shortUrl: http://buff.ly/1Tr9IGg
 
 ---

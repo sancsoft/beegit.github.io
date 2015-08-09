@@ -7,7 +7,7 @@ teaser: Today we're happy to release one of our most requested features - inline
 image: https://s3.amazonaws.com/beegit-images/blog/headers/inline-comments.jpg
 author: mike_cottrill
 comments: true
-redirect_from: /new_features/2014/10/07/inline-comments-release/
+redirect_from: http://blog.beegit.com/new_features/2014/10/07/inline-comments-release/
 shortUrl: http://buff.ly/1dRwBTb
 
 ---

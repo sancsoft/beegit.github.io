@@ -7,7 +7,7 @@ teaser: When it comes to content strategy, you need to think about making it fle
 image: https://s3.amazonaws.com/beegit-images/blog/headers/agile-content-sparksheet.jpg
 author: mike_cottrill
 comments: true
-redirect_from: /agile_content/2015/03/17/why-you-should-embrace-agile-content/
+redirect_from: http://blog.beegit.com/agile_content/2015/03/17/why-you-should-embrace-agile-content/
 shortUrl: http://buff.ly/1L4uM2s
 
 ---

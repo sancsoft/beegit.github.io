@@ -7,7 +7,7 @@ teaser: Big things have been happening at Beegit, and we're excited to announce 
 image: https://s3.amazonaws.com/beegit-images/blog/headers/open-beta.jpg
 author: mike_cottrill
 comments: true
-redirect_from: /new_features/2014/10/20/open-beta-announcement/
+redirect_from: http://blog.beegit.com/new_features/2014/10/20/open-beta-announcement/
 shortUrl: http://buff.ly/1dRwB5O
 
 ---

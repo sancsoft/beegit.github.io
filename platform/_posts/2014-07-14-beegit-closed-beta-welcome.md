@@ -7,7 +7,7 @@ teaser: We built Beegit with content creators in mind, and we hope you love it. 
 image: https://s3.amazonaws.com/beegit-images/blog/headers/welcome-closed-beta.jpg
 author: mike_cottrill
 comments: true
-redirect_from: /new_features/2014/07/14/beegit-closed-beta-welcome/
+redirect_from: http://blog.beegit.com/new_features/2014/07/14/beegit-closed-beta-welcome/
 shortUrl: http://buff.ly/1GdkG9c
 
 ---

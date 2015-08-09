@@ -7,7 +7,7 @@ teaser: The Internet has forever changed the landscape for writing and publicati
 image: https://s3.amazonaws.com/beegit-images/blog/headers/mastering-git.jpg
 author: thom_parkin
 comments: true
-redirect_from: /buzz/2015/01/23/using-beegit-to-share-the-story-of-mastering-git/
+redirect_from: http://blog.beegit.com/buzz/2015/01/23/using-beegit-to-share-the-story-of-mastering-git/
 shortUrl: http://buff.ly/1HT0EYN
 
 ---

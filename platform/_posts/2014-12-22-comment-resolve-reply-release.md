@@ -7,7 +7,7 @@ teaser: At Beegit, teams have shared the pains of collaborative writing with us,
 image: https://s3.amazonaws.com/beegit-images/blog/headers/comment-replies.png
 author: mike_cottrill
 comments: true
-redirect_from: /new_features/2014/12/22/comment-resolve-reply-release/
+redirect_from: http://blog.beegit.com/new_features/2014/12/22/comment-resolve-reply-release/
 shortUrl: http://buff.ly/1HT0CQB
 
 ---
