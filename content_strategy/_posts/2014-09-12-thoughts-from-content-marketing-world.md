@@ -7,7 +7,7 @@ teaser: Content Marketing World 2014 made its way through Cleveland last week an
 image: https://s3.amazonaws.com/beegit-images/blog/headers/cmworld-2014.jpg
 author: mike_cottrill
 comments: true
-redirect_from: http://blog.beegit.com/agile_content/2014/09/15/thoughts-from-content-marketing-world/
+redirect_from: "/agile_content/2014/09/15/thoughts-from-content-marketing-world/"
 shortUrl: http://buff.ly/1Tr9HCo
 
 ---

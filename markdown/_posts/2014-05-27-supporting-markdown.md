@@ -7,7 +7,7 @@ teaser: Back in my newsroom days, I would often be slogging away toward deadline
 image: https://s3.amazonaws.com/beegit-images/blog/headers/better-word-processor.jpg
 author: mike_cottrill
 comments: true
-redirect_from: http://blog.beegit.com/buzz/2014/05/27/supporting-markdown/
+redirect_from: "/buzz/2014/05/27/supporting-markdown/"
 shortUrl: http://buff.ly/1HU8oIn
 
 ---
