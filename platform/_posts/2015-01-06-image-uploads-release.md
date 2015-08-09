@@ -7,7 +7,7 @@ teaser: Good news, everyone! Our most recent update lets you upload images to a 
 image: https://s3.amazonaws.com/beegit-images/blog/headers/image-cdn.jpg
 author: mike_cottrill
 comments: true
-redirect_from: http://blog.beegit.com/new_features/2015/01/07/image-uploads-release/
+redirect_from: "/new_features/2015/01/07/image-uploads-release/"
 shortUrl: http://buff.ly/1HT0D7l
 
 ---

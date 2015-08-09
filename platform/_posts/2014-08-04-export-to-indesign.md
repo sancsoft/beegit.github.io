@@ -9,8 +9,8 @@ author: jd_eaton
 comments: true
 shortUrl: http://buff.ly/1JQyXjO
 redirect_from: 
- - http://blog.beegit.com/2014/08/04/export-to-indesign/
- - http://blog.beegit.com/using_beegit/2014/08/04/export-to-indesign/
+ - "/2014/08/04/export-to-indesign/"
+ - "/using_beegit/2014/08/04/export-to-indesign/"
 
 ---
 

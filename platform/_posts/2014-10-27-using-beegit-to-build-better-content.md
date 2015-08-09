@@ -9,8 +9,8 @@ author: mike_cottrill
 comments: true
 shortUrl: http://buff.ly/1dRwF5v
 redirect_from: 
- - http://blog.beegit.com/2014/10/27/Using-Beegit-to-build-better-content/
- - http://blog.beegit.com/using_beegit/2014/10/27/using-beegit-to-build-better-content/
+ - "/2014/10/27/Using-Beegit-to-build-better-content/"
+ - "/using_beegit/2014/10/27/using-beegit-to-build-better-content/"
 
 ---
 

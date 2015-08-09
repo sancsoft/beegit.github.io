@@ -7,7 +7,7 @@ teaser: Today's release is about saving our power users time with keyboard short
 image: https://s3.amazonaws.com/beegit-images/blog/headers/productivity-release.jpg
 author: mike_cottrill
 comments: true
-redirect_from: http://blog.beegit.com/new_features/2015/05/19/productivity-updates/
+redirect_from: "/new_features/2015/05/19/productivity-updates/"
 shortUrl: http://buff.ly/1KW3flq
 
 ---

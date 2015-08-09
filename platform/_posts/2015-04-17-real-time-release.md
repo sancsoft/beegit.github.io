@@ -7,7 +7,7 @@ teaser: This is what we're calling our real-time Markdown editor release, and it
 image: https://s3.amazonaws.com/beegit-images/blog/headers/reat-time-release.jpg
 author: mike_cottrill
 comments: true
-redirect_from: http://blog.beegit.com/new_features/2015/04/17/real-time-release/
+redirect_from: "/new_features/2015/04/17/real-time-release/"
 shortUrl: http://buff.ly/1HsbeiV
 
 ---

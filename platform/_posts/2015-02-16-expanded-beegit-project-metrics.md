@@ -7,7 +7,7 @@ teaser: Beegit's expanded project metrics will make it even easier to see how yo
 image: https://s3.amazonaws.com/beegit-images/blog/headers/expanded-project-metrics.jpg
 author: mike_cottrill
 comments: true
-redirect_from: http://blog.beegit.com/new_features/2015/02/16/expanded-beegit-project-metrics/
+redirect_from: "/new_features/2015/02/16/expanded-beegit-project-metrics/"
 shortUrl: http://buff.ly/1Hsb37s
 
 ---

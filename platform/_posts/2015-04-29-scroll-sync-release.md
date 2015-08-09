@@ -7,7 +7,7 @@ teaser: Keep track of what you're working on with an update to our split screen 
 image: https://s3.amazonaws.com/beegit-images/blog/headers/scroll-sync.jpg
 author: mike_cottrill
 comments: true
-redirect_from: http://blog.beegit.com/new_features/2015/04/29/scroll-sync-release/
+redirect_from: "/new_features/2015/04/29/scroll-sync-release/"
 shortUrl: http://buff.ly/1KW3eht
 
 ---
