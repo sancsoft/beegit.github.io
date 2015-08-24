@@ -11,7 +11,7 @@ shortUrl: http://buff.ly/1hBYzFu
 
 ---
 
-Today, we are excited to announce that Beegit's Markdown editor now supports [CommonMark](http://commonmark.org/) -- the standardized specification for Markdown. Additionally, we've added several new features that will make editing Markdown in Beegit more flexible than ever before.
+Today, we are excited to announce that Beegit's Markdown editor now supports <a href="http://commonmark.org" target="_blank">CommonMark</a> -- the standardized specification for Markdown. Additionally, we've added several new features that will make editing Markdown in Beegit more flexible than ever before.
 
 ### Why standardize Markdown?
 Prior to creating a standard specification, user experiences have varied from application to application when writing and previewing Markdown. As a result, a number of key representatives from forward-thinking companies have invested in the advancement of Markdown. Companies like GitHub, Reddit, Stack Exchange and Meteor, as well as members from the open source community, are spearheading CommonMark's standardization effort to open it for further enhancements. Beegit feels that this movement is critical to the continued growth and adoption of Markdown.
