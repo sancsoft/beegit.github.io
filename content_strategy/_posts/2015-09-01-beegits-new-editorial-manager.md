@@ -5,7 +5,7 @@ title:  Matt Bixenstine Joins Beegit's Content Strategy Team
 date:   2015-09-01 12:00:00
 teaser: Today, we're very happy to formally welcome the newest member of our editorial team, Matt Bixenstine. 
 image: https://s3.amazonaws.com/beegit-images/blog/headers/bixenstine-release.jpg
-author: matt_bixenstine
+author: mike_cottrill
 comments: true
 shortUrl: http://buff.ly/1EEvhjK
 
