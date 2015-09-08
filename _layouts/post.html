@@ -83,7 +83,7 @@ layout: default
                   $(".tweet-quote").click(function() {
                       var tweetText = encodeURI('"' + $(this).text() + '"');
                       var href = "https://twitter.com/intent/tweet?text=" + tweetText +
-                          "&url={{ site.url }}{{ page.url }}&via=ProjectBeegit";
+                          "&url={{ page.shortUrl }}&via=ProjectBeegit";
 
                       window.open(href, 'child', 'scrollbars,width=650,height=500');
                   });
