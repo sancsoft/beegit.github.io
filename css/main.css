@@ -173,6 +173,11 @@ iframe {
   margin-top: 3px !important;
 }
 
+.sumome-popup .sumome-popup-content .sumome-popup-form .sumome-popup-powered-variant a.sumome-popup-link, .sumome-popup-preview .sumome-popup-content .sumome-popup-form .sumome-popup-powered-variant a.sumome-popup-link {
+  background-color: #fff !important;
+  color: #5dbabe;
+}
+
 .sumome-smartbar-input input {
   border-radius: 3px !important;
   height: 30px !important;
