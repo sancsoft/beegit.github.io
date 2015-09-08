@@ -175,7 +175,8 @@ iframe {
 
 .sumome-popup .sumome-popup-content .sumome-popup-form .sumome-popup-powered-variant a.sumome-popup-link, .sumome-popup-preview .sumome-popup-content .sumome-popup-form .sumome-popup-powered-variant a.sumome-popup-link {
   background-color: #fff !important;
-  color: #5dbabe;
+  color: #5dbabe !important;
+  padding: 0 !important;
 }
 
 .sumome-smartbar-input input {
