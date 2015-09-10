@@ -2,7 +2,7 @@
 
 layout: post
 title: Insert clever title here – the art of writing click-worthy blog headlines
-date: 2015-09-11 12:00:00
+date: 2015-09-10 12:00:00
 teaser: A handful of headline writers throughout history have had it easy. A historical event, triumphant or tragic, rocks our world on their editorial watch and the ensuing...
 image: https://s3.amazonaws.com/beegit-images/blog/headers/click-worthy-headlines.jpg
 author: matt_bixenstine
@@ -36,7 +36,7 @@ All too often, writers labor over a blog post for days...then mistakenly just pl
 ### Pretend Print Space Limitations Still Exist
 
 > "Be sincere; be brief; be seated."
-> 
+>
 > -- President Franklin D. Roosevelt
 
 Back in our journalistic heyday, space dictated headlines. A copy editor was limited to the available space, regardless of what the ideal headline might be. The city of Cleveland was named for expedition leader Moses Cleaveland, but the first "a" was dropped from the name after an early newspaper was plagued by space constraints.
