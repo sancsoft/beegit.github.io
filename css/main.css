@@ -43,6 +43,14 @@ a:hover {
   padding: 0 10px;
 }
 
+.navbar .navbar-brand img {
+  opacity: .5;
+}
+
+.navbar .navbar-brand img:hover {
+  opacity: 1.0;
+}
+
 strong {
   font-weight: 500;
 }
