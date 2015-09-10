@@ -1,3 +1,28 @@
+.ck_form {
+  background-image: none;
+  background-color: #d9edf7 !important;
+  border: 1px solid #c4dae5 !important;
+}
+
+.ck_form_content, .ck_form_fields {
+  width: 100% !important;
+  padding: 5% !important;
+}
+
+.ck_form_title {
+  margin-top: 10px !important;
+  text-align: center;
+}
+
+.ck_form .ck_subscribe_button {
+  margin-top: 0 !important;
+}
+
+.ck_form_fields {
+  padding: 45px !important;
+}
+
+
 /* Base */
 /* ----------------------------------------------------------*/
 
@@ -554,8 +579,8 @@ iframe {
   padding-top: 24px;
  }
 
- .footnotes ol {
-  font-size: 1.1em !important;
+ .footnotes p {
+  font-size: 16px !important;
   line-height: 1.8;
   font-weight: 300;
  }
@@ -920,8 +945,29 @@ hr {
   }
 }
 
+#ck_success_msg {
+    padding: 10px 10px 0px !important;
+    border: solid 1px #dff0d8!important;
+    background: #dff0d8 !important;
+    text-align: center;
+}
+
+#ck_success_msg p {
+  font-size: 14px;
+  color: #3c763d;
+}
+
 @media screen and (max-width: 600px) {
 
+  .ck_form {
+  background-image: none;
+  background-color: #bce8f1 !important;
+  border: 1px solid #a0cfd8 !important;
+}
+
+  .ck_form_title {
+  padding-top: 10%;
+}
 
   .navbar-inverse .navbar-collapse {
     border: 0;

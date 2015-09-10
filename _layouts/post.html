@@ -44,26 +44,7 @@ layout: default
         <article class="post-content">
           <div class="post-wrapper-content">
         	{{ content }}
-          <div class="panel panel-default">
-            <div class="panel-body">
-              <div class="col-md-10 col-md-offset-1">
-               <h3>Subscribe today and get bi-weekly articles that will help you grow your content business!</h3>
-                  <form class="form-inline" action='https://beegitbuzz.curated.co/email_subscribers' id='subscribe-form' method='post'>
-                    <div class="form-group">
-                      <div class="row">
-                        <div class="col-md-7">
-                          <input class="form-control input-lg" id='subscribe-email' name='email' type='email' placeholder="Email"/>
-                        </div>
-                        <div class="col-md-5">
-                           <input type='submit' class="btn btn-warning btn-block btn-lg" onclick="this.form.submit(); this.disabled=true; this.value='Sending...';" value='Subscribe'/>
-                        </div>
-                      </div>
-                    </div>
-                  </form>
-                  <p>Give it a try—it only takes a click to unsubscribe.</p>
-                </div>
-              </div>
-            </div>
+            {% include signup-block.html %}
             {% if author %}
             <div class="post-author">
               <div class="post-author-image">
