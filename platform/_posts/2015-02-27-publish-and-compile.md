@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title:  Publish your markdown content with compile
+title:  Publish your Markdown content with compile
 date:   2015-02-27 12:00:00
 teaser: Compiling markdown projects gives you flexible options to publish selected content files to Word, HTML, Markdown, InDesign and ePub as we roll out new features to round out your production process.
 image: https://s3.amazonaws.com/beegit-images/blog/headers/compile.jpg

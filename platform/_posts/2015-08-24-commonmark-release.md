@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: Beegit's Collaborative Markdown Editor Now Supports CommonMark
+title: Beegit's Markdown editor now supports CommonMark
 date:   2015-08-24 12:00:00
 teaser: Today, we are excited to announce that Beegit's Markdown editor now supports CommonMark – the standardized specification for Markdown. Additionally, we've added several new features that will make editing Markdown in Beegit more flexible than ever before
 image: https://s3.amazonaws.com/beegit-images/blog/headers/commonmark.jpg

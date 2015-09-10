@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: Why Proofreading is Important for Blog Posts
+title: Why proofreading is important for blog posts
 date: 2015-09-04 12:00:00
 teaser: Weve all red a sentense like this 1. Your editorial conscience subsequently cringes...and you promptly shift your readership elsewhere.
 image: https://s3.amazonaws.com/beegit-images/blog/headers/why-proofreading-is-important.jpg

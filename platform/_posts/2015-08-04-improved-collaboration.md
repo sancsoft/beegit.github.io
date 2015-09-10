@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: Beegit's Productivity Updates Make it Easier to Collaborate
+title: Beegit's productivity updates make it easier to collaborate
 date:   2015-08-04 12:00:00
 teaser: We've been listening to your feedback and spent a lot of time making Beegit easier and more productive for teams. Today, we're releasing a slew of enhancements to the platform and we'd like to give you a quick rundown of what's new.
 image: https://s3.amazonaws.com/beegit-images/blog/headers/dashboard-release.jpg

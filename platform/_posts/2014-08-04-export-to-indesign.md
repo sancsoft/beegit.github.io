@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title:  How Beegit's export to InDesign feature helps designers get their content under control
+title:  Using Beegit to export your content to InDesign
 date:   2014-08-04 10:00:00
 teaser: Our goal at Beegit is to get content under control for individuals and teams. This means simplifying processes for everyone at every stage in the production process. 
 image: https://s3.amazonaws.com/beegit-images/blog/headers/export-to-indesign.jpg
