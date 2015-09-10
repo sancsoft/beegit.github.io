@@ -50,5 +50,5 @@ If you want to create impactful content, think about how you can help your custo
 
 If you are one of the many people who have no content strategy, here's a starting point: Stop writing and measuring views and shares. Start thinking about how to create content that matters to the audience you want to reach. This will be a painful process the first time, but it's the first step to content that will be successful. Let's do this![^1] 
 
-[^1]Sorry for the emphatic call to action. Content Marketing World gets me all fired up. 
+[^1]: Sorry for the emphatic call to action. Content Marketing World gets me all fired up. 
 
