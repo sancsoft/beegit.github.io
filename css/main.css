@@ -110,6 +110,52 @@ iframe {
   padding-bottom: 30px;
 }
 
+.sidebar {
+  margin-top: 40px;
+}
+
+
+.sidebar .well {
+  border-radius: 3px;
+  box-shadow: none;
+  padding: 45px 30px;
+  background-color: #f8f8f8;
+  box-shadow: 0 0 5px 1px rgba(0, 0, 0, 0.05);
+  border: 1px solid #eeeeee;
+  margin-left: 9.444%;
+}
+
+.sidebar .well-signup {
+  background-image: url('https://beegitimages.global.ssl.fastly.net/header-index.jpg');
+  background-size: cover;
+  margin-top: 40px;
+}
+
+.sidebar .well-signup .btn {
+  margin-top: 30px;
+}
+
+.sidebar .well-signup h4 {
+  color: #fff;
+}
+
+.sidebar .well img {
+  margin: 18px auto;
+  height: 82px;
+  width: 82px;
+}
+
+.sidebar .well h4 {
+  font-weight: 500;
+  font-size: 20px;
+  margin-top: 0;
+}
+
+.sidebar .well p {
+  color: #a5a9ae;
+}
+
+
 
 /* Social Bar Styles */
 /* ----------------------------------------------------------*/
@@ -120,22 +166,22 @@ iframe {
   padding: 12px 24px;
 }
 
-.btn-blue {
-  background-color: #2978bc;
-  border: 1px solid #246ba7;
+.btn-outline {
+  background-color: transparent;
+  border: 1px solid #ffffff;
   color: #fff;
 }
 
-.btn-blue:hover {
-  background-color: #205d93;
-  border: 1px solid #194c76;
-  color: #fff;
+.btn-outline:hover {
+  background-color: #2a7abf;
+  border: 1px solid #2a7abf;
+  color: #ffffff;
 }
 
 .social-share {
   text-align: right;
   padding: 0 0 20px 0;
-  border-bottom: 3px solid #fcd141;
+  border-bottom: 2px solid #eaedee;
   margin-top: 30px;
 }
 
@@ -143,11 +189,11 @@ iframe {
   display: inline-block;
   margin: 0 !important;
   padding: 9px 4px 0 0;
-  color: #aaa;
+  color: #9f9f9f;
   float: left;
-  font-size: 18px;
+  font-size: 14px;
   text-transform: uppercase;
-  font-weight: 300;
+  font-weight: 500;
 }
 
 .social-share a {
@@ -156,52 +202,24 @@ iframe {
   line-height: 42px;
   height: 42px;
   border-radius: 50%;
-  background: #111;
-  font-size: 18px;
+  border: 1px solid #dddddd;
+  font-size: 16px;
   margin: 0 2px;
-  color: #fff;
+  color: #9f9f9f;
   text-align: center;
-  -o-transition:.5s;
-  -ms-transition:.5s;
-  -moz-transition:.5s;
-  -webkit-transition:.5s;
-  transition:.5s;
 }
 
 .social-share a img {
-  width: 16px;
-  height: 16px;
+  width: 14px;
+  height: 14px;
   padding: 0;
+  margin-top: -4px;
 }
 
 .social-share a:hover {
-  background-color: #aaa;
-  -o-transition:.5s;
-  -ms-transition:.5s;
-  -moz-transition:.5s;
-  -webkit-transition:.5s;
-  transition:.5s;
-   -webkit-transform: rotate(360deg);
-    -moz-transform: rotate(360deg);
-    -o-transform: rotate(360deg);
-    -ms-transform: rotate(360deg);
+  border: 1px solid #666666;
 }
 
-.social-share .twitter {
-  background-color: #55acee;
-}
-
-.social-share .facebook {
-  background-color: #3b5998;
-}
-
-.social-share .google {
-  background-color: #dd4b39;
-}
-
-.social-share .linkedin {
-  background-color: #0976b4;
-}
 
 /* Disqus Styling*/
 /* ----------------------------------------------------------*/
@@ -593,7 +611,7 @@ iframe {
 
 .post-author {
   border-top: 2px solid #eaedee;
-  border-bottom: 3px solid #fcd141;
+  border-bottom: 2px solid #eaedee;
   padding: 40px 0 50px;
   margin: 40px 0 60px 0;
   color: #888;
@@ -868,6 +886,10 @@ hr {
 
 @media screen and (max-width: 768px) {
 
+  .sidebar .well {
+    margin-left: 0;
+  }
+
   a.navbar-brand {
     padding-left: 0;
   }
@@ -905,6 +927,7 @@ hr {
 }
 
 @media screen and (max-width: 600px) {
+
 
   .navbar-inverse .navbar-collapse {
     border: 0;

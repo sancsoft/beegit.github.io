@@ -14,7 +14,7 @@ layout: default
             </div>
             <span class="post-metadata">
               {% if author %}
-                 by {{ author.name }}
+                 <!-- {{ page.date | date: "%b %-d, %Y"}} --> by {{ author.name }}
             {% endif %}
             </span>
             <div class="borderline"></div>
@@ -25,7 +25,7 @@ layout: default
   </div>
 </div>
 <div class="container">
-  <div class="col-md-8 col-md-offset-2 post-content">
+  <div class="col-md-8 post-content">
       <div class="post-wrapper">
         <header class="post-header">
           {% capture url %}{{ site.url }}{{ page.url }}{% endcapture %}
@@ -33,7 +33,7 @@ layout: default
                 {% assign url = page.shortUrl %}
             {% endif %}
             <div class="social-share">
-              <div class="share">{{ page.date | date: "%b %-d, %Y"}} </div>
+              <div class="share">SHARE ON</div>
                 <a class="twitter" id="social-twitter"  href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ url }}&via=ProjectBeegit&hashtags={{ tagStr }}" onclick="window.open(this.href, 'child', 'scrollbars,width=650,height=500'); return false" title="Share this post on Twitter"><i class="fa fa-twitter"></i></a>
                 <a class="facebook" id="social-facebook" href="https://www.facebook.com/sharer/sharer.php?t={{ page.title }}&u={{ url }}" onclick="window.open(this.href, 'child', 'scrollbars,width=650,height=500'); return false" title="Share this post on Facebook"><i class="fa fa-facebook"></i></a>
                 <a class="google" id="social-google" href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" onclick="window.open(this.href, 'child', 'scrollbars,width=650,height=600'); return false" title="Share this post on Google Plus"><i class="fa fa-google-plus"></i></a>
@@ -102,6 +102,19 @@ layout: default
         {% endif %}
         </div>
       </article>
+    </div>
+  </div>
+  <div class="col-md-4 sidebar">
+    <div class="well well-inverse text-center">
+      <h4>Only 42 percent of content marketers consider the content they create to be effective.</h4>
+      <p>Are you telling compelling stories about your business? We can help.</p>
+      <img src="/assets/beegit.png" class="img-responsive">
+      <a href="https://beegit.com/content-marketing-services" class="btn btn-warning btn-lg btn-block">Learn More</a>
+    </div>
+    <div class="well well-signup text-center">
+      <h4>Beegit is a collaborative writing app for the web</h4>
+      <p>Your team, calendar, communication and workflow — all in one place</p>
+      <a href="https://beegit.com/signup" class="btn btn-primary btn-lg btn-block">Sign Up Free</a>
     </div>
   </div>
 </div>
