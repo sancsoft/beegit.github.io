@@ -7,7 +7,7 @@ teaser: A handful of headline writers throughout history have had it easy. A his
 image: https://s3.amazonaws.com/beegit-images/blog/headers/click-worthy-headlines.jpg
 author: matt_bixenstine
 comments: true
-shortUrl:
+shortUrl: http://buff.ly/1UCXBKp
 
 ---
 
