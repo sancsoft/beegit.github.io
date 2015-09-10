@@ -27,7 +27,7 @@ hr {
 }
 
 a { 
-  color: #5dbabe; text-decoration: none; 
+  color: #2a7abf; text-decoration: none; 
 }
 
 a.active {
@@ -95,7 +95,7 @@ iframe {
 .social-share {
   text-align: right;
   padding: 0 0 20px 0;
-  border-bottom: 4px solid #6cb5b8;
+  border-bottom: 3px solid #fcd141;
   margin-top: 30px;
 }
 
@@ -237,11 +237,12 @@ input.sumome-popup-input {
 }
 
 .site-header li .visit-beegit {
-  background-color: #f0ad4e;
+  background-color: #2a7abf;
+  color: #fff !important;
 }
 
 .site-header li .visit-beegit:hover {
-  background-color: #ec971f !important;
+  background-color: #2467a2 !important;
 }
 
 .site-header img {
@@ -271,24 +272,20 @@ input.sumome-popup-input {
 .navbar {
   min-height: 0;
   margin-bottom: 0;
-  background-color: #2c3e50;
+  background-color: #2a3542;
 }
 
 .navbar-inverse .navbar-nav>.active>a {
-  background-color: #1a242f;
+  background-color: #1a1a1a;
 }
 
 .navbar-inverse .navbar-nav>li>a {
-  color: #fff;
-}
-
-
-.navbar-right li a {
-  color: #fff;
+  color: #91979e;
 }
 
 .navbar-right li a:hover {
   color: #fff !important;
+  background-color: #1d232b!important;
 }
 
 .navbar-header button {
@@ -300,7 +297,7 @@ input.sumome-popup-input {
 .footer {
   min-height: 300px;
   padding-top: 20px;
-  background-color: #2c3e50;
+  background-color: #2a3542;
 }
 
 .footer .footer-column {
@@ -385,7 +382,7 @@ input.sumome-popup-input {
 }
 
 .image-header h3 {
-  color: #bababa;
+  color: #ffffff;
   font-size: 17px;
   font-weight: 300;
   padding-top: 100px;
@@ -394,7 +391,7 @@ input.sumome-popup-input {
 }
 
 .image-header h3 > span {
-  border-bottom: 4px solid #6cb5b8;
+  border-bottom: 3px solid #fcd141;
 }
 
 .image-header h1.featured {
@@ -435,8 +432,8 @@ input.sumome-popup-input {
   font-family: 'Oswald', sans-serif;
   font-weight: 300;
   text-transform: uppercase;
-  color: #bbbbbb;
-  border-top: 4px solid #6cb5b8;
+  color: #ffffff;
+  border-top: 3px solid #fcd141;
 }
 
 .image-header-overlay {
@@ -476,13 +473,14 @@ input.sumome-popup-input {
   line-height: 1;
   margin-bottom: 40px;
   min-height: 450px !important;
-  border-bottom: 4px solid #6cb5b8;
+  border-bottom: 3px solid #fcd141;
   padding: 0 5px;
 }
 
 .posts .post-link {
   font-size: 20px;
   line-height: 1.2;
+  color: #333;
   font-weight: 400;
   font-family: 'Oswald', sans-serif;
   text-transform: uppercase;
@@ -495,7 +493,7 @@ input.sumome-popup-input {
 }
 
 .posts a:hover {
-  color: #47a6a9; text-decoration: none;
+  color: #333; text-decoration: none;
 }
 
 .post-metadata {
@@ -625,7 +623,7 @@ input.sumome-popup-input {
 
 .post-author {
   border-top: 2px solid #eaedee;
-  border-bottom: 4px solid #6cb5b8;
+  border-bottom: 3px solid #fcd141;
   padding: 40px 0 50px;
   margin: 40px 0 60px 0;
   color: #888;
@@ -675,25 +673,36 @@ input.sumome-popup-input {
 .post-content .tweet-quote {
   cursor: pointer;
   color: #333;
-  border-bottom: 1px dotted #5dbabe;
+  border-bottom: 1px dotted #2a7abf;
 }
 
 .post-content .tweet-quote:hover {
-  color: #5dbabe;
+  color: #2a7abf;
 }
 
 .post-content .tweet-quote:after {
   font-family: "fontawesome";
   content: "\f099";
   margin-left: 4px;
-  color: #5dbabe;
+  color: #2a7abf;
 }
 
 .post-content .panel {
-  background-color: #2c3e50;
+  background-color: #2a7abf;
   border: 0;
-  margin: 30px 0;
-  padding: 30px 0;
+  text-align: center;
+  padding: 35px 0 40px;
+}
+
+.post-content .panel .input-lg, .btn-lg {
+  border-radius: 3px;
+}
+
+.post-content .panel h3 {
+  margin: 0;
+  padding-bottom: 20px;
+  color: #fff;
+  font-weight: 300;
 }
 
 .post-content .panel img {
@@ -714,9 +723,6 @@ input.sumome-popup-input {
   margin-top: 15px;
 }
 
-.post-content .panel .panel-body .btn {
-  margin-bottom: 20px;
-}
 
 .btn small {
   font-size: 12px;
@@ -946,7 +952,7 @@ hr {
   }
 
   .image-header h3 {
-    color: #bababa;
+    color: #ffffff;
     font-size: 17px;
     text-align: center;
     line-height: 55px;
@@ -954,7 +960,7 @@ hr {
     padding-top: 40px;
     word-spacing: 2px;
     letter-spacing: .8px;
-    border-bottom: 4px solid #6cb5b8;
+    border-bottom: 3px solid #fcd141;
     width: 200px;
     margin: 0 auto;
   }

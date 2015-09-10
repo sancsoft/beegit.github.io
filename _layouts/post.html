@@ -44,26 +44,23 @@ layout: default
           <div class="post-wrapper-content">
         	{{ content }}
           <div class="panel panel-default">
-                 <div class="panel-body">
-                    <div class="row">
-                      <div class="col-md-12">
-                        <img src="/assets/beegit.png" class="img-responsive logo">
-                        <h4 class="text-center">Streamlining collaboration at some of the world's smartest companies</h4>
+            <div class="panel-body">
+              <div class="col-md-10 col-md-offset-1">
+               <h3>Subscribe today and get bi-weekly articles on growing your content business!</h3>
+                  <form class="form-inline" action='https://beegitbuzz.curated.co/email_subscribers' id='subscribe-form' method='post'>
+                    <div class="form-group">
+                      <div class="row">
+                        <div class="col-md-7">
+                          <input class="form-control input-lg" id='subscribe-email' name='email' type='email' placeholder="Email"/>
+                        </div>
+                        <div class="col-md-5">
+                           <input type='submit' class="btn btn-warning btn-block btn-lg" onclick="this.form.submit(); this.disabled=true; this.value='Sending...';" value='Subscribe'/>
+                        </div>
                       </div>
                     </div>
-                    <div>
-                        <div class="col-md-12 text-center">
-                          <img src="/assets/customer-logos.png" class="img-responsive">
-                        </div>
-                    </div> 
-                    <div class="row">
-                        <div class="col-md-12 text-center">
-                          <a class="btn btn-warning btn-blog" href="https://beegit.com/signup" target="_blank">
-                            Sign Up Free Today
-                          </a>
-                        </div>
-                    </div> 
-                 </div>
+                  </form>
+                </div>
+              </div>
             </div>
             {% if author %}
             <div class="post-author">
