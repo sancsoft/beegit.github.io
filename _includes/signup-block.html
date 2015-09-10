@@ -1,34 +1,21 @@
-
-<script src="https://app.convertkit.com/assets/CKJS4.js?v=21"></script>
-
-<div class="ck_form ck_vertical_subscription_form">
-  <div class="ck_form_fields">
-    <h3 class="ck_form_title">Subscribe today and get bi-weekly articles that will help you grow your content business!</h3>
-    <div id='ck_success_msg'  style='display:none;'>
-      <p>Success! You are now subscribed to our newsletter.</p>
+<div class="panel panel-default">
+  <div class="panel-body">
+    <div class="col-md-10 col-md-offset-1">
+    <h3>Subscribe today and get bi-weekly articles that will help you grow your content business!</h3>
+      <form class="form-inline" action='https://beegitbuzz.curated.co/email_subscribers' id='subscribe-form' method='post'>
+        <div class="form-group">
+          <div class="row">
+            <div class="col-md-7">
+              <input class="form-control input-lg" id='subscribe-email' name='email' type='email' placeholder="Email"/>
+            </div>
+            <div class="col-md-5">
+               <input type='submit' class="btn btn-warning btn-block btn-lg" onclick="this.form.submit(); this.disabled=true; this.value='Sending...';" value='Subscribe'/>
+            </div>
+          </div>
+        </div>
+      </form>
+      <p>Give it a try—it only takes a click to unsubscribe.</p>
     </div>
-
-    <!--  Form starts here  -->
-    <form id="ck_subscribe_form" class="ck_subscribe_form " action="https://app.convertkit.com/landing_pages/3647/subscribe" data-remote="true">
-      <input type="hidden" value="{&quot;embed_style&quot;:&quot;inline&quot;,&quot;embed_trigger&quot;:&quot;scroll_percentage&quot;,&quot;scroll_percentage&quot;:&quot;70&quot;,&quot;delay_seconds&quot;:&quot;10&quot;,&quot;display_position&quot;:&quot;br&quot;,&quot;display_devices&quot;:&quot;all&quot;,&quot;days_no_show&quot;:&quot;15&quot;,&quot;converted_behavior&quot;:&quot;show&quot;}" id="ck_form_options"></input>
-      <input type="hidden" name="id" value="3647" id="landing_page_id"></input>
-      <div class="ck_errorArea">
-        <div id="ck_error_msg" style="display:none">
-          <p>There was an error submitting your subscription. Please try again.</p>
-        </div>
-      </div>
-      <div class="form-inline">
-        <div class="row">
-          <div class="col-md-8" style="padding-right: 5px; padding-left: 5px;">
-           <input type="email" name="email" class="ck_email_address" id="ck_emailField" placeholder="Email" required></input>
-          </div>
-          <div class="col-md-4"style="padding-right: 5px; padding-left: 5px;">
-              <button class="subscribe_button ck_subscribe_button btn fields" id='ck_subscribe_button'>Subscribe</button>
-          </div>
-        </div>
-      </div>
-      <span class="ck_guarantee">Give it a try—it only takes a click to unsubscribe.</span>
-    </form>
   </div>
- </div>
+</div>
 
