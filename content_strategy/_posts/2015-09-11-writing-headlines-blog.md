@@ -31,7 +31,7 @@ Imagine you're a realtor trying to sell a house. The foundation is solid and you
 
 All too often, writers labor over a blog post for days...then mistakenly just plug in a headline at the end as an afterthought. By then, the writer is sick of looking at the piece and simply wants it off his or her plate.
 
-Devote ample time to writing your headline and make that first impression meaningful. Consider adopting the 50/50 rule, whereby half your time is spent constructing an effective headline and lede, and the remainder is spent rounding out your blog. 
+<a class="tweet-quote">Devote ample time to writing your headline and make that first impression meaningful.</a> Consider adopting the 50/50 rule, whereby half your time is spent constructing an effective headline and lede, and the remainder is spent rounding out your blog. 
 
 ### Pretend Print Space Limitations Still Exist
 
@@ -80,4 +80,4 @@ Go back and read the last headline contained within the first paragraph: *Dewey 
 
 [A misleading or inaccurate headline equals the demise of your readership](http://blog.beegit.com/content_strategy/2015/09/04/why-proofreading-is-important-for-blog-posts/), as ever-finicky blog readers disappointed in what they clicked on are unlikely to return. However powerful or effective, your headline need to reflect the body of your work appropriately. Otherwise, it's the equivalent of spam.
 
-The next time you embark on a blog-inspired content mission, start from the beginning and craft a powerful headline. You just might be pleasantly surprised with the results. One small step for your blog, one giant leap in click-worthy content.
+The next time you embark on a blog-inspired content mission, start from the beginning and craft a powerful headline.  You just might be pleasantly surprised with the results. One small step for your blog, one giant leap in click-worthy content.
