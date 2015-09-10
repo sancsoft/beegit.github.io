@@ -121,7 +121,7 @@ iframe {
   padding: 45px 30px;
   background-color: #f8f8f8;
   box-shadow: 0 0 5px 1px rgba(0, 0, 0, 0.05);
-  border: 1px solid #eeeeee;
+  border: 1px solid #e6e6e6;
   margin-left: 9.444%;
 }
 
@@ -217,7 +217,8 @@ iframe {
 }
 
 .social-share a:hover {
-  border: 1px solid #666666;
+  border: 1px solid #cccccc;
+  background-color: #f3f3f3;
 }
 
 
