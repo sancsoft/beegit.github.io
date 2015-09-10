@@ -42,9 +42,21 @@ a:hover {
   border: 0;
 }
 
+.navbar-btn {
+  margin-top: 16px;
+  padding: 0 10px;
+}
+
 strong {
   font-weight: 500;
 }
+
+.borderline {
+    width: 56px;
+    margin: 0 auto 20px;
+    height: 3px;
+    background-color: #fcd141;
+    }
 
 /* Utility */
 
@@ -70,6 +82,30 @@ strong {
 iframe {
   margin-top: 20px;
 }
+
+.modal-subscribe .modal-header, .modal-subscribe .modal-body, .modal-subscribe .modal-footer {
+  border: 0;
+}
+
+.modal-subscribe .modal-body {
+  padding: 0 35px;
+}
+
+.modal-subscribe .modal-body p {
+  padding-top: 20px;
+  color: #999;
+}
+
+.modal-subscribe .modal-body h1 {
+  font-size: 24px;
+  line-height: 1.4em;
+  padding-bottom: 20px;
+}
+
+.modal-subscribe .modal-footer {
+  padding-bottom: 30px;
+}
+
 
 /* Social Bar Styles */
 /* ----------------------------------------------------------*/
@@ -164,67 +200,11 @@ iframe {
   background-color: #0976b4;
 }
 
-/* AppSumpo Styling*/
-/* ----------------------------------------------------------*/
-
-.sumome-smartbar-content .sumome-smartbar-form button {
-  font-size: 12px !important;
-  height: 30px !important;
-  margin-top: 3px !important;
-}
-
-.sumome-popup .sumome-popup-content .sumome-popup-form .sumome-popup-powered-variant a.sumome-popup-link, .sumome-popup-preview .sumome-popup-content .sumome-popup-form .sumome-popup-powered-variant a.sumome-popup-link {
-  background-color: #fff !important;
-  color: #5dbabe !important;
-  padding: 0 !important;
-}
-
-.sumome-smartbar-input input {
-  border-radius: 3px !important;
-  height: 30px !important;
-  margin-top: 3px !important;
-}
-
-.sumome-popup .sumome-popup-content .sumome-popup-form h2.sumome-popup-heading, .sumome-popup-preview .sumome-popup-content .sumome-popup-form h2.sumome-popup-heading {
-  font-weight: 300 !important;
-}
-
-.sumome-smartbar-link img {
-  opacity: 0.3;
-  filter: alpha(opacity=30); /* For IE8 and earlier */
-}
-
-.sumome-popup .sumome-popup-content, .sumome-popup-preview .sumome-popup-content {
-  padding: 30px !important;
-}
-
-.sumome-popup-text {
-  text-align: center !important;
-  font-size: 14px !important;
-}
-
-input.sumome-popup-input {
-  border-radius: 4px !important;
-}
-
 /* Disqus Styling*/
 /* ----------------------------------------------------------*/
 
 #disqus_thread {
   margin-bottom: 100px;
-}
-
-/* Sumo Me Styles */
-/* ----------------------------------------------------------*/
-
-.sumome-smartbar-text {
-  font-weight: 300 !important;
-}
-
-#sumome-smartbar-popup {
-  border-top: 4px solid #f0ad4e !important;
-  padding-top: 14px !important;
-  padding-bottom: 14px !important;
 }
 
 /* Layout Styles */
@@ -385,13 +365,9 @@ input.sumome-popup-input {
   color: #ffffff;
   font-size: 17px;
   font-weight: 300;
-  padding-top: 100px;
+  padding-top: 90px;
   word-spacing: 2px;
   letter-spacing: .8px;
-}
-
-.image-header h3 > span {
-  border-bottom: 3px solid #fcd141;
 }
 
 .image-header h1.featured {
@@ -414,8 +390,8 @@ input.sumome-popup-input {
 
 .image-header .post-author-image-header img {
   border-radius: 50%;
-  height: 48px;
-  width: 48px;
+  height: 64px;
+  width: 64px;
 }
 
 .image-header .post-metadata {
@@ -433,13 +409,13 @@ input.sumome-popup-input {
   font-weight: 300;
   text-transform: uppercase;
   color: #ffffff;
-  border-top: 3px solid #fcd141;
+  /*border-top: 3px solid #fcd141;*/
 }
 
 .image-header-overlay {
   height: 450px; 
   width: 100%;
-  background-color: rgba(37, 43, 51, 0.65);
+  background-color: rgba(37, 43, 51, 0.74);
 }
 
 .posts-intro {
@@ -450,8 +426,9 @@ input.sumome-popup-input {
   text-transform: uppercase;
   word-spacing: 2px;
   letter-spacing: .5px;
-  margin-bottom: 0;
+  margin-bottom: 20px;
   font-weight: 300;
+  clear: both;
 }
 
 .dash {
@@ -473,8 +450,8 @@ input.sumome-popup-input {
   line-height: 1;
   margin-bottom: 40px;
   min-height: 450px !important;
-  border-bottom: 3px solid #fcd141;
-  padding: 0 5px;
+  box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.05);
+  border: 1px solid #eeeeee;
 }
 
 .posts .post-link {
@@ -489,7 +466,7 @@ input.sumome-popup-input {
 }
 
 .post-link img {
-  padding: 28px 0 14px 0;
+  padding: 0 0 22px 0;
 }
 
 .posts a:hover {
@@ -536,19 +513,22 @@ input.sumome-popup-input {
 
  .post-image-container { 
     width: 100%; 
-    height: 220px; 
+    height: 200px; 
     overflow: hidden;
     margin: 0 auto;
     text-align: center;
-
-
 }
+
 .post-image-container img { 
     height: 100%;
     width: auto;
     text-align: center;
     vertical-align: middle;
     margin-let: -20%;
+}
+
+.post-content-container {
+  padding: 0 22px;
 }
 
  h2.post-title { 
@@ -694,7 +674,7 @@ input.sumome-popup-input {
   padding: 35px 0 40px;
 }
 
-.post-content .panel .input-lg, .btn-lg {
+.input-lg, .btn-lg {
   border-radius: 3px;
 }
 
@@ -960,8 +940,6 @@ hr {
     padding-top: 40px;
     word-spacing: 2px;
     letter-spacing: .8px;
-    border-bottom: 3px solid #fcd141;
-    width: 200px;
     margin: 0 auto;
   }
 

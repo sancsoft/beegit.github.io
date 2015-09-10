@@ -17,7 +17,8 @@ layout: default
                  by {{ author.name }}
             {% endif %}
             </span>
-            <span class="post-publish-date">{{ page.date | date: "%b %-d, %Y"}}</span>
+            <div class="borderline"></div>
+            <!-- <span class="post-publish-date">{{ page.date | date: "%b %-d, %Y"}}</span> -->
         </div>
       </div>
     </div>
@@ -32,7 +33,7 @@ layout: default
                 {% assign url = page.shortUrl %}
             {% endif %}
             <div class="social-share">
-              <div class="share">Share this post</div>
+              <div class="share">{{ page.date | date: "%b %-d, %Y"}} </div>
                 <a class="twitter" id="social-twitter"  href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ url }}&via=ProjectBeegit&hashtags={{ tagStr }}" onclick="window.open(this.href, 'child', 'scrollbars,width=650,height=500'); return false" title="Share this post on Twitter"><i class="fa fa-twitter"></i></a>
                 <a class="facebook" id="social-facebook" href="https://www.facebook.com/sharer/sharer.php?t={{ page.title }}&u={{ url }}" onclick="window.open(this.href, 'child', 'scrollbars,width=650,height=500'); return false" title="Share this post on Facebook"><i class="fa fa-facebook"></i></a>
                 <a class="google" id="social-google" href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" onclick="window.open(this.href, 'child', 'scrollbars,width=650,height=600'); return false" title="Share this post on Google Plus"><i class="fa fa-google-plus"></i></a>
