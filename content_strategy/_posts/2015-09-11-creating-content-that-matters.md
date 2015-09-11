@@ -2,7 +2,7 @@
 
 layout: post
 title: It's time to focus on creating content that matters to your audience 
-ddate: 2015-09-11 12:00:00
+date: 2015-09-11 12:00:00
 teaser: The forthcoming MarketingProfs/Content Marketing Institute study found that 51 percent of B2B organizations plan to spend more of their budget on content marketing. This would all be fantastic except for one sticky wicket...
 image: https://s3.amazonaws.com/beegit-images/blog/headers/creating-content-that-matters.jpg
 author: mike_cottrill
