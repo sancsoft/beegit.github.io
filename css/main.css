@@ -405,7 +405,7 @@ iframe {
 }
 
 .image-header {
-  background: center center #3d4b5b; 
+  background: center top #3d4b5b; 
   height: 480px; 
   background-size: cover; 
   text-align: center;
@@ -571,21 +571,15 @@ iframe {
  }
 
  .post-image-container { 
+    background-size: cover;
+    background-position: center top;
     width: 100%; 
-    height: 200px; 
+    height: 160px; 
     overflow: hidden;
     margin: 0 auto;
     text-align: center;
     border-top-right-radius: 3px;
     border-top-left-radius: 3px;
-}
-
-.post-image-container img { 
-    height: 100%;
-    width: auto;
-    text-align: center;
-    vertical-align: middle;
-    margin-let: -20%;
 }
 
 .post-content-container {
@@ -595,7 +589,7 @@ iframe {
  h2.post-title { 
   width: 100%;
   text-align: center;
-  padding: 10px 0 15px;
+  padding: 20px 0 15px;
   margin: 0;
  }
 
@@ -929,7 +923,16 @@ hr {
 /* media queries */
 /* ----------------------------------------------------------*/
 
+
+@media screen and (max-width: 1100px) {
+
+  .image-header {
+    background-size: 1180px auto; /* Force the image to its minimum width */
+  }
+}
+
 @media screen and (max-width: 768px) {
+
 
   .sidebar .well {
     margin-left: 0;
@@ -985,6 +988,7 @@ hr {
 
 @media screen and (max-width: 600px) {
 
+
   .ck_form {
   background-image: none;
   background-color: #bce8f1 !important;
@@ -1018,13 +1022,17 @@ hr {
     padding-left: 15px;
   }
 
+  .image-header, .image-header-overlay {
+    height: 400px;
+  }
+
   .image-header h1 {
     color: #fff;
     font-size: 28px;
     text-align: center;
     line-height: 1.1;
     font-weight: 500;
-    padding-top: 70px;
+    padding-top: 40px;
   }
 
   .image-header h3 {
@@ -1033,7 +1041,7 @@ hr {
     text-align: center;
     line-height: 55px;
     font-weight: 500;
-    padding-top: 80px;
+    padding-top: 60px;
     word-spacing: 2px;
     letter-spacing: .8px;
     margin: 0 auto;
