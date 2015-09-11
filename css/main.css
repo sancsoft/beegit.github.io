@@ -704,10 +704,15 @@ iframe {
   margin: 20px 0 20px; 
 }
 
-.post-content .tweet-quote {
+.post-content span .tweet-quote {
   cursor: pointer;
-  color: #333;
-  border-bottom: 1px dotted #2a7abf;
+  color: #3ecdfd;
+  border-bottom: 1px dotted #3ecdfd;
+  font-style: italic;
+  font-weight: 300;
+  margin-bottom: 40px;
+  font-size: 22px;
+  line-height: 32px;
 }
 
 .post-content .tweet-quote:hover {
@@ -718,8 +723,22 @@ iframe {
   font-family: "fontawesome";
   content: "\f099";
   margin-left: 4px;
-  color: #2a7abf;
+  color: #3ecdfd;
+  font-style: normal;
 }
+
+
+.post-content .tweet-quote {
+  cursor: pointer;
+  color: #333;
+  border-bottom: 1px dotted #3ecdfd;
+}
+
+.post-content .tweet-quote:hover {
+  color: #2a7abf;
+  border-bottom: 1px solid #2a7abf;
+}
+
 
 .post-content .panel {
   background-color: #2a7abf;

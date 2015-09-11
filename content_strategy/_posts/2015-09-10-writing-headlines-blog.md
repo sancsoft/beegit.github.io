@@ -79,6 +79,8 @@ Keep in mind that effective keyword headlines answer questions for your audience
 
 Go back and read the last headline contained within the first paragraph: *Dewey Defeats Truman*. Remember this infamous headline, published on the front page of the Chicago Daily Tribune in November of 1948? The combination of an early press deadline and a surprising election outcome resulted in a legendary mistake for the newspaper, which President Harry Truman immortalized in a [memorable photograph](http://deweydefeatstruman.com/). 
 
+<span><a class="tweet-quote">Embarking on a blog-inspired content mission? Start by crafting a powerful headline.</a></span>
+
 [A misleading or inaccurate headline equals the demise of your readership](http://blog.beegit.com/content_strategy/2015/09/04/why-proofreading-is-important-for-blog-posts/), as ever-finicky blog readers disappointed in what they clicked on are unlikely to return. However powerful or effective, your headline need to reflect the body of your work appropriately. Otherwise, it's the equivalent of spam.
 
 The next time you embark on a blog-inspired content mission, start from the beginning and craft a powerful headline.  You just might be pleasantly surprised with the results. One small step for your blog, one giant leap in click-worthy content.

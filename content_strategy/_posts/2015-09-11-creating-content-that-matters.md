@@ -35,7 +35,9 @@ But wait. Why?
 
 This constant content push is a stress-inducing symptom of the greater disease of a results-now economy. But this rush to get things done is the very antithesis to good creative work, and it leaves little time to create a strategy. 
 
-But there's the rub. <a class="tweet-quote">Only good, relevant content that helps your audience will grow your business</a>, and you cannot create that without a well-documented strategy that focuses on the problems you solve. 
+But there's the rub. Only good, relevant content that helps your audience will grow your business, and you cannot create that without a well-documented strategy that focuses on the problems you solve. 
+
+<span><a class="tweet-quote">Only good, relevant content that helps your audience will grow your business</a></span>
 
 There are many students of search algorithms in the speaker set at Content Marketing World, and so far they've had their own visions of how Google and its lesser search competitors will change. But at the end of the day, they all admit that chasing the SEO rainbow is not the long-term solution. The search engines are all seeking a truth to share with the searcher. They exist to bring relevant answers (and ads, of course) to searcher questions, and they will continue to find ways to reward content that does that. Over the first two days of the event, no one put this better than search scientist [Rand Fishkin](https://twitter.com/randfish), who said: 
 
