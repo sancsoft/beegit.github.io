@@ -12,7 +12,6 @@ shortUrl: http://buff.ly/1UCXBKp
 ---
 
 
-
 *Men Walk On Moon. Nixon Resigns. Titanic Sinks Four Hours After Hitting Iceberg. VE Day - It's All Over. Dewey Defeats Truman*. 
 
 A handful of headline writers throughout history have had it easy. A historical event, triumphant or tragic, rocks our world on their editorial watch and the ensuing iconic headline essentially writes itself.
@@ -28,6 +27,8 @@ Just how can [modern-day content marketers](http://blog.beegit.com/content_strat
 > -- David Ogilvy - "Father of Advertising"
 
 Imagine you're a realtor trying to sell a house. The foundation is solid and you've staged the interior brilliantly, highlighting the home's charm and emphasizing its square footage. Yet, despite all your efforts, you overlooked the front yard entirely. Curb appeal is altogether lacking and the absence of landscaping would make a fraternity house lawn look pristine. Think you'll even get one prospective buyer through the front door? 
+
+![sharable-craft-headline.jpg](https://ucarecdn.com/58c567ba-514c-4a37-b7b6-5d8b18ef7c85/)
 
 All too often, writers labor over a blog post for days...then mistakenly just plug in a headline at the end as an afterthought. By then, the writer is sick of looking at the piece and simply wants it off his or her plate.
 

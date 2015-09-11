@@ -84,11 +84,15 @@ strong {
 }
 
 .borderline {
-    width: 56px;
-    margin: 0 auto 20px;
-    height: 3px;
-    background-color: #fcd141;
-    }
+  width: 56px;
+  margin: 0 auto 20px;
+  height: 3px;
+  background-color: #fcd141;
+}
+
+.borderline.left {
+    margin: 22px auto 22px 0;
+}
 
 /* Utility */
 
@@ -99,12 +103,6 @@ strong {
   line-height: 1.8;
   padding-bottom: 10px;
   padding-top: 4px;
-}
-
-.post-content p:first-child{
-  font-size: 1.7em;
-  line-height: 1.7em;
-  font-weight: 300;
 }
 
 .post-content li {
@@ -139,7 +137,7 @@ iframe {
 }
 
 .sidebar {
-  margin-top: 40px;
+  margin-top: 50px;
 }
 
 
@@ -210,7 +208,7 @@ iframe {
   text-align: right;
   padding: 0 0 20px 0;
   border-bottom: 2px solid #eaedee;
-  margin-top: 30px;
+  margin-top: 20px;
 }
 
 .social-share .share {
@@ -226,9 +224,9 @@ iframe {
 
 .social-share a {
   display: inline-block;
-  width: 42px;
-  line-height: 42px;
-  height: 42px;
+  width: 36px;
+  line-height: 36px;
+  height: 36px;
   border-radius: 50%;
   border: 1px solid #dddddd;
   font-size: 16px;
@@ -393,11 +391,30 @@ iframe {
 /* ----------------------------------------------------------*/
 
 
+.image-header-post {
+  background: center top #3d4b5b; 
+  height: 160px; 
+  background-size: cover; 
+  text-align: center;
+  -webkit-filter: blur(18px);
+  -moz-filter: blur(18px);
+  -o-filter: blur(18px);
+  -ms-filter: blur(18px);
+  filter: blur(18px);
+  margin: -35px;
+}
+
 .image-header {
   background: center center #3d4b5b; 
   height: 480px; 
   background-size: cover; 
   text-align: center;
+}
+
+.image-header-overlay {
+  height: 480px; 
+  width: 100%;
+  background-color: rgba(37, 43, 51, 0.70);
 }
 
 .image-header h1 {
@@ -428,17 +445,23 @@ iframe {
   padding-top: 10px;
 }
 
-.image-header .post-author-image-header {
-  margin: 0 auto;
-  text-align: center;
+.post-author-head {
   display: block;
-  margin-top: 30px;
+  height: 50px;
 }
 
-.image-header .post-author-image-header img {
+.post-author-head span {
+  margin-left: 42px;
+  line-height: 32px;
+  font-weight: 300;
+}
+
+.post-author-head img {
   border-radius: 50%;
-  height: 64px;
-  width: 64px;
+  padding: 0 !important;
+  height: 32px !important;
+  width: 32px !important;
+  position: absolute;
 }
 
 .image-header .post-metadata {
@@ -455,12 +478,6 @@ iframe {
   text-transform: uppercase;
   color: #ffffff;
   /*border-top: 3px solid #fcd141;*/
-}
-
-.image-header-overlay {
-  height: 480px; 
-  width: 100%;
-  background-color: rgba(37, 43, 51, 0.74);
 }
 
 .posts-intro {
@@ -545,6 +562,12 @@ iframe {
   width: 100%;
   text-align: left;
   padding: 0 10px 20px;
+ }
+
+ .post-header h1 {
+  font-size: 38px;
+  line-height: 1.1em !important;
+  margin-top: 40px !important;
  }
 
  .post-image-container { 
