@@ -71,13 +71,13 @@ a:hover {
   padding: 0 10px;
 }
 
-.navbar .navbar-brand img {
+/*.navbar .navbar-brand img {
   opacity: .5;
 }
 
 .navbar .navbar-brand img:hover {
   opacity: 1.0;
-}
+}*/
 
 strong {
   font-weight: 500;
@@ -308,7 +308,7 @@ iframe {
 }
 
 .navbar-inverse .navbar-nav>li>a {
-  color: #91979e;
+  color: #ffffff;
 }
 
 .navbar-right li a:hover {
@@ -945,12 +945,17 @@ hr {
 
 @media screen and (max-width: 1100px) {
 
+
   .image-header {
     background-size: 1180px auto; /* Force the image to its minimum width */
   }
 }
 
 @media screen and (max-width: 768px) {
+
+  .image-header-post {
+    height: 120px; 
+  }
 
 
   .sidebar .well {
@@ -1007,6 +1012,9 @@ hr {
 
 @media screen and (max-width: 600px) {
 
+.image-header-post {
+  height: 100px; 
+}
 
   .ck_form {
   background-image: none;
