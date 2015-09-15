@@ -5,7 +5,7 @@
         </div>
         <div class="post-content-container">
             <h2 class="post-title">
-            <a class="post-link" href="{{ include.p.url | prepend: site.baseurl }}">{{ include.p.title }}</a>
+            <a class="post-link" href="{{ include.p.url | prepend: site.baseurl }}">{{ include.p.title | truncatewords:13  }}</a>
         </h2>
         <div class="borderline"></div>
         {% assign author = site.data.authors[include.p.author] %}
@@ -16,7 +16,7 @@
           </span>
             <div>
                 <p class="post-teaser">
-                    {{ include.p.teaser | truncatewords:17}}
+                    {{ include.p.teaser | truncatewords:17 }}
                 </p>
             </div>
         </div>

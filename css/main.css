@@ -347,6 +347,10 @@ iframe {
   padding-bottom: 16px;
 }
 
+.footer-links .btn {
+  color: #fff !important;
+}
+
 .footer h3 {
   color: #fff;
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -952,6 +956,7 @@ hr {
 }
 
 @media screen and (max-width: 768px) {
+
 
   .image-header-post {
     height: 120px; 

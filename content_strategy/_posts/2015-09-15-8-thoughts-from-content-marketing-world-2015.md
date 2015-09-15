@@ -23,7 +23,7 @@ Last year I did a post on [seven deep thoughts collected at CMW 2014](http://blo
 ### 1. Build your Tortoise Enclosure for Creative Thinking
 **Learned from: John Cleese <a href="http://twitter.com/johncleese" target="_blank">@johncleese</a>** 
 
-John Cleese is a comedy legend, but he met a mixed reception during his speech because he ripped Cleveland, his hotel and the Republican party. It was all a perfect fit for his dry humor, but it took away from what was probably one of the five best industry keynotes I've ever hearde. 
+John Cleese is a comedy legend, but he met a mixed reception during his speech because he ripped Cleveland, his hotel and the Republican party. It was all a perfect fit for his dry humor, but it took away from what was probably one of the five best industry keynotes I've ever heard. 
 
 Once he dug in, he told the story of how he makes himself creative, an exercise most people find counterintuitive. His strategy revolves around building his tortoise enclosure. This was a dive into the art of loafing for creativity, made famous in Guy Claxton's book, [Hare Brain, Tortoise Mind](http://www.amazon.com/Hare-Brain-Tortoise-Mind-Intelligence/dp/1857027094). The hare brain is what we use most often, tackling problems with rational, purposeful and deliberate thinking. This type of thinking is necessary, of course, but unlocking the tortoise mind comes from understanding cognitive research that shows the intelligent unconscious works quietly below, helping us recognize patterns, make connections and think creatively. Slowing down to hear this tortoise mind was at the heart of how geniuses like Einstein and Edison did their work. 
 
