@@ -516,6 +516,16 @@ iframe {
   box-shadow: 0 0 5px 1px rgba(0, 0, 0, 0.05);
   border: 1px solid #eeeeee;
   border-radius: 3px;
+  width: 100%;
+  position: relative;
+}
+
+.posts li a {
+  display: block;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  text-decoration: none;
 }
 
 .posts .post-link {
