@@ -20,6 +20,8 @@ The event covered its usual big hits with lots of orange candy, plenty of networ
 
 Last year I did a post on [seven deep thoughts collected at CMW 2014](http://blog.beegit.com/content_strategy/2014/09/15/thoughts-from-content-marketing-world/). This year I wanted to do one better. I attended the summit and focused on sessions that could help build relevant storytelling into a content strategy. From those sessions, here are eight unique and interesting thoughts from Content Marketing World 2015. Because the speakers I'm referencing are all experts in their niche, I try to quote them directly or link to their presentations/social media wherever possible. 
 
+![8-deep-thoughts-shareable.jpg](https://ucarecdn.com/41b130e2-9015-43d3-9bef-16ae2c13c425/)
+
 ### 1. Build your Tortoise Enclosure for Creative Thinking
 **Learned from: John Cleese <a href="http://twitter.com/johncleese" target="_blank">@johncleese</a>** 
 
