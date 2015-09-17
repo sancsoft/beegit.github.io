@@ -8,6 +8,7 @@ image: https://s3.amazonaws.com/beegit-images/blog/headers/7-best-practices-for-
 author: matt_bixenstine
 comments: true
 shortUrl: http://buff.ly/1NyGhjV
+redirect_from: "/content_strategy/2015/09/17/7-Best-Practices-for-your-Business-Blog"
 
 ---
 
