@@ -15,12 +15,12 @@ Weve all red a sentense like this 1. Your editorial conscience subsequently crin
 
 Perhaps the content in question actually had merit, contained useful information and provided entertainment value. But that's beside the point; the all-important first-impression test failed, end of story.
 
-![shareable.jpg](https://ucarecdn.com/bc7cc396-ed52-470e-9caa-e265d7aa7b56/)
-
 The absence of proper proofreading practices can doom even the most well-intentioned content marketer. It's tedious yet crucial. Like slowing down early rather than surging through the finish line, failure to proofread can erase the diligent effort you put forth throughout the race.
 
 
 So why exactly is proofreading so essential, especially within the context of a blog post?
+
+![shareable.jpg](https://ucarecdn.com/bc7cc396-ed52-470e-9caa-e265d7aa7b56/)
 
 ### Credibility: Our (Written) Word is Our Bond
 By their very nature, blogs tend to be informal and conversational. Their non-intimidating tone is part of their appeal. But in order to develop a following and consistent readership, a [blogging content marketing team](http://blog.beegit.com/content_strategy/2015/04/01/how-to-build-and-manage-distributed-writing-team/) must establish credibility with its audience. 

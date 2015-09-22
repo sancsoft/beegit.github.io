@@ -16,13 +16,13 @@ Back in my newsroom days, I would often be slogging away toward deadline while d
 
 For the most part, we had a modern newsroom. We had freelance writers and staff members with mobile technology filing their stories from the field or office via a shared drive or email. But once we tried to put their raw content files into production, we faced a constant breakdown of the creaky content production processes of the day. 
 
-![shareable.jpg](https://ucarecdn.com/3854fa90-4eaa-4a53-8171-90b1e8d73353/)
-
 Once edited, content was put into three separate containers for our revenue streams: Web, print and a holding file for future content marketing repackaging. Our writers used Word because somewhere along the way the world decided that was an acceptable word processor. That meant that there was a person on the editorial team who had the job of taking Word documents and “cleaning” them -- basically stripping formatting out and putting it into a new RTF document so the web team could add in HTML formatting for our custom CMS. 
 
 To save our team time, we dropped the print formatting on the designers. They took the Word document through another process so that it would drop cleanly into InDesign. Finally, the Word document itself was saved on the shared drive so we could pull chunks of it out to use in our content marketing division. 
 
 Forget for a moment about the version control issues having three different documents created and think about the time and productivity we lost on formatting. 
+
+![shareable.jpg](https://ucarecdn.com/3854fa90-4eaa-4a53-8171-90b1e8d73353/)
 
 At Beegit, we’ve been [sharing our story](/platform/2014/04/28/introducing-beegit/). When we asked professional writers and content developers what they wanted in a word processor, their demands were simple but unmet. 
 

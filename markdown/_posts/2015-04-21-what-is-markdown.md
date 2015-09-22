@@ -14,9 +14,9 @@ Talk about Markdown has been trending upward the last couple of years and maybe 
 
 Created by John Gruber in 2004, Markdown is a text-to-HTML conversion tool for web writers. Use of Markdown has grown because it's the Kix cereal of online content: It's developer tested and writer approved. 
 
-![shareable.jpg](https://ucarecdn.com/089899e7-ab8a-4217-828d-96610a3bdbaa/)
-
 It allows you to write using an easy-to-read, easy-to-write plain text format, which is why it's writer approved. But here's what tech teams like: Markdown converts your text into properly formatted HTML, even if you don’t know a lick of code. The web is written in HTML, so it's a development tool for content creators -- one that prevents bad HTML caused by simple typos. You won’t have any missing closing tags, improperly nested tags or blocks left without containers.
+
+![shareable.jpg](https://ucarecdn.com/089899e7-ab8a-4217-828d-96610a3bdbaa/)
 
 <span><a class="tweet-quote">Markdown converts your text into properly formatted HTML, even if you don’t know a lick of code</a></span>
 

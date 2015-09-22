@@ -18,9 +18,9 @@ After years of bugging bosses and colleagues about the role content plays in a g
 
 While most creators have a backlog of ideas, eventually those resources will be tapped. That's when it's time to reach out to colleagues and partners for product overviews, business details and customer wins. 
 
-![shareable.jpg](https://ucarecdn.com/bfd1718e-3f98-4515-b136-a7636e95fb35/)
-
 But while getting content from these folks is important, it can be a struggle to turn a non-writer's thoughts into clean copy. Here are a few tips that have worked for me when it comes time to get content from people outside of the writing world. 
+
+![shareable.jpg](https://ucarecdn.com/bfd1718e-3f98-4515-b136-a7636e95fb35/)
 
 ### 1. Share your bullet points and outline
 

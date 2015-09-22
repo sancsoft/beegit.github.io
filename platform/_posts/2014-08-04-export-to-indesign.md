@@ -20,11 +20,11 @@ Our goal at Beegit is to get content under control for individuals and teams. Th
 
 One cool way we're doing this is through our export to InDesign feature, which keeps designers from making text changes inside production files and ensures that the latest versions of the content files are always up-to-date and in a centralized location -- where they belong.
 
-![shareable.jpg](https://ucarecdn.com/c737d4dd-7f12-40af-a138-0d023234fed2/)
-
 This concept may seem a bit abstract, but trust me, the time and resources it will save, particularly in repeatable production processes, will revolutionize your workflow.
 
 A typical workflow consists of content coming from editorial to a designer via emailed text, a Word document or other means. That's a pain point when you're translating content into a finished layout, as even the most basic formatting efforts are often lost because common applications like Word use proprietary formatting systems that don't translate into other mediums. 
+
+![shareable.jpg](https://ucarecdn.com/c737d4dd-7f12-40af-a138-0d023234fed2/)
 
 If you're involved in layout, then you also know that content approved for layout is rarely "final." That means when edits make their way back to the designer, it requires reformatting or making all of the changes inside InDesign. This creates the potential for mistakes in the production files. 
 
