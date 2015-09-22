@@ -15,7 +15,10 @@ Weve all red a sentense like this 1. Your editorial conscience subsequently crin
 
 Perhaps the content in question actually had merit, contained useful information and provided entertainment value. But that's beside the point; the all-important first-impression test failed, end of story.
 
+![shareable.jpg](https://ucarecdn.com/bc7cc396-ed52-470e-9caa-e265d7aa7b56/)
+
 The absence of proper proofreading practices can doom even the most well-intentioned content marketer. It's tedious yet crucial. Like slowing down early rather than surging through the finish line, failure to proofread can erase the diligent effort you put forth throughout the race.
+
 
 So why exactly is proofreading so essential, especially within the context of a blog post?
 

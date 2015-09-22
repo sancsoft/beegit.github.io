@@ -19,6 +19,8 @@ A handful of headline writers throughout history have had it easy. A historical 
 
 The rest of us, though, must master the art of writing attention-garnering headlines. And while the content medium has changed since Neil Armstrong emerged from Apollo 11 onto a cratered surface in 1969 -- newspaper mastheads have been replaced in part by blog homepages, circulation replaced by clicks -- the task of headline writing remains monumental.
 
+![shareable.jpg](https://ucarecdn.com/2d2945e4-32af-4268-a64a-c6fd97013143/)
+
 Just how can [modern-day content marketers](http://blog.beegit.com/content_strategy/2015/04/01/how-to-build-and-manage-distributed-writing-team/) write blog headlines readers will be enticed to click on?
 
 ### Never Underestimate the Power of a Strong First Impression

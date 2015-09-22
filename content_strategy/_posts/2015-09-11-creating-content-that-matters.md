@@ -21,7 +21,10 @@ Most of these talks are run by industry experts who drive home how content marke
 
 Of course, the boom of content has made room for plenty of gadgets and silver bullet claims. The staggering numbers from the forthcoming MarketingProfs/Content Marketing Institute study found that 76 percent of B2B organizations plan to produce more content in 2016 and 51 percent plan to spend more of their budget on content marketing. 
 
+![shareable.jpg](https://ucarecdn.com/2310215b-c4cb-4769-98ba-4f715629b9e6/)
+
 This would all be fantastic for everyone involved in the content marketing food chain except for one sticky wicket: Only 30 percent of these marketers know that their content is effective. 
+
 
 Making matters worse, there is no strategy from the outset on most of this content -- some 50 percent of marketers who claim to have a content strategy concede that they never got around to writing it down anywhere, and 15 percent admit they have no strategy at all -- resulting in lots of irrelevant content that doesn't meet audience expectations or help with anyone's business goals. 
 

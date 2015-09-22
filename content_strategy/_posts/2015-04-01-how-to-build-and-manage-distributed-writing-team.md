@@ -16,6 +16,8 @@ The Internet has provided us with so many things --- endless cat GIFs, interrupt
 
 [The rise of the remote worker](http://www.nytimes.com/2014/03/08/your-money/when-working-in-your-pajamas-is-more-productive.html?_r=0) presents opportunities for your businesses to grow quickly and offer job flexibility that will let you source talent from all over the world. Plugging in from the couch or the local hipster coffee place can work particularly well for writing teams, as there is so much quiet, independent work that can be done. 
 
+![shareable.jpg](https://ucarecdn.com/7d9be6d3-334b-42c4-bc17-122af0beab60/)
+
 But <a class="tweet-quote">overseeing remote writing teams has its complexities</a>. There are logistical challenges, including sourcing, managing and scaling the writing team that will create your content. So how do you build, manage and grow a distributed workforce?
 
 ### Build the team 

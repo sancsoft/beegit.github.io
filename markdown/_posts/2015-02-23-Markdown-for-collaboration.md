@@ -17,7 +17,9 @@ There are few things in business more frustrating than trying to write content w
 
 Managing multiple voices, revisions and opinions is painful enough, but when you're finally to a point where you agree on the text, it's generally written in Microsoft Word or Google Docs, meaning there's one last time-sucking stage: reformatting it for web and print display. 
 
-But time lost around formatting and reformatting is avoidable. There's a better way to write with others, and it's called Markdown. [Markdown is is a text-based markup language](http://whatismarkdown.com/) created by John Gruber to write in an easy-to-read format that is effortlessly converted into HTML and print --- and with the right system, [Markdown can even be exported to InDesign](/platform/2014/08/04/export-to-indesign/). 
+![shareable.jpg](https://ucarecdn.com/72bb9f81-4dca-4250-8813-f7322ad53c3a/)
+
+But time lost around formatting and reformatting is avoidable. There's a better way to write with others, and it's called Markdown. <a href="http://whatismarkdown.com/" target="_blank">Markdown is is a text-based markup language</a> created by John Gruber to write in an easy-to-read format that is effortlessly converted into HTML and print --- and with the right system, [Markdown can even be exported to InDesign](/platform/2014/08/04/export-to-indesign/). 
 
 Perhaps you've heard of Markdown, which is growing as popular with professional writing teams as framed eyewear. If you haven't, you should get to know it because it is the syntax that will help you make sense of multi-channel publishing and content reuse. 
 

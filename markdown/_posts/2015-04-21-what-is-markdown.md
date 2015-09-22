@@ -14,7 +14,11 @@ Talk about Markdown has been trending upward the last couple of years and maybe 
 
 Created by John Gruber in 2004, Markdown is a text-to-HTML conversion tool for web writers. Use of Markdown has grown because it's the Kix cereal of online content: It's developer tested and writer approved. 
 
-It allows you to write using an easy-to-read, easy-to-write plain text format, which is why it's writer approved. But here's what tech teams like: <a class="tweet-quote">Markdown converts your text into properly formatted HTML, even if you don’t know a lick of code</a>. The web is written in HTML, so it's a development tool for content creators -- one that prevents bad HTML caused by simple typos. You won’t have any missing closing tags, improperly nested tags or blocks left without containers.
+![shareable.jpg](https://ucarecdn.com/089899e7-ab8a-4217-828d-96610a3bdbaa/)
+
+It allows you to write using an easy-to-read, easy-to-write plain text format, which is why it's writer approved. But here's what tech teams like: Markdown converts your text into properly formatted HTML, even if you don’t know a lick of code. The web is written in HTML, so it's a development tool for content creators -- one that prevents bad HTML caused by simple typos. You won’t have any missing closing tags, improperly nested tags or blocks left without containers.
+
+<span><a class="tweet-quote">Markdown converts your text into properly formatted HTML, even if you don’t know a lick of code</a></span>
 
 With that benefit comes the fact that [Markdown is light and flexible](/markdown/2014/05/27/supporting-markdown/). Novice users can learn basic Markdown within a few minutes. The resulting text is much easier on the reader than HTML. Here is a short headline in Markdown, followed by the same headline in HTML: 
 
@@ -45,6 +49,6 @@ As an additional benefit, Markdown is generally [written in an application like 
 ### Where it's used 
 Markdown is great for everything from content marketing to [API documentation](http://www.programmableweb.com/news/why-you-should-use-markdown-your-api-documentation/2015/02/19). It's particularly useful where content and tech teams need to write together. 
 
-As Markdown's popularity grows, it's being used in all kinds of team tools like Trello and Slack to simplify communications. We also talk about it a good bit at Beegit, as our focus is on being *the* Markdown tool built for [professional collaboration on content development](/new_features/2015/04/17/real-time-release/). 
+As Markdown's popularity grows, it's being used in all kinds of team tools like Trello and Slack to simplify communications. We also talk about it a good bit at Beegit, as our focus is on being *the* Markdown tool built for professional collaboration on content development. 
 
 Have you used Markdown? If you want to give it a spin, sign up for a free trial of [Beegit](https://beegit.com/) and see what all the hubbub is about. 

@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title:  Using Beegit to export your content to InDesign
+title:  Using Beegit to export Markdown to InDesign
 date:   2014-08-04 10:00:00
 teaser: Our goal at Beegit is to get content under control for individuals and teams. This means simplifying processes for everyone at every stage in the production process. 
 image: https://s3.amazonaws.com/beegit-images/blog/headers/export-to-indesign.jpg
@@ -19,6 +19,8 @@ redirect_from:
 Our goal at Beegit is to get content under control for individuals and teams. This means simplifying processes for everyone at every stage in the production process. 
 
 One cool way we're doing this is through our export to InDesign feature, which keeps designers from making text changes inside production files and ensures that the latest versions of the content files are always up-to-date and in a centralized location -- where they belong.
+
+![shareable.jpg](https://ucarecdn.com/c737d4dd-7f12-40af-a138-0d023234fed2/)
 
 This concept may seem a bit abstract, but trust me, the time and resources it will save, particularly in repeatable production processes, will revolutionize your workflow.
 

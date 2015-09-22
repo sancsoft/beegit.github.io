@@ -16,6 +16,8 @@ Content marketing is meant to create value for your business, but if  you're not
 
 One of the key components of an agile content plan is to evaluate what you already have through a content audit. I know it's a boring tax term, but <a class="tweet-quote">a good audit will highlight the content that's missing</a> as you look create leads or engage your customers.
 
+![shareable.jpg](https://ucarecdn.com/a1b0973b-8cdd-441e-9a2d-874b59459296/)
+
 Content audits can get quite detailed, but if you've never done one before, start by gathering information how much content you have and which audience you're talking to. Here's three basic things to measure.
 
 

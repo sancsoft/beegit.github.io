@@ -16,6 +16,8 @@ Although [John Gruber created Markdown](http://daringfireball.net/projects/markd
 
 Why? Markdown is the best text-to-HTML conversion tool for web writing because it's easy to use, read and share.
 
+![shareable.jpg](https://ucarecdn.com/2b7f0772-77c6-4ebd-a51c-36207d4c3844/)
+
 HTML is the way of the web, but writing it can be cumbersome. Markdown is so simple that calling it a syntax seems like an unwarranted technical description. Most people can start using it within minutes.
 
 Because of how easy it is to learn, it's been engrained in powerhouse collaboration tools like [Trello](http://help.trello.com/article/821-using-markdown-in-trello), ZenDesk, Slack's document editor and, of course, GitHub's README files. As it's used in more and more places, there is a new generation of writers who know it as well as texting teens know the emoji library. 
