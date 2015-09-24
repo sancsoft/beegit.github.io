@@ -1,3 +1,13 @@
+#menu {
+  position:fixed;
+  top:0px;
+  height: 65px;
+  background-color:#ffffff;
+  z-index:9999;
+  display: none;
+  border-bottom: 1px solid #dddddd;
+}
+
 /* ConvertKit Form Styling*/
 /* ----------------------------------------------------------*/
 
@@ -397,7 +407,7 @@ iframe {
 
 .image-header-post {
   background: center top #3d4b5b; 
-  height: 160px; 
+  height: 225px; 
   background-size: cover; 
   text-align: center;
   -webkit-filter: blur(18px);
@@ -410,32 +420,24 @@ iframe {
 
 .image-header {
   background: center top #3d4b5b; 
-  height: 480px; 
+  height: 545px; 
   background-size: cover; 
   text-align: center;
 }
 
 .image-header-overlay {
-  height: 480px; 
+  height: 545px;  
   width: 100%;
   background-color: rgba(37, 43, 51, 0.70);
 }
 
-.image-header h1 {
-  color: #fff;
-  font-size: 44px;
-  text-align: center;
-  line-height: 1.1;
-  font-weight: 500;
-  padding-top: 90px;
-}
 
 .image-header h3 {
   color: #ffffff;
   font-size: 17px;
   font-weight: 300;
   text-transform: uppercase;
-  padding-top: 90px;
+  padding-top: 155px;
   word-spacing: 2px;
   letter-spacing: .8px;
 }
@@ -1084,7 +1086,7 @@ hr {
     text-align: center;
     line-height: 55px;
     font-weight: 500;
-    padding-top: 60px;
+    padding-top: 100px;
     word-spacing: 2px;
     letter-spacing: .8px;
     margin: 0 auto;
