@@ -36,7 +36,7 @@ comments: true
 
 Which becomes this file when its template is chosen: 
 
-![rendered.jpg](https://ucarecdn.com/324073b8-df87-43bd-b2e2-3f0c2d87dbe5/)
+![rendered_template.jpg](https://ucarecdn.com/eb6e7937-fcbe-4445-9cbd-b9d383f006fa/)
 
 
 ### Available template variables
