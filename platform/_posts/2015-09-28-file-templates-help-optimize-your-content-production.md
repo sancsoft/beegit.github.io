@@ -19,7 +19,7 @@ Anyone on the team with `Editor` access or above can create and manage the list 
 
 ![templates_ui.jpg](https://ucarecdn.com/ec83cfc7-499e-4e76-87ef-52c49d0ccb2f/)
 
-Any content you put in the template will be dropped in as the default text on new files created from that template. In addition to file templates supporting static content, they are also very flexible and support the [Liquid templating language](https://docs.shopify.com/themes/liquid-documentation/basics) created by [Shopify](https://www.shopify.com/). With Liquid and [Beegit](https://beegit.com), you can do some really cool stuff, like automatically drop in the current date, or drop in the name and Twitter handle of the user who is creating a new file. When a new file is created against a template, [Beegit](https://beegit.com) will merge in any variables you have defined in the template. Here is an example of what you can do (we use this template for our [Jekyll](https://jekyllrb.com/) blog posts):
+Any content you put in the template will be dropped in as the default text on new files created from that template. In addition to file templates supporting static content, they are also very flexible and support the <a href-="https://docs.shopify.com/themes/liquid-documentation/basics" target="_blank">Liquid templating language</a> created by <a href="https://www.shopify.com/" target="_blank">Shopify</a>. With Liquid and [Beegit](https://beegit.com), you can do some really cool stuff, like automatically drop in the current date, or drop in the name and Twitter handle of the user who is creating a new file. When a new file is created against a template, [Beegit](https://beegit.com) will merge in any variables you have defined in the template. Here is an example of what you can do (we use this template for our <a href="(https://jekyllrb.com/" target="_blank">Jekyll</a> blog posts):
 
 ---
 
@@ -35,7 +35,7 @@ Here is the full list of variables that you can specify in a file template:
 
 | Template Variable | Description |
 |--------|-----------|
-|{% raw %}`{{'now' | date: "format"}}`{% endraw %}| The current date/time in the specified [format](https://docs.shopify.com/themes/liquid-documentation/filters/additional-filters#date)|
+|{% raw %}`{{'now' | date: "format"}}`{% endraw %}| The current date/time in the specified <a href="https://docs.shopify.com/themes/liquid-documentation/filters/additional-filters#date" target="_blank">format</a>|
 |{% raw %}`{{ file.name }}`{% endraw %}| The name of the current file being created
 |{% raw %}`{{project.name}}`{% endraw %}| The name of the current project 
 |{% raw %}`{{user.name.full}}`{% endraw %}|The `Name` of the user creating the file
