@@ -21,15 +21,25 @@ Anyone on the team with `Editor` access or above can create and manage the list 
 
 Any content you put in the template will be dropped in as the default text on new files created from that template. In addition to file templates supporting static content, they are also very flexible and support the <a href="https://docs.shopify.com/themes/liquid-documentation/basics" target="_blank">Liquid templating language</a> created by <a href="https://www.shopify.com/" target="_blank">Shopify</a>. With Liquid and [Beegit](https://beegit.com), you can do some really cool stuff, like automatically drop in the current date, or drop in the name and Twitter handle of the user who is creating a new file. When a new file is created against a template, [Beegit](https://beegit.com) will merge in any variables you have defined in the template. Here is an example of what you can do (we use this template for our <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> blog posts):
 
+~~~~~~~~
 ---
-
-![rendered-yaml.jpg](https://ucarecdn.com/eeeb5681-1cf8-4d45-95bc-fa8e144de8bf/)
-
+layout: post
+title: Post title - 7 words or less
+teaser: Post teaser - 18 words or less
+date: {% raw %}{{'now' | date: "%Y-%m-%d 12:00:00"}}{% endraw %}
+author: {% raw %}{{user.name.first}}_{{user.name.last}}{% endraw %}
+twitter: [{% raw %}{{user.twitter}}{% endraw %}](https://twitter.com/{% raw %}{{user.twitter}}{% endraw %})
+comments: true
 ---
+~~~~~~~~
 
 
+Which becomes this file when its template is chosen: 
 
-## Available template variables
+![rendered.jpg](https://ucarecdn.com/324073b8-df87-43bd-b2e2-3f0c2d87dbe5/)
+
+
+### Available template variables
 
 Here is the full list of variables that you can specify in a file template:
 
@@ -49,7 +59,7 @@ Here is the full list of variables that you can specify in a file template:
 |{% raw %}`{{owner.twitter}}`{% endraw %}| The `Twitter` handle of the user who owns the project
 |{% raw %}`{{owner.company}}`{% endraw %}| The `company` of the user who own the project
 
-## Make some templates!
+### Make some templates!
 
 We're really excited about the new file templates feature and can't wait to see what you do with them. If you haven't been around for a while, now is a great time to [log back in](https://beegit.com/login) to Beegit and see why it's the best collaborative writing app for the Web. If you've never signed up for Beegit, it's the perfect time to [start a free trial](https://beegit.com/signup?plan=basic).
 
