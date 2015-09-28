@@ -36,7 +36,20 @@ comments: true
 
 Which becomes this file when its template is chosen: 
 
-![rendered_template.jpg](https://ucarecdn.com/eb6e7937-fcbe-4445-9cbd-b9d383f006fa/)
+---
+
+<pre class="rendered"><code>---
+layout: post
+title: Post title - 7 words or less
+teaser: Post teaser - 18 words or less
+date: 2015-09-28 12:00:00
+author: kris_ciccarello
+twitter: [kmctown](https://twitter.com/kmctown)
+comments: true
+---
+</code></pre>
+
+---
 
 
 ### Available template variables

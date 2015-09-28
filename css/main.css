@@ -896,6 +896,13 @@ hr {
   font-size: 15px;
 }
 
+pre.rendered {
+  border: 0;
+  background-color: #fff !important;
+  padding: 8px 0;
+  font-size: 15px;
+}
+
 .post code { padding: 1px 5px; }
 
 .post ul,
