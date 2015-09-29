@@ -8,6 +8,10 @@
   border-bottom: 1px solid #dddddd;
 }
 
+.modal {
+  z-index:1051;
+}
+
 /* ConvertKit Form Styling*/
 /* ----------------------------------------------------------*/
 
