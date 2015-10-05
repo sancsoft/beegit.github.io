@@ -70,4 +70,4 @@ Pretend you were never in danger of failing that college statistics course back 
 25. <a class="tweet-quote">Most content marketers believe their top challenge moving forward is producing engaging content</a> (60 percent). (Content Marketing Institute)
 
 
-![25-Content-Marketing-Stats-That-Will-Blow-Your-Mind-Infographic.png](https://ucarecdn.com/42c7c151-e536-4c8f-bb0e-9e4c88534452/)
+![25-Content-Marketing-Stats-That-Will-Blow-Your-Mind-Infographic.png](https://ucarecdn.com/d7b7b606-8719-4a8a-8784-b4f563558f97/)
