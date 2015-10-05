@@ -21,7 +21,7 @@ Anyone on the team with `Editor` access or above can create and manage the list 
 
 Any content you put in the template will be dropped in as the default text on new files created from that template. In addition to file templates supporting static content, they are also very flexible and support the <a href="https://docs.shopify.com/themes/liquid-documentation/basics" target="_blank">Liquid templating language</a> created by <a href="https://www.shopify.com/" target="_blank">Shopify</a>. With Liquid and [Beegit](https://beegit.com), you can do some really cool stuff, like automatically drop in the current date, or drop in the name and Twitter handle of the user who is creating a new file. When a new file is created against a template, [Beegit](https://beegit.com) will merge in any variables you have defined in the template. Here is an example of what you can do (we use this template for our <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> blog posts):
 
-~~~~~~~~
+```
 ---
 layout: post
 title: Post title - 7 words or less
@@ -31,7 +31,7 @@ author: {% raw %}{{user.name.first}}_{{user.name.last}}{% endraw %}
 twitter: [{% raw %}{{user.twitter}}{% endraw %}](https://twitter.com/{% raw %}{{user.twitter}}{% endraw %})
 comments: true
 ---
-~~~~~~~~
+```
 
 
 Which becomes this file when its template is chosen: 

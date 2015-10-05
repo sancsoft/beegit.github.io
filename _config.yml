@@ -7,7 +7,7 @@ url: "http://blog.beegit.com"
 
 # Build settings
 markdown: kramdown
+kramdown:
+  input: GFM # Enable GitHub Flavored Markdown (fenced code blocks)
 permalink: pretty
 
-gems:
-  - jekyll-redirect-from
