@@ -69,5 +69,8 @@ Pretend you were never in danger of failing that college statistics course back 
 24. <a class="tweet-quote">78 percent of CMOs think content is the future of marketing.</a> (Demand Metric)
 25. <a class="tweet-quote">Most content marketers believe their top challenge moving forward is producing engaging content</a> (60 percent). (Content Marketing Institute)
 
+<a data-pin-color="red" data-pin-do="buttonBookmark" null data-pin-height="28" href="//www.pinterest.com/pin/create/button/"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_red_28.png" /></a>
+<!-- Please call pinit.js only once per page -->
+<script async defer src="//assets.pinterest.com/js/pinit.js"></script>
 
 ![25-Content-Marketing-Stats-That-Will-Blow-Your-Mind-Infographic.png](https://ucarecdn.com/d7b7b606-8719-4a8a-8784-b4f563558f97/)
