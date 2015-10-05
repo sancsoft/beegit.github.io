@@ -18,6 +18,7 @@ With all due respect to stock market analysts, baseball scouts and political gur
 Translation: Nowadays even math-deficient content marketers can crunch numbers and craft effective statistics with the best of them.
 
 The value of numerical data cannot be overstated as it pertains to content marketing. Accurate, meaningful statistics serve to:
+
 * Counterbalance our subjective minds
 * Provide clarity in the face of clutter
 * Emphasize what's really important (such as ROI)
