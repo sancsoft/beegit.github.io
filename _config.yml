@@ -1,7 +1,7 @@
 # Site settings
-title: "Thoughts on content strategy, markdown and writing technology"
+title: "Best Practices, Content Strategy and Technology for B2B Blogs"
 email: "mike@beegit.com"
-description: "Regular insight about content strategy, markdown and writing technology to help content teams increase productivity."
+description: "Regular insight about content strategy, Markdown and writing technology to help B2B content teams generate and convert leads."
 baseurl: ""
 url: "http://blog.beegit.com"
 
@@ -10,7 +10,3 @@ markdown: kramdown
 kramdown:
   input: GFM # Enable GitHub Flavored Markdown (fenced code blocks)
 permalink: pretty
-
-gems:
-  - jekyll-redirect-from
-
