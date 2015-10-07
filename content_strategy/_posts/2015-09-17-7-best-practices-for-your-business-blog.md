@@ -30,14 +30,14 @@ Of course, a blog is only as useful as its content creator makes it. So here are
 
 ![shareable.jpg](https://ucarecdn.com/0af0abf4-3c64-4927-ad43-f8c477791812/)
 
-###1. Develop a Strategy That Affords You Time to Blog
+### 1. Develop a Strategy That Affords You Time to Blog
 You may recognize the value of having a blog...but what about your time constraints? Too often, we encounter aspiring business bloggers who either haven't found the time to start or who haven't updated their blog since Obama began his second term.
 
 Assemble a team of bloggers (even as small as yourself and one coworker), then create an [editorial calendar](http://blog.beegit.com/platform/2015/05/27/calendar-release/) and stick to it. Be realistic about your time limitations -- a blog post every two weeks is better than not producing original content at all.
 
 Allocate a modest yet consistent amount of time to your blog. Perhaps you devote three hours to blogging every other Friday morning, with the plan of revisiting the newly-created blog entry the following week and publishing that Tuesday. Consistency breeds habit.
 
-###2. Follow a Suitable Blog Style Guide
+### 2. Follow a Suitable Blog Style Guide
 As your strategy takes shape and your goal of consistent blogging comes to fruition, consider establishing a blog style guide. This is especially important if you have multiple writers contributing to the blog.
 
 What type of tone and style should your blog have? Is the use of industry-specific jargon allowable? Personally, we recommend adopting a conversational tone and limiting jargon -- just be yourself and your industry expertise will shine through. But whatever you select for your blog, have some guidance in place to avoid confusion.
@@ -48,7 +48,7 @@ Other elements of a blog style guide include:
 * A guide for handling research sourcing
 
 
-###3. Write a Click-Worthy Blog Headline
+### 3. Write a Click-Worthy Blog Headline
 It may seem like a simple phrase preceding your blog post, but [your headline should hardly be an afterthought](http://blog.beegit.com/content_strategy/2015/09/10/writing-headlines-blog/). In fact, some experts recommend devoting nearly half your blogging time to crafting a perfect headline.
 
 A proper blog first impression should be lasting...or at least entice your readers' subconscious to shout "click away" rather than mumble "next please" as they wade through our increasingly content-crowded digital world.
