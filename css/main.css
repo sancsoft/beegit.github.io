@@ -543,7 +543,7 @@ code {
 .posts li { 
   line-height: 1;
   margin-bottom: 40px;
-  min-height: 450px !important;
+  min-height: 470px !important;
   box-shadow: 0 0 5px 1px rgba(0, 0, 0, 0.05);
   border: 1px solid #eeeeee;
   border-radius: 3px;
@@ -619,7 +619,7 @@ code {
     background-size: cover;
     background-position: center top;
     width: 100%; 
-    height: 160px; 
+    height: 170px; 
     overflow: hidden;
     margin: 0 auto;
     text-align: center;
@@ -629,6 +629,7 @@ code {
 
 .post-content-container {
   padding: 0 22px;
+  margin-bottom: 25px;
 }
 
  h2.post-title { 
@@ -1083,6 +1084,14 @@ pre.rendered {
 #ck_success_msg p {
   font-size: 14px;
   color: #3c763d;
+}
+
+@media screen and (max-width: 990px) {
+
+  .posts li { 
+    min-height: initial !important;
+  }
+
 }
 
 @media screen and (max-width: 600px) {

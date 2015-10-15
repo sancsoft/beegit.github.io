@@ -32,8 +32,6 @@ Just how can [modern-day content marketers](http://blog.beegit.com/content_strat
 
 Imagine you're a realtor trying to sell a house. The foundation is solid and you've staged the interior brilliantly, highlighting the home's charm and emphasizing its square footage. Yet, despite all your efforts, you overlooked the front yard entirely. Curb appeal is altogether lacking and the absence of landscaping would make a fraternity house lawn look pristine. Think you'll even get one prospective buyer through the front door? 
 
-![sharable-craft-headline.jpg](https://ucarecdn.com/58c567ba-514c-4a37-b7b6-5d8b18ef7c85/)
-
 All too often, writers labor over a blog post for days...then mistakenly just plug in a headline at the end as an afterthought. By then, the writer is sick of looking at the piece and simply wants it off his or her plate.
 
 <a class="tweet-quote">Devote ample time to writing your headline and make that first impression meaningful.</a> Consider adopting the 50/50 rule, whereby half your time is spent constructing an effective headline and lede, and the remainder is spent rounding out your blog. 
