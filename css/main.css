@@ -264,9 +264,9 @@ code {
   height: 36px;
   border-radius: 50%;
   border: 1px solid #dddddd;
+  color: #9f9f9f;
   font-size: 16px;
   margin: 0 2px;
-  color: #9f9f9f;
   text-align: center;
 }
 
@@ -281,6 +281,36 @@ code {
   border: 1px solid #cccccc;
   background-color: #f3f3f3;
 }
+
+/*.twitter {
+  background-color: #2ca8d2;
+  color: #fff;
+}
+
+.facebook {
+  background-color: #305891;
+  color: #fff;
+}
+
+.google {
+  background-color: #dc4e41;
+  color: #fff;
+}
+
+.linkedin {
+  background-color: #4498c8;
+  color: #fff;
+}
+
+.pinterest {
+  background-color: #c82828;
+  color: #fff;
+}
+
+.buffer {
+  background-color: #e8e8e8;
+  color: #fff;
+}*/
 
 
 /* Disqus Styling*/
