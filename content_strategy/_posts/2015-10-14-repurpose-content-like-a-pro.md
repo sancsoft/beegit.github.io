@@ -33,7 +33,7 @@ By repurposing your best content (notice I didn't say "all content" or "just any
 
 Like concocting five turkey recipes from Thanksgiving leftovers, repurposing enables you to get the most of out of your content, extending its shelf life. <a class="tweet-quote">If content is king, then long live the kings.</a> Here are eight techniques for repurposing your content like a pro:
 
-![shareable.jpg](https://ucarecdn.com/863fcc77-2f38-46f4-b145-5b59e41c3906/)
+![shareable.png](https://ucarecdn.com/688de926-daf9-4fa0-ba78-5e11c6603bbe/)
 
 ### 1. Develop Evergreen Content
 Seek a lifetime warranty with no expiration date for your content. While some pieces may be timely and have limited usage, strive to make most of your content evergreen -- continually relevant and fresh for readers. If you're a retailer that holds an annual holiday sale, you want to avoid putting anything specific to a particular year on your sale signage so it can be reused each time the holiday season rolls around. Applying this same technique to your content affords you maximum usability and flexibility.

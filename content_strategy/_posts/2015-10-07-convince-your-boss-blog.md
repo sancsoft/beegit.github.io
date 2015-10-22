@@ -25,7 +25,7 @@ Yet if you truly believe content marketing is both the present and the future, n
 
 Here's our guide to convincing your boss to invest in content marketing. Read on then step into your boss's office with confidence.
 
-![shareable.jpg](https://ucarecdn.com/1e32dfd5-3f2f-49a6-86ed-6dc352774f51/)
+![shareable.png](https://ucarecdn.com/4a36b52a-3571-4d79-8147-49d73e11da41/)
 
 ### Dream Big but Start Small
 
