@@ -28,7 +28,7 @@ Meaning: Not only is inbound marketing -- those activities like blogging and soc
 
 Of course, a blog is only as useful as its content creator makes it. So here are seven best practices for your business blog: 
 
-![shareable.jpg](https://ucarecdn.com/0af0abf4-3c64-4927-ad43-f8c477791812/)
+![shareable.png](https://ucarecdn.com/71bfcc3d-f7d5-44da-94a3-2674cd6f3393/)
 
 ### 1. Develop a Strategy That Affords You Time to Blog
 You may recognize the value of having a blog...but what about your time constraints? Too often, we encounter aspiring business bloggers who either haven't found the time to start or who haven't updated their blog since Obama began his second term.

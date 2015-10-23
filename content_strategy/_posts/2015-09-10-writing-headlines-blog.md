@@ -21,7 +21,7 @@ The rest of us, though, must master the art of writing attention-garnering headl
 
 Just how can [modern-day content marketers](http://blog.beegit.com/content_strategy/2015/04/01/how-to-build-and-manage-distributed-writing-team/) write blog headlines readers will be enticed to click on?
 
-![shareable.jpg](https://ucarecdn.com/bf442aa3-42a6-4cf5-84d8-d22ad839604e/)
+![shareable.png](https://ucarecdn.com/f7f90ad3-9136-44f1-8269-e2ffebba726b/)
 
 
 ### Never Underestimate the Power of a Strong First Impression

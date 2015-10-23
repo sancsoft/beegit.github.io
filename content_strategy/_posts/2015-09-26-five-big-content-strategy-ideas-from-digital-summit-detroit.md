@@ -23,7 +23,7 @@ This isn't just a good line, it's also the truth. When was the last time you cli
 
 Quinn dove into great details on how companies simply don't understand SEO -- often to their detriment. In fact, efforts to game Google and its smaller search engine competitors often put companies into the penalty box for years. But even common mistakes can confuse search engines and cause you to drop into that page-two dead zone. 
 
-![shareable.jpg](https://ucarecdn.com/016a6a72-70b9-40f1-9f64-89494a119b11/)
+![shareable.png](https://ucarecdn.com/75a5ef94-08ca-461b-8ab5-7b06c9ec0b9d/)
 
 From her experience at Vertical Measures, here are the 10 most common SEO mistakes companies make in their content: 
 

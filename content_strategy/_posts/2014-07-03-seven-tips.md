@@ -14,7 +14,7 @@ shortUrl: http://buff.ly/1Tr9G1g
 
 It's an interesting time in the content marketing world. Those of us who write for a living have won. Kind of. 
 
-After years of bugging bosses and colleagues about the role content plays in a good marketing strategy, people have started to understand its true value and now they want content galore. That's great. Now, about writing all that copy... 
+After years of bugging bosses and colleagues about the role content plays in a good marketing strategy, people have started to understand its true value and now they want content galore. That's great. Now, about writing all that copy.
 
 While most creators have a backlog of ideas, eventually those resources will be tapped. That's when it's time to reach out to colleagues and partners for product overviews, business details and customer wins. 
 

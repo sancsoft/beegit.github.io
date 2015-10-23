@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: 11 1/2 B2B blogs that will rock your face 
+title: 11½ B2B blogs that will rock your face 
 date:   2015-09-24 12:00:00
 teaser: Like a tourist destination, a blog destination must offer uniqueness, widespread appeal and a pinch of pizzazz. 
 image: https://s3.amazonaws.com/beegit-images/blog/headers/b2b-blogs-that-will-rock-your-face.jpg
@@ -26,7 +26,7 @@ To become the best, start by reading the best. The elite are as diverse as they 
 
 Editorial confession: A few of these bloggers are tools we use and a few others are Beegit customers. But their blogs still rock. Each blog listed below (in no particular order, by the way) comes with an example post that shows their stuff. Your next destination? B2B blog bliss. 
 
-![shareable.jpg](https://ucarecdn.com/21bc9fdd-cf4d-4bae-8311-cc5f94861aa0/)
+![shareable.png](https://ucarecdn.com/1fcd5455-3d1e-41c3-a729-2f475883e5fe/)
 
 ### <a href="https://baremetrics.com/blog" target="_blank">1. Baremetrics</a>
 <a href="https://twitter.com/Shpigford" target="_blank">Josh Pigford</a>, founder of Baremetrics, is great at putting together a compelling and transparent narrative. It helps that this blog is filled with business tips that impact your bottom line (and, it just so happens, they help you watch that bottom line with analytics for Stripe data). 

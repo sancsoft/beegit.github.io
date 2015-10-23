@@ -18,7 +18,7 @@ The Internet has provided us with so many things --- endless cat GIFs, interrupt
 
 But <a class="tweet-quote">overseeing remote writing teams has its complexities</a>. There are logistical challenges, including sourcing, managing and scaling the writing team that will create your content. So how do you build, manage and grow a distributed workforce?
 
-![shareable.jpg](https://ucarecdn.com/7d9be6d3-334b-42c4-bc17-122af0beab60/)
+![shareable.png](https://ucarecdn.com/72e47bd0-51f2-4f42-8b5b-20e55298b3d6/)
 
 ### Build the team 
 

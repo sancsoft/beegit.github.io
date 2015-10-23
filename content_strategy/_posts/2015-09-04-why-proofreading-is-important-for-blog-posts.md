@@ -20,7 +20,7 @@ The absence of proper proofreading practices can doom even the most well-intenti
 
 So why exactly is proofreading so essential, especially within the context of a blog post?
 
-![shareable.jpg](https://ucarecdn.com/bc7cc396-ed52-470e-9caa-e265d7aa7b56/)
+![shareable.png](https://ucarecdn.com/89c98f14-33b2-4160-8370-0ce3ac1cabfc/)
 
 ### Credibility: Our (Written) Word is Our Bond
 By their very nature, blogs tend to be informal and conversational. Their non-intimidating tone is part of their appeal. But in order to develop a following and consistent readership, a [blogging content marketing team](http://blog.beegit.com/content_strategy/2015/04/01/how-to-build-and-manage-distributed-writing-team/) must establish credibility with its audience. 
