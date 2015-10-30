@@ -2,6 +2,7 @@
 
 layout: post
 title: How to repurpose content like a pro
+keyword: repurposing content
 date:   2015-10-14 12:00:00
 teaser: If content is king, then long live the king.
 image: https://s3.amazonaws.com/beegit-images/blog/headers/how-to-repurpose-content-like-a-pro.png

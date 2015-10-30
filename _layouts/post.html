@@ -20,7 +20,7 @@ layout: default
                 <span>By <strong>{{ author.name }}</strong> on <strong> {{ page.date | date: "%b %-d, %Y"}}</strong></span>
             {% endif %}
             </div>
-          <img src="{{ page.image }}" class="img-responsive">
+          <img src="{{ page.image }}" title="{{page.keyword}}" alt="{{page.keyword}}" class="img-responsive">
           {% capture url %}{{ site.url }}{{ page.url }}{% endcapture %}
             {% if page.shortUrl != null %}
                 {% assign url = page.shortUrl %}

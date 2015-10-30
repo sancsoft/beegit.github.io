@@ -2,6 +2,7 @@
 
 layout: post
 title: 11½ B2B blogs that will rock your face 
+keyword: amazing B2B blogs
 date:   2015-09-24 12:00:00
 teaser: Like a tourist destination, a blog destination must offer uniqueness, widespread appeal and a pinch of pizzazz. 
 image: https://s3.amazonaws.com/beegit-images/blog/headers/b2b-blogs-that-will-rock-your-face.jpg

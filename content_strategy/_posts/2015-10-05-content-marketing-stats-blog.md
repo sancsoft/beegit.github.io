@@ -2,6 +2,7 @@
 
 layout: post
 title: 25 Content marketing stats that will blow your mind [Infographic]
+keyword: content marketing statistics
 date:   2015-10-05 12:00:00
 teaser: Did you know that B2B Marketers with a content strategy are nearly 300 percent more likely to be effective? Geek out on that and other content marketing stats. 
 image: https://s3.amazonaws.com/beegit-images/blog/headers/25-content-marketing-stats.jpg

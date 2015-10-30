@@ -2,6 +2,7 @@
 
 layout: post
 title: 7 Best practices for your business blog 
+keyword: business blog best practices
 date: 2015-09-17 12:00:00
 teaser: Ten years ago blogging was for tech gurus and travel enthusiasts. Today it's an essential for most businesses.
 image: https://s3.amazonaws.com/beegit-images/blog/headers/7-best-practices-for-your-business-blog.jpg

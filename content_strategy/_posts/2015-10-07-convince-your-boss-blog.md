@@ -2,6 +2,7 @@
 
 layout: post
 title: How to convince your boss to invest in content marketing
+keyword: convincing your boss to invest in content marketing
 date:   2015-10-07 12:00:00
 teaser: If you believe content marketing's the present and future, now's the time to reset your company's marketing trajectory.
 image: https://s3.amazonaws.com/beegit-images/blog/headers/how-to-convince-your-boss-to-invest-in-content-marketing.jpg

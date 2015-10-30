@@ -2,6 +2,7 @@
 
 layout: post
 title: Insert clever title here – the art of writing click-worthy blog headlines
+keyword: writing engaging blog headlines
 date: 2015-09-10 12:00:00
 teaser: A handful of headline writers throughout history have had it easy. A historical event, triumphant or tragic, rocks our world on their editorial watch and the ensuing...
 image: https://s3.amazonaws.com/beegit-images/blog/headers/click-worthy-headlines.jpg

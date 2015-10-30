@@ -2,6 +2,7 @@
 
 layout: post
 title: Better blogging through better images&#58; finding stock photos for your blog
+keyword: sourcing images for your blog
 date: 2015-10-22 12:00:00
 teaser: The application of the "picture's worth a thousand words" mantra is seemingly endless for your business blog.
 image: https://s3.amazonaws.com/beegit-images/blog/headers/better-blogging-through-better-images.jpg

@@ -6,7 +6,13 @@
       <h4 class="modal-title" id="myModalLabel">&nbsp;</h4>
     </div>
     <div class="modal-body text-center">
-      <h1>Get bi-weekly articles that will help you grow your business through content</h1>
+      {% if page.keyword  == null %}
+      <h1>Subscribe today!</h1>
+      <p>Get more amazing content like this delivered to your inbox twice a month. Unsubscribe any time.</p>
+      {% else %}
+      <h1>Want to learn more about <strong>{{page.keyword}}?</strong></h1> 
+      <p>Subscribe today and get more amazing content like this delivered to your inbox twice a month.</p>
+      {% endif %}
       <form class="form-inline" action='https://beegitbuzz.curated.co/email_subscribers' id='subscribe-form' method='post'>
         <div class="form-group">
           <div class="row">
@@ -19,7 +25,7 @@
           </div>
         </div>
       </form>
-      <p>Give it a try—it only takes a click to unsubscribe.</p>
+     <!--  <p>Give it a try—it only takes a click to unsubscribe.</p> -->
     </div>
     <div class="modal-footer">
       &nbsp;

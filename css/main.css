@@ -132,15 +132,23 @@ iframe {
   padding: 0 35px;
 }
 
-.modal-subscribe .modal-body p {
+/*.modal-subscribe .modal-body p {
   padding-top: 20px;
   color: #999;
-}
+}*/
 
 .modal-subscribe .modal-body h1 {
-  font-size: 24px;
-  line-height: 1.4em;
-  padding-bottom: 20px;
+  margin: 0;
+  font-size: 32px;
+  line-height: 32px;
+  padding-bottom: 15px;
+}
+
+.modal-subscribe .modal-body p {
+  font-size: 20px;
+  line-height: 22px;
+  padding-bottom: 25px;
+  color: #aaaaaa;
 }
 
 .modal-subscribe .modal-footer {
@@ -474,7 +482,7 @@ code {
 }
 
 .subscribe-content {
-  margin-top: 38vh; 
+  margin-top: 36vh; 
 /*  border: 1px solid red;*/
   color: #fff;
 }
@@ -482,12 +490,15 @@ code {
 .subscribe-content h1 {
   color: #fff;
   font-size: 48px;
+  margin-bottom: 15px;
 }
 
 .subscribe-content h3 {
   color: #fff;
-  font-size: 28px;
+  font-size: 24px;
   margin-bottom: 40px;
+  margin-top: 30px;
+  font-weight: 300;
 }
 
 .subscribe-content p {
@@ -856,7 +867,7 @@ code {
   background-color: #2a7abf;
   border: 0;
   text-align: center;
-  padding: 35px 0 40px;
+  padding: 45px 0 45px;
   margin: 20px auto;
 }
 
@@ -864,15 +875,19 @@ code {
   border-radius: 3px;
 }
 
-.post-content .panel h3 {
+.post-content .panel h1 {
   margin: 0;
-  padding-bottom: 20px;
+  font-size: 34px;
+  line-height: 34px;
+  padding-bottom: 15px;
+  margin-top: 0;
   color: #fff;
-  font-weight: 500;
 }
 
 .post-content .panel p {
-  padding-top: 20px;
+  font-size: 20px;
+  line-height: 22px;
+  padding-bottom: 25px;
   color: #fff;
 }
 
