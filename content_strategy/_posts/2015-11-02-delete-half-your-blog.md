@@ -39,7 +39,7 @@ Not all content stands the test of time. Whether or not we're willing to admit i
 
 It's entirely possible the future of content marketing will provide evidence that posts *should not* be removed from a blogger's archive. If and when this occurs, I will need to remove or rewrite this post (though all other blog posts will need to remain, based on this realization).
 
-<span><a class="tweet-quote"> Not all content stands the test of time</a></span>
+<span><a class="tweet-quote">Not all content stands the test of time</a></span>
 
 ### 2. Your Outdated Blog Post Can be Recycled
 
