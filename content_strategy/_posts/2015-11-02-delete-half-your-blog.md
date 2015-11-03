@@ -3,12 +3,12 @@
 layout: post
 title: Addition by subtraction&#58; when deleting half of your blog is smart
 keyword: maintaining your blog
-date: 2015-10-29 12:00:00
+date: 2015-11-02 12:00:00
 teaser: Erasing content can be a necessary evil pitted against the prideful content marketer within you
 image: https://s3.amazonaws.com/beegit-images/blog/headers/when-deleting-half-of-your-blog-is-smart.jpg
 author: matt_bixenstine
 comments: true
-shortUrl: http://buff.ly/1RqYzDQ
+shortUrl: http://buff.ly/1P6YGqp
 
 ---
 
