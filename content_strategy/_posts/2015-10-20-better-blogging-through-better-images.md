@@ -9,7 +9,7 @@ image: https://s3.amazonaws.com/beegit-images/blog/headers/better-blogging-throu
 author: matt_bixenstine
 comments: true
 shortUrl: http://buff.ly/1LIAaWL
-redirect_to: "/"
+redirect_to: "http://ngagecontent.com/2015/10/22/better-blogging-through-better-images/"
 
 ---
 
