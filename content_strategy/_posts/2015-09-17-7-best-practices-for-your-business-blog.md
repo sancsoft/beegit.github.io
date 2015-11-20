@@ -10,6 +10,7 @@ author: matt_bixenstine
 comments: true
 shortUrl: http://goo.gl/GsoGNI
 redirect_from: "/content_strategy/2015/09/17/7-Best-Practices-for-your-Business-Blog"
+redirect_to: "/"
 
 ---
 

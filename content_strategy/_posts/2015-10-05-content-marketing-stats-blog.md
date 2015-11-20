@@ -9,6 +9,7 @@ image: https://s3.amazonaws.com/beegit-images/blog/headers/25-content-marketing-
 author: matt_bixenstine
 comments: true
 shortUrl: http://buff.ly/1VzwgUu
+redirect_to: "/"
 
 ---
 

@@ -9,6 +9,7 @@ image: https://s3.amazonaws.com/beegit-images/blog/headers/better-blogging-throu
 author: matt_bixenstine
 comments: true
 shortUrl: http://buff.ly/1LIAaWL
+redirect_to: "/"
 
 ---
 

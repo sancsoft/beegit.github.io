@@ -8,6 +8,7 @@ image: https://s3.amazonaws.com/beegit-images/blog/headers/bixenstine-release.jp
 author: mike_cottrill
 comments: true
 shortUrl: http://buff.ly/1EEvhjK
+redirect_to: "/"
 
 ---
 

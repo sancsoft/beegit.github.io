@@ -9,6 +9,7 @@ image: https://s3.amazonaws.com/beegit-images/blog/headers/creating-content-that
 author: mike_cottrill
 comments: true
 shortUrl: http://buff.ly/1Ns0HN1
+redirect_to: "/"
 
 
 

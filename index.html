@@ -2,20 +2,22 @@
 layout: default
 ---
 {% for post in site.posts limit:1 %}
-<div class="container-fluid image-header" style="background-image: url('{{ post.image }}');">
-  <div class="row">
-    <div class="image-header-overlay">
-      <div class="container">
-        <div class="col-md-10 col-md-offset-1">
-          <h3>Latest Post</h3>
-          <div class="borderline"></div>
-          <h1 class="featured">{{post.title}}</h1>
-          <a href="{{ post.url }}" class="btn btn-warning btn-blog">READ POST</a>
+{% unless post.categories contains 'content_strategy' %}
+  <div class="container-fluid image-header" style="background-image: url('{{ post.image }}');">
+    <div class="row">
+      <div class="image-header-overlay">
+        <div class="container">
+          <div class="col-md-10 col-md-offset-1">
+            <h3>Latest Post</h3>
+            <div class="borderline"></div>
+            <h1 class="featured">{{post.title}}</h1>
+            <a href="{{ post.url }}" class="btn btn-warning btn-blog">READ POST</a>
+          </div>
         </div>
       </div>
     </div>
   </div>
-</div>
+  {% endunless %}
 {% endfor %}
 <div class="container">
   <div class="col-md-12">
@@ -27,7 +29,9 @@ layout: default
     <div class="posts">
         <div class="row">
           {% for post in site.posts offset:1 %}
-            {% include listpost.html p=post %}
+            {% unless post.categories contains 'content_strategy' %}
+              {% include listpost.html p=post %}
+            {% endunless %}
           {% endfor %}
         </div>
     </div>

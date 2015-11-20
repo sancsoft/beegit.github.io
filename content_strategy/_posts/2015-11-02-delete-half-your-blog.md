@@ -9,6 +9,7 @@ image: https://s3.amazonaws.com/beegit-images/blog/headers/when-deleting-half-of
 author: matt_bixenstine
 comments: true
 shortUrl: http://buff.ly/1P6YGqp
+redirect_to: "/"
 
 ---
 

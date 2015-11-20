@@ -9,6 +9,7 @@ image: https://s3.amazonaws.com/beegit-images/blog/headers/how-to-repurpose-cont
 author: matt_bixenstine
 comments: true
 shortUrl: http://buff.ly/1Lkkjxb
+redirect_to: "/"
 
 ---
 

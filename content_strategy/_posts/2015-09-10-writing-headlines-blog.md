@@ -10,6 +10,7 @@ author: matt_bixenstine
 comments: true
 redirect_from: "/content_strategy/2015/09/11/writing-headlines-blog/"
 shortUrl: http://buff.ly/1OksQF1
+redirect_to: "/"
 
 ---
 

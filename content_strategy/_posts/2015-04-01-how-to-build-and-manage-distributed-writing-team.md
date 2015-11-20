@@ -9,6 +9,7 @@ author: mike_cottrill
 comments: true
 redirect_from: "/agile_content/2015/04/01/how-to-build-and-manage-distributed-writing-team/"
 shortUrl: http://buff.ly/1G7MVpN
+redirect_to: "/"
 
 ---
 

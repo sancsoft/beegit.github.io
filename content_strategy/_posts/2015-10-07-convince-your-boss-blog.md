@@ -9,6 +9,7 @@ image: https://s3.amazonaws.com/beegit-images/blog/headers/how-to-convince-your-
 author: matt_bixenstine
 comments: true
 shortUrl: http://buff.ly/1VDyjMD
+redirect_to: "/"
 
 ---
 

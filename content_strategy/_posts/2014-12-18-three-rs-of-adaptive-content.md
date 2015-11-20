@@ -9,6 +9,7 @@ author: mike_cottrill
 comments: true
 redirect_from: "/agile_content/2014/12/18/three-rs-of-adaptive-content/"
 shortUrl: http://buff.ly/1Tr9IGg
+redirect_to: "/"
 
 ---
 

@@ -2,12 +2,13 @@
 
 layout: post
 title: New find and replace feature with expanded file search
-date: 2015-10-15 12:00:00
+date: 2015-11-15 12:00:00
 teaser: We've released a find and replace feature and upgraded existing search capabilities.
 image: https://s3.amazonaws.com/beegit-images/blog/headers/find-and-replace-release.jpg
 author: kris_ciccarello
 comments: true
 shortUrl: http://buff.ly/1OwoCf0
+redirect_from: "/platform/2015/10/15/find-replace-feature-and-expanded-search-capabilities/"
 
 ---
 

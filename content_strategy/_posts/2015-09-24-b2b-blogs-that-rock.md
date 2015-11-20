@@ -9,6 +9,7 @@ image: https://s3.amazonaws.com/beegit-images/blog/headers/b2b-blogs-that-will-r
 author: matt_bixenstine
 comments: true
 shortUrl: http://buff.ly/1gRAt8i
+redirect_to: "/"
 
 ---
  

@@ -8,6 +8,7 @@ image: https://s3.amazonaws.com/beegit-images/blog/headers/why-proofreading-is-i
 author: matt_bixenstine
 comments: true
 shortUrl: http://buff.ly/1JOriO6
+redirect_to: "/"
 
 ---
 

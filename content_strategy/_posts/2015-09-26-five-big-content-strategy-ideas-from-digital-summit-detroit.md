@@ -8,6 +8,7 @@ image: https://s3.amazonaws.com/beegit-images/blog/headers/digital-summit-detroi
 author: mike_cottrill
 comments: true
 shortUrl: http://buff.ly/1PJGkZv
+redirect_to: "/"
 
 ---
 Few things get the creative mind going like throwing several hundred digital experts and content writers into a tiny music hall for a few days and letting them talk shop. 

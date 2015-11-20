@@ -10,6 +10,7 @@ author: mike_cottrill
 comments: true
 redirect_from: "/agile_content/2015/03/12/how-to-audit-content/"
 shortUrl: http://buff.ly/1D3RH7v
+redirect_to: "/"
 
 ---
 

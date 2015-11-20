@@ -8,6 +8,7 @@ image: https://s3.amazonaws.com/beegit-images/blog/headers/cmworld-2015.jpg
 author: mike_cottrill
 comments: true
 shortUrl: http://buff.ly/1OsYe4n
+redirect_to: "/"
 
 ---
 
