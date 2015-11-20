@@ -10,6 +10,7 @@ author: mike_cottrill
 comments: true
 redirect_from: "/buzz/2014/07/03/seven-tips/"
 shortUrl: http://buff.ly/1Tr9G1g
+redirect_to: "/"
 
 ---
 
