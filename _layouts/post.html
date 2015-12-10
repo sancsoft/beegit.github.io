@@ -71,12 +71,17 @@ layout: default
     </div>
   </div>
   <div class="col-md-4 sidebar">
-    <div class="well well-inverse text-center">
-      <h4>Only 42 percent of content marketers consider the content they create to be effective.</h4>
-      <p>Are you telling compelling stories about your business? We can help.</p>
-      <img src="/assets/beegit.png" class="img-responsive">
-      <a href="https://beegit.com/content-marketing-services" class="btn btn-warning btn-lg btn-block">Learn More</a>
-    </div>
+    <div class="widget">
+			<h3 class="widget-title text-uppercase">Recent Posts</h3>
+			<ul class="recent">
+				{% for post in site.categories['platform'] limit:5 %}
+				   <li class="navigation">
+				   	<a href="{{ BASE_PATH }}{{ post.url }}"><img src="{{ post.image }}"></a>
+				   <a href="{{ BASE_PATH }}{{ post.url }}"  class="title">{{ post.title }}</a>
+				   </li>
+				{% endfor %}
+			</ul>
+		</div>
     <div class="well well-signup text-center">
       <h4>Beegit is a collaborative writing app for the web</h4>
       <p>Your team, calendar, communication and workflow — all in one place</p>

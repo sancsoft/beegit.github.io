@@ -12,33 +12,82 @@
   z-index:1051;
 }
 
-/* ConvertKit Form Styling*/
+/* Sidebar */
 /* ----------------------------------------------------------*/
 
-.ck_form {
-  background-image: none;
-  background-color: #d9edf7 !important;
-  border: 1px solid #c4dae5 !important;
+.widget ul {
+	margin-bottom: 0;
 }
 
-.ck_form_content, .ck_form_fields {
-  width: 100% !important;
-  padding: 5% !important;
+.sidebar .widget-title {
+	padding-bottom: 15px;
+	line-height: 1.3;
+	padding-top: 5px;
 }
 
-.ck_form_title {
-  margin-top: 10px !important;
-  text-align: center;
+.sidebar ul.recent {
+	margin-left: 0;
 }
 
-.ck_form .ck_subscribe_button {
-  margin-top: 0 !important;
+.sidebar .recent li {
+	list-style-type: none;
+	display: table;
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-top: 1px solid #eaedee;
+    padding-top: 20px;
 }
 
-.ck_form_fields {
-  padding: 45px !important;
+.sidebar .recent li:last-child {
+    border-bottom: 0;
+    padding-bottom: 5px;
+    margin-bottom: 0;
 }
 
+.sidebar .recent .title {
+	display: table-cell;
+    vertical-align: top;
+    padding: 0 0 0 15px;
+    font-weight: 400;
+    line-height: 1.2;
+    font-size: 1.5rem;
+    text-align: left;
+}
+
+.sidebar .recent a {
+	color: #333;
+}
+
+.sidebar .recent a:hover {
+	color: #2fb3b8;
+}
+
+.sidebar .recent img {
+	display: table-cell;
+    vertical-align: top;
+    max-width: 100px;
+}
+
+@media only screen and (max-width: 1140px){
+	.sidebar .recent img {
+    max-width: 90px;
+	}
+}
+
+
+@media only screen and (max-width: 960px){
+	.sidebar .recent img {
+    display: none;
+	}
+}
+
+@media only screen and (max-width: 768px){
+	.sidebar .recent img {
+    max-width: 120px;
+    display: inline-block;
+	}
+}
 
 /* Base */
 /* ----------------------------------------------------------*/
@@ -54,9 +103,9 @@ body {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
-h1, h2, h3, h4, h5, h6 { 
-  font-size: 100%; 
-  font-weight: 500; 
+h1, h2, h3, h4, h5, h6 {
+  font-size: 100%;
+  font-weight: 500;
   color: #444;
 }
 
@@ -64,16 +113,16 @@ hr {
   border-top: 1px solid #e8e8e8;
 }
 
-a { 
-  color: #2a7abf; text-decoration: none; 
+a {
+  color: #2a7abf; text-decoration: none;
 }
 
 a.active {
   color: #333;
 }
 
-a:hover { 
-  color: #333; text-decoration: none; 
+a:hover {
+  color: #333; text-decoration: none;
 }
 
 .navbar-inverse {
@@ -167,6 +216,16 @@ iframe {
   background-color: #f8f8f8;
   box-shadow: 0 0 5px 1px rgba(0, 0, 0, 0.05);
   border: 1px solid #e6e6e6;
+  margin-left: 9.444%;
+}
+
+.sidebar .widget {
+  /*border-radius: 3px;
+  box-shadow: none;
+  background-color: #f8f8f8;
+  box-shadow: 0 0 5px 1px rgba(0, 0, 0, 0.05);
+  border: 1px solid #e6e6e6;*/
+  /*padding: 45px 30px;*/
   margin-left: 9.444%;
 }
 
@@ -469,20 +528,20 @@ code {
 /* ----------------------------------------------------------*/
 
 .subscribe-header {
-  background: center top #3d4b5b; 
-  height: 100vh; 
-  background-size: cover; 
+  background: center top #3d4b5b;
+  height: 100vh;
+  background-size: cover;
   text-align: center;
 }
 
 .subscribe-header-overlay {
-  height: 100vh;  
+  height: 100vh;
   width: 100%;
   background-color: rgba(37, 43, 51, 0.77);
 }
 
 .subscribe-content {
-  margin-top: 36vh; 
+  margin-top: 36vh;
 /*  border: 1px solid red;*/
   color: #fff;
 }
@@ -512,9 +571,9 @@ code {
 
 
 .image-header-post {
-  background: center top #3d4b5b; 
-  height: 225px; 
-  background-size: cover; 
+  background: center top #3d4b5b;
+  height: 225px;
+  background-size: cover;
   text-align: center;
   -webkit-filter: blur(18px);
   -moz-filter: blur(18px);
@@ -525,14 +584,14 @@ code {
 }
 
 .image-header {
-  background: center top #3d4b5b; 
-  height: 545px; 
-  background-size: cover; 
+  background: center top #3d4b5b;
+  height: 545px;
+  background-size: cover;
   text-align: center;
 }
 
 .image-header-overlay {
-  height: 545px;  
+  height: 545px;
   width: 100%;
   background-color: rgba(37, 43, 51, 0.70);
 }
@@ -606,8 +665,8 @@ code {
   font-family: "Lucida Console", Monaco, monospace;
 }
 
-.posts { 
-  list-style-type: none; 
+.posts {
+  list-style-type: none;
   text-align: left;
   padding-top: 10px;
 }
@@ -617,7 +676,7 @@ code {
   height: auto;
 }
 
-.posts li { 
+.posts li {
   line-height: 1;
   margin-bottom: 40px;
   min-height: 470px !important;
@@ -680,7 +739,7 @@ code {
 /* Post styles */
 /* ----------------------------------------------------------*/
 
-.post-header { 
+.post-header {
   width: 100%;
   text-align: left;
   padding: 0 10px 20px;
@@ -692,11 +751,11 @@ code {
   margin-top: 40px !important;
  }
 
- .post-image-container { 
+ .post-image-container {
     background-size: cover;
     background-position: center top;
-    width: 100%; 
-    height: 170px; 
+    width: 100%;
+    height: 170px;
     overflow: hidden;
     margin: 0 auto;
     text-align: center;
@@ -709,7 +768,7 @@ code {
   margin-bottom: 25px;
 }
 
- h2.post-title { 
+ h2.post-title {
   width: 100%;
   text-align: center;
   padding: 20px 0 15px;
@@ -754,7 +813,7 @@ code {
   left: 0;
 }
 
- .post-header img { 
+ .post-header img {
   width: 100%;
   padding-top: 10px;
  }
@@ -808,11 +867,11 @@ code {
   letter-spacing: .2px;
 }
 
-.post-content { 
+.post-content {
   padding: 0 10px;
 }
 
-.post-content .panel a { 
+.post-content .panel a {
   text-transform: uppercase;
   margin-top: 20px;
 }
@@ -823,8 +882,8 @@ code {
   text-align: center;
 }
 
-.post-content > * { 
-  margin: 20px 0 20px; 
+.post-content > * {
+  margin: 20px 0 20px;
 }
 
 .post-content span .tweet-quote {
@@ -1090,14 +1149,14 @@ pre.rendered {
   }
 
   .subscribe-header {
-    background: center top #3d4b5b; 
-    height: 700px; 
-    background-size: cover; 
+    background: center top #3d4b5b;
+    height: 700px;
+    background-size: cover;
     text-align: center;
   }
 
   .subscribe-content {
-    margin-top: 200px; 
+    margin-top: 200px;
     color: #fff;
   }
 }
@@ -1125,7 +1184,7 @@ pre.rendered {
   }
 
   .image-header-post {
-    height: 185px; 
+    height: 185px;
   }
 
 
@@ -1183,7 +1242,7 @@ pre.rendered {
 
 @media screen and (max-width: 990px) {
 
-  .posts li { 
+  .posts li {
     min-height: initial !important;
   }
 
@@ -1193,7 +1252,7 @@ pre.rendered {
 
 
   .image-header-post {
-    height: 165px; 
+    height: 165px;
   }
 
   .ck_form {
@@ -1294,14 +1353,14 @@ pre.rendered {
   }
 
   .subscribe-header {
-    background: center top #3d4b5b; 
-    height: 540px; 
-    background-size: cover; 
+    background: center top #3d4b5b;
+    height: 540px;
+    background-size: cover;
     text-align: center;
   }
 
   .subscribe-content {
-    margin-top: 120px; 
+    margin-top: 120px;
   /*  border: 1px solid red;*/
     color: #fff;
   }
