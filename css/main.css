@@ -45,7 +45,7 @@
     margin-bottom: 0;
 }
 
-.sidebar .recent .title {
+.sidebar .title {
 	display: table-cell;
     vertical-align: top;
     padding: 0 0 0 15px;
@@ -75,12 +75,6 @@
 	}
 }
 
-
-@media only screen and (max-width: 960px){
-	.sidebar .recent img {
-    display: none;
-	}
-}
 
 @media only screen and (max-width: 768px){
 	.sidebar .recent img {
@@ -208,7 +202,6 @@ iframe {
   margin-top: 50px;
 }
 
-
 .sidebar .well {
   border-radius: 3px;
   box-shadow: none;
@@ -220,43 +213,50 @@ iframe {
 }
 
 .sidebar .widget {
-  /*border-radius: 3px;
-  box-shadow: none;
-  background-color: #f8f8f8;
-  box-shadow: 0 0 5px 1px rgba(0, 0, 0, 0.05);
-  border: 1px solid #e6e6e6;*/
-  /*padding: 45px 30px;*/
   margin-left: 9.444%;
 }
 
-.sidebar .well-signup {
-  background-image: url('https://beegitimages.global.ssl.fastly.net/header-index.jpg');
+.well-signup {
+  background-image: url('https://s3.amazonaws.com/beegit-images/blog/blog-images/header-index.jpg');
   background-size: cover;
   margin-top: 40px;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 
-.sidebar .well-signup .btn {
+.well-signup .btn {
   margin-top: 30px;
+  margin-bottom: 10px;
 }
 
-.sidebar .well-signup h4 {
+.well-signup h4 {
   color: #fff;
 }
 
-.sidebar .well img {
-  margin: 18px auto;
-  height: 82px;
-  width: 82px;
-}
-
-.sidebar .well h4 {
-  font-weight: 500;
-  font-size: 20px;
-  margin-top: 0;
-}
-
-.sidebar .well p {
+.well-signup p {
   color: #a5a9ae;
+  font-weight: 400;
+}
+
+.sidebar .well-signup h4 {
+  font-size: 20px;
+}
+
+.post-content .well-signup .btn {
+  margin-bottom: 30px;
+}
+
+.post-content .well-signup h4 {
+  font-size: 32px;
+}
+
+.post-content .well-signup p {
+  font-size: 18px;
+}
+
+.post-content .well-signup {
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 
 table {
@@ -1187,6 +1187,9 @@ pre.rendered {
     height: 185px;
   }
 
+  .sidebar .widget {
+    margin-left: 0;
+  }
 
   .sidebar .well {
     margin-left: 0;

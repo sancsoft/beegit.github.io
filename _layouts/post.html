@@ -72,7 +72,7 @@ layout: default
   </div>
   <div class="col-md-4 sidebar">
     <div class="widget">
-			<h3 class="widget-title text-uppercase">Recent Posts</h3>
+			<h3 class="widget-title text-uppercase">Recent Platform Updates</h3>
 			<ul class="recent">
 				{% for post in site.categories['platform'] limit:5 %}
 				   <li class="navigation">
@@ -82,10 +82,6 @@ layout: default
 				{% endfor %}
 			</ul>
 		</div>
-    <div class="well well-signup text-center">
-      <h4>Beegit is a collaborative writing app for the web</h4>
-      <p>Your team, calendar, communication and workflow — all in one place</p>
-      <a href="https://beegit.com/signup" class="btn btn-primary btn-lg btn-block">Sign Up Free</a>
-    </div>
+    {% include signup-block.html %}
   </div>
 </div>
