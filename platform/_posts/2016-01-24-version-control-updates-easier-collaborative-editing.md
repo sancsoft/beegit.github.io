@@ -32,7 +32,7 @@ Plus, there's a 1-click "restore this version" button that will immediately rest
 
 You can commit new versions of a file any time by using the "commit changes" option in the new "file actions" menu (the three vertical dots next to the filename and due date). Additionally, new versions will be committed for you *automatically* whenever the file status is changed.
 
-![commit-changes](https://ucarecdn.com/e597ee20-3714-45d8-a5b9-55d6707b3166/)
+![commit-changes](https://ucarecdn.com/837a4a26-70bc-4516-9785-5e52aff48908/)
 
 If you're committing changes manually, enter a note describing your changes the same as before and it will be used as a reference to that version. The "commit changes" screen also has a handy "view changes" tab so that you can see exactly the changes you're committing.
 
