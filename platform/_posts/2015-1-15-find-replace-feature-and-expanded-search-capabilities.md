@@ -24,6 +24,8 @@ You can use the new find and replace feature in the file editor to search within
 
 For a while now, [you've been able to search across all projects](http://blog.beegit.com/platform/2015/08/04/improved-collaboration/) that you have access to by searching for the project name. That search has now been upgraded to search across all files that you have access to as well (given a search query, it'll try to find both projects and files that match). Now it is easier than ever to use the search feature to jump between files in different projects without having to use the file navigation to open a file. For now, this search will query against all filenames in projects that you can access (stay tuned for more on this later if you want to be able to search file content as well 😉).
 
+**_Update: As of February 5, 2016, file searches now search actual file content as well as filenames._**
+
 ![search-files-screenshot.jpg](https://ucarecdn.com/fac4c272-d6f0-40b5-87e2-0ea75d335a55/)
 
 ### Start finding, replacing and searching for files!
