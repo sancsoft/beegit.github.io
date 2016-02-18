@@ -166,7 +166,7 @@ iframe {
 }
 
 .well-signup {
-  background-image: url('https://s3.amazonaws.com/beegit-images/blog/blog-images/header-index-2.jpg');
+  background-image: url('../assets/well-signup-bg.jpg');
   background-size: cover;
   margin-top: 40px;
   padding-top: 30px;
