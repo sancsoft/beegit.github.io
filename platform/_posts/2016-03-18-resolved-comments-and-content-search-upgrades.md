@@ -7,13 +7,13 @@ teaser: Big updates enable searching across all of your content and also provide
 image: https://s3.amazonaws.com/beegit-images/blog/headers/resolved-comments-and-content-search-upgrades.jpg
 author: kris_ciccarello
 comments: true
-shortUrl: 
+shortUrl: http://buff.ly/1Zlj6hi
 
 ---
 
-### Closing out the comment feedback cycle
-
 Native support for [inline comments](http://blog.beegit.com/platform/2014/10/07/inline-comments-release/) is a critical component of collaborating during a content production cycle. It has been one of the most heavily-used features of [Beegit](https://beegit.com/) since it was introduced, and we've recently released improvements to the commenting system that bring support for viewing the comments you and your team have resolved.
+
+### Closing out the comment feedback cycle
 
 For each of your files, you can now view a list of all comments that have been resolved (along with their full replies thread), who resolved them and when, and what selected text the comment was attached to.
 
