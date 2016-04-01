@@ -74,7 +74,7 @@ layout: default
           {% unless post.categories contains 'content_strategy' %}
           <ul class="col-md-4">
               <li>
-                <a class="post-link" href="{{ include.p.url | prepend: site.baseurl }}"></a>
+                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"></a>
                 <div class="post-image-container" style="background-image: url('{{ post.image }}')">
                 </div>
                 <div class="post-content-container">
