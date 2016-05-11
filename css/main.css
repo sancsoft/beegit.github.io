@@ -31,7 +31,6 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-size: 100%;
   font-weight: 500;
   color: #444;
 }
@@ -107,7 +106,7 @@ strong {
 
 /* Utility */
 
-.post-content p, .post-content ul, .post-content ol {
+p, .post-content p, .post-content ul, .post-content ol {
   color: #333;
   font-weight: 300;
   font-size: 18px;
