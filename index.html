@@ -2,7 +2,6 @@
 layout: default
 ---
 {% for post in site.posts limit:1 %}
-{% unless post.categories contains 'content_strategy' %}
   <div class="container-fluid image-header" style="background-image: url('{{ post.image }}');">
     <div class="row">
       <div class="image-header-overlay">
@@ -15,7 +14,6 @@ layout: default
       </div>
     </div>
   </div>
-  {% endunless %}
 {% endfor %}
 <div class="container">
   <div class="col-md-12">
