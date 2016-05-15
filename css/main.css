@@ -643,7 +643,7 @@ code {
 .posts li {
   line-height: 1;
   margin-bottom: 40px;
-  min-height: 440px !important;
+  min-height: 490px !important;
   box-shadow: 0 0 5px 1px rgba(0, 0, 0, 0.05);
   border: 1px solid #eeeeee;
   border-radius: 3px;
