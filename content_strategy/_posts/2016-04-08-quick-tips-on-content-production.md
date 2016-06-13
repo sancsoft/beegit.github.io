@@ -20,7 +20,7 @@ The screeching halt of the content production process can be heard across the en
 
 Stop. Don't jump on that boat just yet.  You can put a repeatable content plan in place that helps you cut out the most terrifying loops of the revision cycle. It won't be easy, but these five steps will make it *easier*.
 
-**Note:** This blog was created from our recent presentation on content planning and production at a content strategy event. If you want to see the full presentation, [check it out here](https://beegit.wistia.com/medias/xf5omc6d58).
+**Note:** This blog was created from our recent presentation on content planning and production at a content strategy event. If you want to see the full presentation, [check it out here](/get-5-quick-tips-form/).
 
 ### 1. Identify and clearly define team roles
 You don't always have complete control over the team involved in a content project, but you can control how the team is put into action.  Whenever you are working on a content project, have a kick-off meeting where you convey roles and expectations for everyone involved.

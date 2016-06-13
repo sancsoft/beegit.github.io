@@ -9,7 +9,7 @@
       <nav class="navbar navbar-inverse navbar-fixed-top site-header" role="navigation">
         <div class="container">
           <div>
-            <div class="col-sm-8 col-sm-offset-2">
+            <div class="col-sm-10 col-sm-offset-1">
               <div class="navbar-header">
                 <a class="navbar-brand" href="/">
                   <img alt="Brand" src="/assets/beegitBlogLogo.gif">
@@ -28,27 +28,25 @@
             </div>
       </nav>
     <div class="container-fluid">
-      <div class="row">
         <div class="container">
-          <div class="col-sm-8 col-sm-offset-2" style="margin-top: 120px;">
-          {{ content }}
+          <div class="lp-content">
+            <div class="col-sm-10 col-sm-offset-1" style="margin-top: 120px;">
+            {{ content }}
+          </div>
           </div>
         </div>
-      </div>
     </div>
     <div class="footer">
-      <div class="container">
-        <div class="wrapper">
-          <div class="col-sm-8 col-sm-offset-2 footer-column">
-            <h3>About Beegit</h3>
-              <p>Team-based online writing software that removes barriers across your organization to create, edit and approve web content.</p>
-          </div>
-        <div class="col-sm-8 col-sm-offset-2">
-          <hr>
-            <p class="copyright">&copy; Beegit 2014 - {{ site.time | date: '%Y' }}. All rights reserved.</p>
-          </div>
+        <div class="container">
+            <div class="col-sm-10 col-sm-offset-1 footer-column">
+              <h3>About Beegit</h3>
+                <p>Team-based online writing software that removes barriers across your organization to create, edit and approve web content.</p>
+            </div>
+          <div class="col-sm-10 col-sm-offset-1">
+            <hr>
+              <p class="copyright">&copy; Beegit 2014 - {{ site.time | date: '%Y' }}. All rights reserved.</p>
+            </div>
       </div>
     </div>
-
   </body>
 </html>
