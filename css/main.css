@@ -1389,6 +1389,8 @@ form #_form_1_submit {
   background-color: #e49436 !important;
   border-color: #e18820 !important;
   margin-top: 20px;
+  margin-bottom: 20px;
+  width: 100%;
 }
 
 select {
