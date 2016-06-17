@@ -70,3 +70,7 @@ Let's say the content plan is working and your early efforts to give everyone a 
 Next, to avoid the last big revision meltdown, get buy-in from subject matter experts and final approvers early in the game. Don't put all your wonderful prose together on day one. Tie together your big thoughts into small chunks of content or even just bullet points. Get approval on these core thoughts and then you're really ready to run.
 
 Again, if you have templates that fill up part of the content, agreement on what you are expecting from others and approval on the core ideas, you're 80 percent of the way there. Now, go craft your narrative or add sizzle to that content in peace, knowing that you won't have to start all over again on a new content revision loop.
+
+<a href="http://blog.beegit.com/get-5-quick-tips-form/" target="_blank"><img src="/assets/5-QUICK-TIPS-CTA_Alt.png"></a>
+
+<hr>
