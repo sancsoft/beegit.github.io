@@ -4,7 +4,7 @@ mike_cottrill:
     email: mike@beegit.com
     web: https://twitter.com/mrcottrill
     gravatar: http://www.gravatar.com/avatar/bfbf8a5493bb3666498f27760928707b.jpg
-    details: Co-founder and CEO of Beegit. Content marketer and recovering journalist. All blog posts planned and made fresh in Cleveland, Ohio.  
+    details: Co-founder and CEO of Beegit. Content marketer and recovering journalist. All blog posts planned and made fresh in Cleveland, Ohio.
 jd_eaton:
     name: JD Eaton
     email: jd@beegit.com
@@ -27,5 +27,11 @@ matt_bixenstine:
     name: Matt Bixenstine
     email: matt@beegit.com
     web: https://twitter.com/MattCBix
-    gravatar: https://secure.gravatar.com/avatar/235621e55c01b2d462a28bd29eddd746 
+    gravatar: https://secure.gravatar.com/avatar/235621e55c01b2d462a28bd29eddd746
     details: Editorial Manager of Beegit. Content writer and eco-friendly Millennial. All blog posts planned and made fresh in Cleveland, Ohio.
+ad_rank_media:
+    name: Ad-Rank Media
+    email: jd@neegit.com
+    web: https://www.ad-rank.com/
+    gravatar: https://pbs.twimg.com/profile_images/3785190530/bcb4fb47a5870b79d8fbac3bb94ebb34.jpeg
+    details: Ad-Rank Media is a content marketing agency based in London and Norwich.
