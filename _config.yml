@@ -12,3 +12,5 @@ kramdown:
 permalink: pretty
 
 gems:
+ - jekyll-redirect-from
+ - jekyll-redirect-to
